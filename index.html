@@ -1,7 +1,7 @@
 ---
 layout: default
 overtitle: SQ Design Labs
-title: UX. UI. DataViz.
+title: UX • UI • DataViz
 description: We build business applications and data visualization tools that tell stories, spark curiosity, and help people solve problems and make decisions.
 featured_image: /images/social.jpg
 ---
@@ -14,10 +14,10 @@ featured_image: /images/social.jpg
 
 	<section class="hero">
 		<div class="wrap grid">
-<!-- 			<div class="title">
-				<h2>{{ page.title }}</h2>
+			<div class="title">
+				<h6>{{ page.title }}</h6>
 			</div>
- -->
+
 			<h3 class="intro">
 				{{ page.description }}
 				<a href="#" class="hero__cta button--fill contact-trigger js-contact">Get In Touch</a>
@@ -25,5 +25,52 @@ featured_image: /images/social.jpg
 		</div>
 	</section>
 
+	<section class="recent-posts">
+		<div class="wrap grid">
+
+			<div class="recent-posts__list grid">
+				{% for post in site.posts limit: 3 %}
+				{% include component__post-preview.html %}
+				{% endfor %}
+			</div>
+
+			<a href="{{ '/blog' | relative_url }}" class="action-bottom button--text--accent --right">All Posts</a>
+		</div>
+	</section>
+
+
+	<section class="listing">
+		<div class="wrap">
+
+			{% for project in site.projects reversed %}
+
+			{% if project.accent_color %}{% capture accent_color %}{{ project.accent_color }}{% endcapture %}{% endif %}
+
+			<article class="project__preview">
+				<h3 class="project__title"><a href="{{ project.url | relative_url }}" style="--accent: {{ accent_color }}">{{ project.title }}</a></h3>
+
+				<div class="project__images owl-carousel" style="--accent: {{ accent_color }}">
+					{% for image in project.gallery_images %}
+					<a href="{{ project.url | relative_url }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
+					{% endfor %}
+				</div>
+
+				<div class="project__content grid" style="border-color: {{ accent_color }}">
+					<p class="project__subtitle subtitle--light">{{ project.subtitle }}</p>
+					<p class="project__description --small">
+						{{ project.description }}
+						<a href="{{ project.url | relative_url }}" class="project__link button--text --right"
+							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">View Case Study</a>
+					</p>
+				</div>
+			</article>
+
+			{% endfor %}
+		</div>
+	</section>
+
+
+
+	{% include section__about.html %}
 
 </div>

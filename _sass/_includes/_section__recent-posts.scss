@@ -49,7 +49,7 @@
     }
 
     .post__image {
-      height: 180px;
+      height: 360px;
     }
 
     .action-bottom {
@@ -59,7 +59,7 @@
 
   @include mq(tabletl) {
     .post__image {
-      height: 250px;
+      height: 360px;
     }
   }
 }
