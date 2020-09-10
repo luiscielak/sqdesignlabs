@@ -40,7 +40,6 @@
 
     @include mq(laptop) {
       font-size: $sitetitle-small;
-
       line-height: 2;
     }
 
