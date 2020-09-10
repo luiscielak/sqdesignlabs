@@ -22,7 +22,7 @@ contact_settings:
   email_address: ''
   form_action: 'https://formspree.io/mdowqyqo'
   confirmation_url: '/thanks'
-  email_subject: 'SQDL: formspree'
+  email_subject: 'SQDL Contact Form'
   send_button_text: 'Get In Touch'
 
 social_settings:
