@@ -23,14 +23,24 @@
     font-weight: $sitetitle-weight;
     letter-spacing: $sitetitle-spacing;
     line-height: 1;
+    padding-bottom: 1rem;
     color: $text-dark-color;
+    background-image: url("/images/divbar-01.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: -6px;
+    background-position-y: 100%;
+
+
 
     @include mq(tabletp) {
       font-size: $sitetitle-small;
+      padding-bottom: 0.5rem;
     }
 
     @include mq(laptop) {
       font-size: $sitetitle-small;
+
       line-height: 2;
     }
 
