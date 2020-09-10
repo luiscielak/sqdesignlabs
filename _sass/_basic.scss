@@ -174,7 +174,7 @@ textarea {
   border-bottom: 1px solid $border-color;
   @extend p;
 	padding: 12px 0 16px;
-	
+
 	&:focus {
 		border-bottom-color: $text-dark-color;
 	}
@@ -187,11 +187,11 @@ textarea {
 		color: $text-light-color;
 		opacity: 1;
 	}
-	
+
 	&:-ms-input-placeholder {
 		color: $text-light-color;
 	}
-	
+
 	&::-ms-input-placeholder {
 		color: $text-light-color;
 	}

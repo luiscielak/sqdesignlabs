@@ -19,7 +19,7 @@ post_settings:
   grid_spacing: 10
 
 contact_settings:
-  email_address: ''
+  email_address: 'luis.cielak@hey.com'
   form_action: 'https://formspree.io/mdowqyqo'
   confirmation_url: '/thanks'
   email_subject: 'SQDL Contact Form'
