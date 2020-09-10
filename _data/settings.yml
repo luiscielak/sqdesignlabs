@@ -8,10 +8,14 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Home'
       url: '/'
-    - title: 'Data Art'
-      url: '/data-art/'
+    - title: 'UX'
+      url: '/ux/'
+    - title: 'UI'
+      url: '/ui/'
+    - title: 'DataViz'
+      url: '/dataviz/'
 
 footer_settings:
   logo_image:
