@@ -20,10 +20,17 @@ h6,
   font-family: $title-font;
   color: $text-dark-color;
 }
-.intro {
+.tagline {
   font-family: $body-font;
   text-align: center;
   font-weight: 400;
+  font-size: $h2-size-small;
+  line-height: $h2-lineheight-small;
+
+  @include mq(tabletp) {
+    font-size: $h2-size;
+    line-height: $h2-lineheight;
+  }
 }
 
 h1,

@@ -27,6 +27,11 @@
 		max-width: 340px;
 	}
 
+	.tagline {
+    padding-left: 0;
+    padding-right: 0;
+	}
+
 	.hero__cta {
 		position: absolute;
 		left: 0;
@@ -51,18 +56,25 @@
 			max-width: 458px;
 		}
 
+		.tagline {
+			padding-left: 8rem;
+			padding-right: 8rem;
+		}
+
+
 		.hero__cta {
 			display: none;
 		}
 	}
+
 }
 
 .hero__background {
 	display: block;
 	position: absolute;
-	top: 0px;
+	top: 15%;
 	left: 50%;
-	transform: translateX(-50%);
+	transform: translateX(-60%);
 	z-index: -1;
 	max-width: 190%;
 	display: none;
