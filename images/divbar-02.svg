@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="16px" viewBox="0 0 80 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>divbar-02</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home" transform="translate(-689.000000, -2009.000000)" fill="#792877">
+            <g id="divbar-02" transform="translate(689.000000, 2009.000000)">
+                <path d="M6,0 L10,0 C13.3137085,-6.08718376e-16 16,2.6862915 16,6 L16,10 C16,13.3137085 13.3137085,16 10,16 L6,16 C2.6862915,16 4.05812251e-16,13.3137085 0,10 L0,6 C-4.05812251e-16,2.6862915 2.6862915,6.08718376e-16 6,0 Z" id="Rectangle-Copy-2"></path>
+                <path d="M38,0 L42,0 C45.3137085,-6.08718376e-16 48,2.6862915 48,6 L48,10 C48,13.3137085 45.3137085,16 42,16 L38,16 C34.6862915,16 32,13.3137085 32,10 L32,6 C32,2.6862915 34.6862915,6.08718376e-16 38,0 Z" id="Rectangle-Copy-3"></path>
+                <path d="M70,0 L74,0 C77.3137085,-6.08718376e-16 80,2.6862915 80,6 L80,10 C80,13.3137085 77.3137085,16 74,16 L70,16 C66.6862915,16 64,13.3137085 64,10 L64,6 C64,2.6862915 66.6862915,6.08718376e-16 70,0 Z" id="Rectangle-Copy-4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

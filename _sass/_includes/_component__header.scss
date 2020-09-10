@@ -26,15 +26,16 @@
     color: $text-dark-color;
 
     @include mq(tabletp) {
-      font-size: $sitetitle-medium;
+      font-size: $sitetitle-small;
     }
 
     @include mq(laptop) {
-      font-size: $sitetitle-large;
+      font-size: $sitetitle-small;
+      line-height: 2;
     }
 
     &:hover {
-      color: $accent-color;
+      color: $text-dark-color;
     }
   }
 
@@ -197,7 +198,7 @@
 
     .menu__list__item {
       margin-bottom: 0px;
-      
+
       &:not(:first-child) {
         margin-left: 50px;
       }
