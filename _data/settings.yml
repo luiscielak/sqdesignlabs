@@ -6,16 +6,6 @@ header_settings:
   logo_image:
   logo_width: 100
 
-menu_settings:
-  menu_items:
-    - title: 'Home'
-      url: '/'
-    - title: 'UX'
-      url: '/ux/'
-    - title: 'UI'
-      url: '/ui/'
-    - title: 'DataViz'
-      url: '/dataviz/'
 
 footer_settings:
   logo_image:
