@@ -71,9 +71,9 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Rubik:400,500,700|Ubuntu+Mono:400,700" rel="stylesheet">'
-  title_font: 'Rubik, sans-serif'
-  body_font: '"Ubuntu Mono", sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&family=EB+Garamond:wght@400;500;600&display=swap" rel="stylesheet">'
+  title_font: 'Comfortaa, sans-serif'
+  body_font: '"EB Garamond", serif'
   regular_weight: 400
   bold_weight: 700
   site_title:
