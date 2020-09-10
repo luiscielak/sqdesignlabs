@@ -10,14 +10,14 @@
 .button {
   &--text {
     font-family: $title-font;
-    line-height: 18px;
     display: inline-block;
-    font-size: 13px;
+    // font-size: 66px;
     color: $text-dark-color;
     font-weight: $button-weight;
     letter-spacing: $button-spacing;
-    text-transform: uppercase;
+    // text-transform: uppercase;
     cursor: pointer;
+    font-weight: 600;
 
     &.--right {
       --color-var: #{$text-dark-color};
@@ -75,12 +75,17 @@
     }
   }
 
+  &--large {
+    font-size: 38px;
+  }
+
+
   &--fill {
     @extend .button--text;
     color: white;
     background-color: $accent-color;
     padding: 13px 20px 14px;
-    border-radius: 40px;
+    border-radius: 80px;
 
     &:hover {
       color: white;
