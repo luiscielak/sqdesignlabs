@@ -30,7 +30,7 @@
   }
 
   @include mq(tabletp) {
-    padding: 120px 0 110px;
+    padding: 0 0 110px;
 
     .recent-posts__header {
       display: grid;

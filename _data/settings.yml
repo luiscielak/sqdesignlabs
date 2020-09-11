@@ -66,8 +66,8 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&family=EB+Garamond:wght@400;500;600&display=swap" rel="stylesheet">'
-  title_font: 'Comfortaa, sans-serif'
-  body_font: '"EB Garamond", serif'
+  title_font: '"EB Garamond", serif'
+  body_font:  'Comfortaa, sans-serif'
   regular_weight: 400
   bold_weight: 700
   site_title:
