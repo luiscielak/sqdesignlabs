@@ -50,11 +50,11 @@
 
   .gallery__item__image {
 	}
-	
+
 	.owl-dots {
 		margin-top: 12px;
 		text-align: center;
-	
+
 		.owl-dot {
 			width: 24px;
 			height: 24px;
@@ -63,7 +63,7 @@
 			cursor: pointer;
 			@include transition(all 0.4s cubic-bezier(0.65, 0.05, 0.36, 1) 0s);
 			outline: none;
-	
+
 			&:after {
 				content: "";
 				display: block;
@@ -73,7 +73,7 @@
 				border-radius: 8px;
         @include transition(all 0.4s cubic-bezier(0.65, 0.05, 0.36, 1) 0s);
 			}
-	
+
 			&.active {
         width: 48px;
 
@@ -105,7 +105,8 @@
 
   .gallery__item__link {
     display: block;
-    cursor: zoom-in;
+    cursor: default;
+    // cursor: zoom-in;
   }
 
   &[data-columns="3"] {
