@@ -17,11 +17,10 @@ h5,
 h6,
 .h6,
 .subtitle {
-  // font-family: $title-font;
   color: $text-dark-color;
 }
 .tagline {
-  // font-family: $body-font;
+  font-family: $title-font;
   text-align: center;
   font-weight: 400;
   font-size: $h2-size-small;
@@ -53,6 +52,7 @@ h2,
   letter-spacing: $h2-spacing-small;
   line-height: $h2-lineheight-small;
   font-weight: $h2-weight;
+  font-family: $title-font;
 
   @include mq(tabletp) {
     font-size: $h2-size;

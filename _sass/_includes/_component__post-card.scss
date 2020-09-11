@@ -26,10 +26,16 @@
 
   .post__title {
     text-align: center;
+    font-family: $title-font;
+    padding-bottom: 0.5rem;
   }
 
   .post__date {
     margin-bottom: 6px;
+  }
+
+  .post__intro {
+    font-family: $body-font;
   }
 
   @include mq("460px") {
