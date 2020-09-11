@@ -7,6 +7,7 @@
 .post__card {
   transition: all 120ms;
   box-sizing: content-box;
+  padding: 8px 4px;
 
   &:hover {
     transform: translateY(-4px);

@@ -47,15 +47,15 @@
       margin: 8px 0 0 -4px;
     }
 	}
-	
+
 
   @include mq(tabletp) {
     margin-bottom: 160px;
-    
+
     hr {
       margin-bottom: 120px;
     }
-		
+
     .wrap {
       grid-template-columns: 1fr 1fr;
     }
@@ -64,7 +64,7 @@
       width: 100%;
       margin-left: 0;
 		}
-		
+
 		.about__content {
 			margin-top: 64px;
 

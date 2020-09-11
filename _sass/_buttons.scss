@@ -11,11 +11,9 @@
   &--text {
     font-family: $body-font;
     display: inline-block;
-    // font-size: 66px;
     color: $text-dark-color;
     font-weight: $button-weight;
     letter-spacing: $button-spacing;
-    // text-transform: uppercase;
     cursor: pointer;
     font-weight: 600;
 
@@ -77,6 +75,9 @@
 
   &--large {
     font-size: 24px;
+    min-width: 300px;
+    line-height: 3;
+    font-weight: 300;
   }
 
 
@@ -97,6 +98,25 @@
     }
   }
 
+  &--outline {
+    @extend .button--text;
+    color: $accent-color;
+    background-color: white;
+    border: 2px solid $accent-color;
+    padding: 13px 20px 14px;
+    border-radius: 80px;
+
+    &:hover {
+      color: white;
+      background-color: darken($color: $accent-color, $amount: 5);
+    }
+
+    &:active {
+      transform: scale(0.98);
+    }
+  }
+
+
   &--close-modal {
     background: url($baseurl + "/images/icons/arrow-cross-accent.svg") transparentize($accent-color, 0.92) center center no-repeat;
     width: 40px;
@@ -113,6 +133,14 @@
   }
 
   @include mq(tabletp) {
+
+    &--large {
+      // font-size: 24px;
+      min-width: 500px;
+      // line-height: 3;
+      // font-weight: 300;
+    }
+
     &--text {
       font-size: 24px;
     }

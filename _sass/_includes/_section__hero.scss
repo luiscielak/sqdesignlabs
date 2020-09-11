@@ -7,7 +7,7 @@
 
 .hero {
 	position: relative;
-	padding: 40px 0 160px;
+	padding: 40px 0 100px;
 
 	.wrap {
 		grid-gap: 0;
@@ -36,10 +36,12 @@
 	.hero__cta {
 		text-align: center;
 		margin-top: 2rem;
+		margin-bottom: 2rem;
+		display: block;
 	}
 
 	@include mq(tabletp) {
-		padding: 40px 0 180px;
+		padding: 40px 0 120px;
 
 		.wrap {
 			grid-template-columns: 1fr 1fr;
@@ -63,7 +65,7 @@
 
 
 		.hero__cta {
-			// display: none;
+			display: none;
 		}
 	}
 
