@@ -94,6 +94,9 @@ h5,
   font-weight: $h5-weight;
   line-height: $h5-lineheight;
   letter-spacing: $h5-spacing;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 3px;
 
   @include mq(tabletp) {
     font-size: $h5-medium;

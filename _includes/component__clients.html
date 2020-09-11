@@ -1,0 +1,23 @@
+<section class="clients">
+  <div class="wrap">
+    <div class="clients__wrap">
+      <header class="clients__header">
+        <h5 class="title">Previous Clients</h5>
+      </header>
+
+      {% include post-components/gallery.html
+        columns = 6
+        full_width = true
+        images = "
+          /images/clients/logo-jpmc.png,
+          /images/clients/logo-usagov.png,
+          /images/clients/logo-vanguard.png,
+          /images/clients/logo-celgene.png,
+          /images/clients/logo-westat.png,
+          /images/clients/logo-elsevier.png
+        "
+        %}
+
+    </div>
+  </div>
+</section>
