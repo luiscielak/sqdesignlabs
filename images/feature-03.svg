@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="220px" height="220px" viewBox="0 0 220 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>dataviz</title>
+    <title>feature-03</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="home" transform="translate(-992.000000, -652.000000)">
-            <g id="dataviz" transform="translate(992.000000, 652.000000)">
+            <g id="feature-03" transform="translate(992.000000, 652.000000)">
                 <polygon id="Rectangle-Copy-32" fill="#09A8BB" points="0 0 220 0 220 220 0 220"></polygon>
                 <g id="Group-3" transform="translate(62.000000, 60.000000)" fill="#067F8A">
                     <path d="M71,5.99306484 C71,2.68318653 73.6845286,0 76.9975713,0 L91.0024287,0 C94.3147959,0 97,2.68768095 97,5.99306484 L97,94.0069352 C97,97.3168135 94.3154714,100 91.0024287,100 L76.9975713,100 C73.6852041,100 71,97.312319 71,94.0069352 L71,5.99306484 Z" id="Rectangle-Copy-29"></path>

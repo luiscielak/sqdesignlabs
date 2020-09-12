@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="220px" height="220px" viewBox="0 0 220 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>feature-02</title>
+    <title>ui</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="home" transform="translate(-610.000000, -652.000000)">
-            <g id="feature-02" transform="translate(610.000000, 652.000000)">
-                <polygon id="Rectangle-Copy-33" fill="#B02288" points="-5.68434189e-14 0 220 0 220 220 -5.68434189e-14 220"></polygon>
-                <g id="Group" transform="translate(59.000000, 13.000000)">
-                    <rect id="Rectangle-Copy-30" fill="#792877" x="0" y="0" width="103" height="194" rx="16"></rect>
-                    <rect id="Rectangle-Copy-37" fill="#B02288" x="8" y="8" width="88" height="178" rx="16"></rect>
+            <g id="ui" transform="translate(610.000000, 652.000000)">
+                <polygon id="Rectangle-Copy-33" fill="#B02288" points="0 0 220 0 220 220 0 220"></polygon>
+                <g id="Group-19" transform="translate(71.000000, 38.000000)">
+                    <rect id="Rectangle-Copy-30" fill="#792877" x="0" y="0" width="78" height="144" rx="16"></rect>
+                    <rect id="Rectangle-Copy-37" fill="#B02288" x="6" y="6" width="66" height="132" rx="12"></rect>
                 </g>
             </g>
         </g>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="220px" height="220px" viewBox="0 0 220 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>ux</title>
+    <title>feature-01</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="home" transform="translate(-180.000000, -652.000000)">
-            <g id="ux" transform="translate(180.000000, 652.000000)">
+            <g id="feature-01" transform="translate(180.000000, 652.000000)">
                 <polygon id="Rectangle-Copy-34" fill="#F6A320" points="-1.56319402e-13 0 220 0 220 220 -1.56319402e-13 220"></polygon>
                 <rect id="Rectangle-Copy-31" fill="#EF8121" x="53.6585366" y="53.6585366" width="112.682927" height="112.682927" rx="20"></rect>
             </g>
