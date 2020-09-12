@@ -10,7 +10,7 @@ header_settings:
 footer_settings:
   logo_image:
   logo_width: 100
-  tagline: User Experience. Interface Design. Data Visualization.
+  tagline: UX • UI • DataViz
 
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg

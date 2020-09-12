@@ -78,10 +78,11 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Social Icons
 
 .socials {
-  display: flex;
+  display: inline-flex;
   list-style: none;
   margin: 0;
   padding: 0;
+  margin-left: 2em;
 }
 
 .socials__item {
