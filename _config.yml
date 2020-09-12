@@ -1,7 +1,7 @@
 site: SQ Design Labs
 
 url:
-baseurl:
+baseurl: /sqdesignlabs
 
 collections:
   pages:
