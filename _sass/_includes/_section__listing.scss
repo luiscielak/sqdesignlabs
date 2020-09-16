@@ -136,7 +136,7 @@
         @include translate(-50%,-50%);
         width: 30px;
         height: 48px;
-        fill: $background-color;
+        fill: $text_link_color;
         opacity: 0.5;
         @include transition(all 0.2s ease-in-out);
       }
