@@ -1,7 +1,7 @@
 ---
 title: User Experience
-subtitle: We make tools for people by applying human-centric design principles to our process. We ensure that we build the right thing from the beginning. User research and user testing keeps us honest and informed.
-description: We develop solutions to problems by involving the human perspective in all steps of the problem-solving process. <br><br> Tools&#58; Personas, User Journeys, Ecosystem Maps, Competitive Audits, Stakeholder Interviews, Storyboards, User Flows, Content Audits, Heuristic Analysis, Sitemaps, Usability Testing.
+subtitle: Spark curiosity&#58; We make tools people love to use by applying human-centric design principles to our process. Together we'll build the right product the first time by driving decisions with user research and testing.
+description: We develop solutions to problems by involving the human perspective in all steps of the problem-solving process.<br><br> <b>Tools we use&#58;</b> personas, user journeys, ecosystem maps, competitive audits, stakeholder interviews, storyboards, user flows, content audits, heuristic analysis, sitemaps, usability testing
 featured_image: ux-01.png
 accent_color: '#EF8121'
 gallery_images:

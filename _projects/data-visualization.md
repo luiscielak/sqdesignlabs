@@ -1,7 +1,7 @@
 ---
 title: Data Visualization
-subtitle: Visual storytelling. Measuring, metrics and perforamnce indicators. Analytics and data-driven design.
-description: DataViz. Visual storytelling. Measuring, metrics and perforamnce indicators. Analytics and data-driven design. <br><br> Tools&#58; D3.js, highcharts.js, Tableau, Business Ojbects, Power BI
+subtitle: Solve problems&#58; Data is our tool for design, improvement, and helping your users make decisions. We make information understandable through storytelling and visualization. But analytics fuel our data-driven process and inform our strategies as well.
+description: Data and information can be confusing. Visual storytelling clears up the message, and makes it easy to plan a course of action.<br><br><b>Tools we use&#58;</b> D3.js, highcharts.js, Tableau, Business Objects, Power BI
 featured_image: dataviz-01.png
 accent_color: '#067F8A'
 gallery_images:
