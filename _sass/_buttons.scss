@@ -85,8 +85,9 @@
     @extend .button--text;
     color: white;
     background-color: $accent-color;
-    padding: 13px 20px 14px;
+    padding: 28px;
     border-radius: 80px;
+    line-height: 2rem;
 
     &:hover {
       color: white;
