@@ -8,6 +8,7 @@ header_settings:
 
 
 footer_settings:
+  # logo_image: /images/logos/logo-sqdl.png
   logo_image:
   logo_width: 100
   tagline:

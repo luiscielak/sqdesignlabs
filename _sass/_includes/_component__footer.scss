@@ -5,13 +5,14 @@
 // - - - - - - - - - - - - - - - - - -
 
 .footer {
-	// @include transition(all 0.4s ease-in-out 0.8s);
-	padding: 64px 0;
+	@include transition(all 0.4s ease-in-out 0.8s);
+	padding: 64px 16px;
 	background-color: black;
 	color: white;
 
 	.footer__logo {
 		justify-self: center;
+		opacity: 0.6;
 		max-width: 220px;
 	}
 
@@ -37,14 +38,13 @@
 	    }
 	}
 
-
 	.footer__cta {
-		text-align: right;
+		text-align: center;
+		margin-top: 2rem;
 	}
 
 	.footer__social {
 		padding-top: 1.5rem;
-
 	}
 
 	.footer__copyright {
@@ -62,22 +62,30 @@
 		}
 	}
 
-
 	@include mq(tabletp) {
 		padding: 0;
 		padding-top: 80px;
 		padding-bottom: 4em;
 
 		.wrap {
-			grid-template-columns: 1fr 1fr;
+			grid-template-columns: 1fr 2fr;
 		}
 
 		.footer__logo {
 			justify-self: start;
+			max-width: 290px;
+			margin-left: 0.5rem;
 		}
 
 		.footer__copyright {
 			justify-self: end;
 		}
+
+		.footer__cta {
+			text-align: right;
+			margin-top: 0;
+		}
+
 	}
+
 }
