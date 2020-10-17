@@ -101,9 +101,9 @@
 
   &--outline {
     @extend .button--text;
-    color: $accent-color;
-    background-color: white;
-    border: 2px solid $accent-color;
+    color: $text-lighter-color;
+    background-color: $accent-color;
+    border: 3px solid $accent-color;
     padding: 13px 20px 14px;
     border-radius: 80px;
 
@@ -117,6 +117,23 @@
     }
   }
 
+  &--inverse {
+    @extend .button--text;
+    color: $text-lighter-color;
+    background-color: transparent;
+    border: 3px solid $accent-color;
+    padding: 13px 20px 14px;
+    border-radius: 80px;
+
+    &:hover {
+      color: white;
+      background-color: darken($color: $accent-color, $amount: 5);
+    }
+
+    &:active {
+      transform: scale(0.98);
+    }
+  }
 
   &--close-modal {
     background: url($baseurl + "/images/icons/arrow-cross-accent.svg") transparentize($accent-color, 0.92) center center no-repeat;

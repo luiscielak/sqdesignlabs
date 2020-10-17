@@ -18,17 +18,14 @@
 			</span>
 		</div>
 
+		{% endif %}
+
 		<div class="footer__cta">
-			<a href="#" class="button--fill contact-trigger js-contact">Let's Get Started</a>
-			{% include component-socials.html %}
+			<a href="#" class="button--inverse contact-trigger js-contact">Schedule a consultation</a>
+			<div class="footer__social">
+				{% include component-socials.html %}
+			</div>
 		</div>
 
 
-
-
-		{% endif %}
-
-
 	</div>
-
-	<span class="footer__copyright"><p>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}</p></span>

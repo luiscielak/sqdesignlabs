@@ -82,7 +82,6 @@
   list-style: none;
   margin: 0;
   padding: 0;
-  margin-left: 2em;
 }
 
 .socials__item {
@@ -98,12 +97,13 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 26px;
-  height: 26px;
+  width: 58px;
+  height: 58px;
   border-radius: 100%;
-  background: $text-dark-color;
-  font-size: 16px;
-  color: $background-color;
+  background: transparent;
+  font-size: 24px;
+  color: $accent-color;
+  border: 3px solid $accent-color;
 
   &:hover {
     background: $accent-color;
