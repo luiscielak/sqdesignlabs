@@ -10,7 +10,7 @@ header_settings:
 footer_settings:
   logo_image:
   logo_width: 100
-  tagline: UX • UI • DataViz
+  tagline:
 
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg
@@ -60,10 +60,12 @@ color_settings:
   text_dark_color: '#202224'
   text_medium_color: '#6C7A89'
   text_light_color: '#AEB3BB'
+  text_lighter_color: '#f5f5f5'
   text_link_color: '#0088CC'
   accent_color: '#067F8A'
   border_color: '#ECEDEF'
   error_color: '#D64541'
+  color_black: '#000000'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&family=EB+Garamond:wght@400;500;600&display=swap" rel="stylesheet">'

@@ -5,11 +5,14 @@
 // - - - - - - - - - - - - - - - - - -
 
 .footer {
-	@include transition(all 0.4s ease-in-out 0.8s);
+	// @include transition(all 0.4s ease-in-out 0.8s);
 	padding: 64px 0;
+	background-color: black;
+	color: white;
 
 	.footer__logo {
 		justify-self: center;
+		max-width: 220px;
 	}
 
 	.footer__title {
@@ -18,7 +21,7 @@
 	    font-weight: $sitetitle-weight;
 	    letter-spacing: $sitetitle-spacing;
 	    line-height: 1.25;
-	    color: $text-dark-color;
+	    color: $text-lighter-color;
 
 	    @include mq(tabletp) {
 	      font-size: $sitetitle-medium;
@@ -29,8 +32,19 @@
 	    }
 
 	    &:hover {
-	      color: $text-dark-color;
+	      color: $text-lighter-color;
+	      cursor: default;
 	    }
+	}
+
+
+	.footer__cta {
+		text-align: right;
+	}
+
+	.footer__social {
+		padding-top: 1.5rem;
+
 	}
 
 	.footer__copyright {
@@ -48,13 +62,11 @@
 		}
 	}
 
-	.footer__cta {
-		text-align: right;
-	}
 
 	@include mq(tabletp) {
 		padding: 0;
 		padding-top: 80px;
+		padding-bottom: 4em;
 
 		.wrap {
 			grid-template-columns: 1fr 1fr;
