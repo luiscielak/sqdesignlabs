@@ -83,11 +83,11 @@
 
   &--fill {
     @extend .button--text;
-    color: white;
+    color: $text-lighter-color;
     background-color: $accent-color;
-    padding: 28px;
+    border: 3px solid $accent-color;
+    padding: 13px 20px 14px;
     border-radius: 80px;
-    line-height: 2rem;
 
     &:hover {
       color: white;
@@ -101,8 +101,8 @@
 
   &--outline {
     @extend .button--text;
-    color: $text-lighter-color;
-    background-color: $accent-color;
+    color: $accent-color;
+    background-color: white;
     border: 3px solid $accent-color;
     padding: 13px 20px 14px;
     border-radius: 80px;
@@ -110,6 +110,7 @@
     &:hover {
       color: white;
       background-color: darken($color: $accent-color, $amount: 5);
+      border-color: darken($color: $accent-color, $amount: 5);
     }
 
     &:active {
@@ -128,6 +129,7 @@
     &:hover {
       color: white;
       background-color: darken($color: $accent-color, $amount: 5);
+      border-color: darken($color: $accent-color, $amount: 5);
     }
 
     &:active {
