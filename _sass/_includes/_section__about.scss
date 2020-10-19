@@ -103,7 +103,8 @@
   background: transparent;
   font-size: 24px;
   color: $accent-color;
-  border: 3px solid $accent-color;
+  border: 3px solid;
+  border-color: transparentize($accent-color, 0.46);
 
   &:hover {
     background: $accent-color;
