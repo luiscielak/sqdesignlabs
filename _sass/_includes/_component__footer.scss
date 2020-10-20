@@ -9,11 +9,19 @@
 	padding: 64px 16px;
 	background-color: black;
 	color: white;
+  text-align: center;
+  position: relative;
 
-  // @include mq(tabletp) {
-  	text-align: center;
-  // }
 
+  &:before {
+  	content: "";
+  	position: absolute;
+    top: -5em;
+    height: 5em;
+  	left: 0;
+  	right: 0;
+  	background: linear-gradient(to bottom right, transparent 49%, black 50%);
+  }
 
 	.footer__logo {
 		justify-self: center;
@@ -69,7 +77,7 @@
 
 	@include mq(tabletp) {
 		padding: 0;
-		padding-top: 80px;
+		padding-top: 2em;
 		padding-bottom: 4em;
 		text-align: left;
 
@@ -95,3 +103,4 @@
 	}
 
 }
+
