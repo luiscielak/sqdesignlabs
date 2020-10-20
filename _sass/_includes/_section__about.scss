@@ -5,7 +5,6 @@
 // - - - - - - - - - - - - - - - - - -
 
 .about {
-  margin-bottom: 100px;
 
   hr {
     margin-bottom: 80px;
@@ -13,15 +12,11 @@
 
   .about__image {
     width: 100%;
-    margin: 0 0 40px 0;
-    max-width: 420px;
+    margin-left: auto;
+    margin-right: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
-
-    img {
-      margin-bottom: 24px;
-    }
   }
 
   .title {
@@ -29,14 +24,16 @@
   }
 
   .about__content {
-    max-width: 456px;
+     background-color: white;
+     margin-bottom: 4rem;
 
     .title {
-      margin-bottom: 16px;
+      margin-bottom: 4px;
     }
 
     .subtitle {
       margin-bottom: 16px;
+      color: #757575;
     }
 
     p {
@@ -50,7 +47,20 @@
 
 
   @include mq(tabletp) {
-    margin-bottom: 160px;
+
+    background-image: url("/images/profile_lg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 1010px;
+
+    .wrap {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .about__image {
+      visibility: hidden;
+    }
 
     hr {
       margin-bottom: 120px;
@@ -66,7 +76,9 @@
 		}
 
 		.about__content {
-			margin-top: 64px;
+      padding: 1rem 2rem;
+      padding: 1rem 2rem;
+      margin-bottom: 21rem;
 
 			.subtitle {
 				margin-bottom: 24px;
