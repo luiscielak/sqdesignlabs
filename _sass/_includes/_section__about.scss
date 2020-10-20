@@ -5,10 +5,6 @@
 // - - - - - - - - - - - - - - - - - -
 
 .about {
-  background: url("/images/profile_lg.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
 
   hr {
     margin-bottom: 80px;
@@ -18,12 +14,9 @@
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-    // max-width: 420px;
     display: flex;
     flex-direction: column;
     align-items: center;
-
-
   }
 
   .title {
@@ -31,6 +24,8 @@
   }
 
   .about__content {
+     background-color: white;
+     margin-bottom: 6rem;
 
     .title {
       margin-bottom: 4px;
@@ -53,8 +48,14 @@
 
   @include mq(tabletp) {
 
-    .about {
-      background-image: none;
+    background-image: url("/images/profile_lg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 1010px;
+
+    .wrap {
+      grid-template-columns: 1fr 1fr;
     }
 
     .about__image {
@@ -75,11 +76,9 @@
 		}
 
 		.about__content {
-			margin-top: 64px;
-      background-color: white;
-      margin-bottom: 10rem;
-      margin-top: 10rem;
       padding: 1rem 2rem;
+      padding: 1rem 2rem;
+      margin-bottom: 21rem;
 
 			.subtitle {
 				margin-bottom: 24px;
