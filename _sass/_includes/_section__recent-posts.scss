@@ -5,8 +5,6 @@
 // - - - - - - - - - - - - - - - - - -
 
 .recent-posts {
-  // padding: 64px 0 80px;
-  // background-color: #f9f9fa;
 
   .recent-posts__header {
     margin-bottom: 40px;
@@ -49,7 +47,7 @@
     }
 
     .post__image {
-      height: 360px;
+      height: 200px;
     }
 
     .action-bottom {
@@ -59,7 +57,7 @@
 
   @include mq(tabletl) {
     .post__image {
-      height: 360px;
+      height: 265px;
     }
   }
 }
