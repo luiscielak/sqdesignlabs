@@ -117,6 +117,20 @@
     }
   }
 
+  &--link {
+    @extend .button--text;
+    color: black;
+    background-color: white;
+    border: 3px solid transparent;
+    padding: 13px 20px 14px;
+    border-radius: 80px;
+
+    &:active {
+      transform: scale(0.98);
+    }
+  }
+
+
   &--inverse {
     @extend .button--text;
     color: $text-lighter-color;
