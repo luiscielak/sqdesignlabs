@@ -103,7 +103,7 @@ Let me take you through my design process.
 Starting with Empathize.
 
 ### Empathize A
-Lacked understanding in customer wants, needs and expectations.
+**Lacked understanding in customer wants, needs and expectations.**
 
 - Current frustrations and pain points?
 - What did they really want?
@@ -119,8 +119,7 @@ I used miro here to facilitate these remote workshops.
 
 ### Empathize B
 
-Dived into an intensive 2-week 
-research sprint.
+**Dived into an intensive 2-week research sprint.**
 
 - 12+ user interviews
 - Investigated experienced and naive Agile users, PMI customers, and non-customers
@@ -193,7 +192,7 @@ Now to Conceptualize.
 On this step, we gathered our insights and began shaping our hypothesis into potential concepts.
 
 ### Conceptualize A
-Overwhelmed with insights, we needed to start prioritizing to form a strategy.
+**Overwhelmed with insights, we needed to start prioritizing to form a strategy.**
 
 - Understand key pain-points, wants and needs
 - Classify all insights gathered
@@ -204,7 +203,7 @@ Overwhelmed with insights, we needed to start prioritizing to form a strategy.
 By mapping out our personas, and grouping them in different ways, we start contrasting and comparing qualities and prioritizing feature sets.
 
 ### Conceptualize B
-Jumped into secondary research to form our product strategy and experience.
+**Jumped into secondary research to form our product strategy and experience.**
 
 - Created affinity maps 
 - Prioritized customer pain-points, wants and needs 
@@ -265,7 +264,7 @@ This results in lack of trust, interest and ultimately the lack of conversions.
 Let's design some solutions.
 
 ### Design A
-We were on a very tight deadline and developers needed to start building soon.
+**We were on a very tight deadline and developers needed to start building soon.**
 
 - Should we design mobile first?
 - Did we need a design system right now?
@@ -280,7 +279,7 @@ It needed to work offline, on mobile devices, be easy to use and looked modern a
 And developed quickly.
 
 ### Design B
-Once we answered the burning questions, we commenced design right away.
+**Once we answered the burning questions, we commenced design right away.**
 
 - Built a design system as a priority
 - Moved forward with a mobile-first approach
@@ -330,7 +329,7 @@ Some of that feedback was added to a backlog and prioritized.
 And we focused on `<List hihglights>`
 
 ### The Solution
-How might we organize our content to make it more relatable, accessible and shareable?
+**How might we organize our content to make it more relatable, accessible and shareable?**
 
 - Improve information design and architecture
 - Provide a responsive, dynamic and interactive interface
@@ -345,7 +344,7 @@ This included work on:
 - IA, information design, and accessibility considerations
 
 ### The Solution B
-The progressive web app is a great way for customers to view Disciplined Agile content in a new way
+**The progressive web app is a great way for customers to view Disciplined Agile content in a new way**
 
 - Working on multiple browsers and sharable through a link
 - Responsive to multiple devices (phones, tablets, desktops)
@@ -367,8 +366,7 @@ I design with this philosophy of "Shneiderman Mantra"
 Forest > Trees > Leafs on demand.
 
 ### Outcomes
-We successfully launched 
-6 months later an MVP that will serve as the backbone for all future mobile projects in PMI.
+**We successfully launched 6 months later an MVP that will serve as the backbone for all future mobile projects in PMI.**
 
 - Adopted by PMI Agile coaches and instructors
 - Extended to 3 additional key project initiatives
@@ -384,7 +382,7 @@ This project was very successful.
 
 ### Next Steps
 
-The progressive web app is a great way for customers to view Displined Agile content in a new way
+**The progressive web app is a great way for customers to view Displined Agile content in a new way**
 
 - Create an onboarding experience
 - Better UI affordances
