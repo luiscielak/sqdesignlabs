@@ -6,8 +6,8 @@ featured_image: /images/social.jpg
 ---
 
 ## Redefining the way Agile professionals learn, reference and share human-centric tools
+<img width="712" alt="Screen Shot 2022-09-26 at 3 43 07 PM" src="https://user-images.githubusercontent.com/349454/192366593-7e238555-ed61-48b2-ae37-d66d388931fe.png">
 
-![Cover](https://user-images.githubusercontent.com/349454/192347869-f2bd4fc1-9db5-40eb-acb9-4fb063d2c454.jpg)
 
 ### Intro
 
@@ -17,9 +17,7 @@ This Progressive Web Application (PWA) allows **product owners**, **project mana
 
 This case study explores how PMI attempts to modernize themselves.
 
-![Intro](https://user-images.githubusercontent.com/349454/192348398-ef8a949c-9ac5-4cce-a237-486dce6d683d.jpg)
-
-PMI is known for the PMP certification. Many modern teams have moved away from those methodologies of project management, such as waterfall, into a swifter more effective ways, such as Agile and Scrum. [cite]
+PMI is known for the PMP certification. Many modern teams have moved away from those methodologies of project management, such as waterfall, into a swifter more effective ways, such as Agile and Scrum [cite]().
 
 _PMI acquired DA as a response to serve their clients using these Agile methodologies in their projects and teams._
 
@@ -37,8 +35,6 @@ PWA: web-based, mobile app, with offline capabilities._
 
 Many people collaborated in this project across product and development teams.
 
-
-
 **Product Team**
 - Design lead
 - Product owner
@@ -54,11 +50,12 @@ Many people collaborated in this project across product and development teams.
 - Back-end engineer
 - Front-end engineer
 
-![The Team](https://user-images.githubusercontent.com/349454/192348000-2c53e25f-96ef-49ac-8308-75ac89bcf897.jpg)
-
 As you can see, we had a stellar team that collaborated across many disciplines, building something that I'm very proud of, and happy to share with you today.
 
 ### My Role
+
+![DALL·E 2022-09-26 15 50 12 - An oil painting by Matisse of a bald designer making an app](https://user-images.githubusercontent.com/349454/192366968-a99a19fe-c200-43c2-ac4a-2597cbe2b1e9.png)
+
 
 **Design Lead**
 
