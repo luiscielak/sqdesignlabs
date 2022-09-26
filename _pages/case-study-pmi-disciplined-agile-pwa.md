@@ -65,12 +65,12 @@ As you can see, we had a stellar team that collaborated across many disciplines,
 - Create lo/hi fidelity wireframes and build interactive prototypes
 - Partner with the design systems team to develop and extend components and design tokens
 
-My role as a Design lead:
+_My role as a Design lead:
 
 - Facilitated workshops
 - Collaborate with research to conduct studies
 - Create personas, wireframes, flows, and prototypes
-- Work with the design systems team to make sure we are a UI that is scalable, reusable and dynamic.
+- Work with the design systems team to make sure we are a UI that is scalable, reusable and dynamic._
 
 ### The Context
 Disciplined Agile (DA) is developing a Progressive Web App (PWA) as a proof of concept for future PWAs across the PMI organization.
