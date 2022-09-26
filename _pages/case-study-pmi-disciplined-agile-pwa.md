@@ -17,6 +17,9 @@ This Progressive Web Application (PWA) allows **product owners**, **project mana
 
 This case study explores how PMI attempts to modernize themselves.
 
+![Intro](https://user-images.githubusercontent.com/349454/192348398-ef8a949c-9ac5-4cce-a237-486dce6d683d.jpg)
+
+
 PMI is known for the PMP certification. Many modern teams have moved away from those methodologies of project management, such as waterfall, into a swifter more effective ways, such as Agile and Scrum. [cite]
 
 _PMI acquired DA as a response to serve their clients using these Agile methodologies in their projects and teams._
@@ -30,7 +33,6 @@ DA: is the solution and response to Agile, one of the most used mehtodologies in
 PWA: web-based, mobile app, with offline capabilities._
 
 ### The Team
-![The Team](https://user-images.githubusercontent.com/349454/192348000-2c53e25f-96ef-49ac-8308-75ac89bcf897.jpg)
 
 Many people collaborated in this project across product and development teams.
 
@@ -40,11 +42,15 @@ Many people collaborated in this project across product and development teams.
 **Development Team**
 - Systems architect, QA manager, back-end engineer, front-end engineer
 
+![The Team](https://user-images.githubusercontent.com/349454/192348000-2c53e25f-96ef-49ac-8308-75ac89bcf897.jpg)
+
 As you can see, we had a stellar team that collaborated across many disciplines, building something that I'm very proud of, and happy to share with you today.
 
 ### My Role
 
-My role as a UX lead:
+![My Role](https://user-images.githubusercontent.com/349454/192348154-706f67f9-d583-4dd9-ad55-529accbaf183.jpg)
+
+My role as a Design lead:
 
 - Facilitated workshops
 - Collaborate with research to conduct studies
@@ -52,24 +58,30 @@ My role as a UX lead:
 - Work with the design systems team to make sure we are a UI that is scalable, reusable and dynamic.
 
 ### The Context
+![The Context](https://user-images.githubusercontent.com/349454/192348173-116455a9-6b7c-47df-91f5-8d7631deea08.jpg)
 
 Disciplined Agile (DA) is developing a Progressive Web App (PWA) as a proof of concept for future PWAs across the PMI organization.
 
 ### The Problem
+![The Problem](https://user-images.githubusercontent.com/349454/192348182-5955cca9-0f55-4e35-9e12-e683a2ec5567.jpg)
 
 What are we trying to solve?
 
 ### The Objective
+![The Objective](https://user-images.githubusercontent.com/349454/192348454-7f862e34-ec19-4312-bfe1-4b24de6d7a19.jpg)
 
 What is the objective of the Toolkit, the project and this whole initiative?
 
 ### The Process: Empathize
+![Process_ Empathize](https://user-images.githubusercontent.com/349454/192348505-9a9a5163-7051-4d88-b49f-dd1c90bf7019.jpg)
+
 
 Let me take you through my design process.
 
 Starting with Empathize.
 
 ### Empathize A
+![Empathize](https://user-images.githubusercontent.com/349454/192348524-e7d7e765-01c9-432f-bd58-f52ed69e5eb6.jpg)
 
 First we needed to gain clarity on what frustrates our customers the most.
 
@@ -78,28 +90,33 @@ What are their motivations? Their frustrations?
 I used miro here to facilitate these remote workshops.
 
 ### Empathize B
+![Empathize (2)](https://user-images.githubusercontent.com/349454/192349219-c4b21e44-cd61-47ba-bdcc-41118ba4319e.jpg)
 
 In collaboration with the UX research team, we dove into an intensive research sprint.
 
 We separated our user base into experienced and naive users. We conducted interviews, workshops and analysis.
 
 ### User Interviews Takeaways
+![User interviews takeaways](https://user-images.githubusercontent.com/349454/192349241-4aa05bba-5c00-4763-8a69-a887edd9f08e.jpg)
 
 The main takeaways from the research were around the themes of trust and ease of use.
 
 `<List takeaways>`
 
 ### Participants
+![Participants](https://user-images.githubusercontent.com/349454/192349272-9c782f71-07e0-4ff5-8b9d-d1063c269b07.jpg)
 
 Here is some participant data.
 
 ### Exploratory Research
+![Exploratory Research](https://user-images.githubusercontent.com/349454/192349299-7bf6356c-ff47-44d6-b7c5-2273bad42ef6.jpg)
 
 A heatmap of the results of some of the studies we did around product messaging, and communication.
 
 We were aiming to understand what is it about the structure of the content and the presentation of information is acting as the catalyst for the lack of trust and frustration.
 
 ### Additional Feedback
+![Additional Feedback](https://user-images.githubusercontent.com/349454/192349329-4bf84808-8d11-4846-b880-99a8fe149c87.jpg)
 
 Additional feedback focused around:
 
@@ -108,6 +125,7 @@ Additional feedback focused around:
 - messaging
 
 ### Discovery Workshop Insights
+![Discovery workshop insights](https://user-images.githubusercontent.com/349454/192349349-d39fed0b-541f-4a2c-8183-699c95d3fc41.jpg)
 
 We also identified that the lack of conversion is contributed by confusing and cumbersome purchasing flows.
 
@@ -116,28 +134,34 @@ For the B2B customers, the decision makers are unclear on what they are signing 
 And lastly, the product evangelists, the Agile coaches, are not motivated to spread the knowledge of DA.
 
 ### Process: Conceptualize
+![Process_ Conceptualize](https://user-images.githubusercontent.com/349454/192349369-35242f67-fae0-4446-93b8-9b4ad831dc7f.jpg)
 
 Now to Conceptualize.
 
 On this step, we gathered our insights and began shaping our hypothesis into potential concepts.
 
 ### Conceptualize A
+![Conceptualize](https://user-images.githubusercontent.com/349454/192349388-66660968-a381-4c78-865e-87f63e8883fa.jpg)
 
 By mapping out our personas, and grouping them in different ways, we start contrasting and comparing qualities and prioritizing feature sets.
 
 ### Conceptualize B
+![Conceptualize (2)](https://user-images.githubusercontent.com/349454/192349403-4497492b-5b05-4e8c-8e5b-3d68133d200b.jpg)
 
 As we develop these concepts and features, we are constantly validating with our customers.
 
 ### Affinity Map
+![Affinity map](https://user-images.githubusercontent.com/349454/192349424-37b97a9a-e605-47cb-9839-5627dc06face.jpg)
 
 By conceptually grouping this feedback with Affinity Maps, we uncover actionable solution for various pain-points.
 
 ### Customer Journey Map
+![Customer journey map](https://user-images.githubusercontent.com/349454/192349443-c792d696-1457-4e8e-9be6-d50fa53b9802.jpg)
 
 And by mapping out these experiences into flows, we can uncover points of friction and areas of opportunity beyond a single use case, or touchpoint with a customer.
 
 ### Current State
+![Current State](https://user-images.githubusercontent.com/349454/192349496-63c88560-443e-471e-a512-de591e36d139.jpg)
 
 The current toolkit was originally designed as a companion to a physical book as a reference tool for  diagrams.
 
@@ -150,16 +174,19 @@ Issues in current state:
 - hard to read, navigate, access
 
 ### Key Takeaways
+![Key takeaways](https://user-images.githubusercontent.com/349454/192349507-7d9fbbfc-cc8f-4b2c-9a51-5a6e6c012f2d.jpg)
 
 The clunky interface and frustrating flows are the most critical shortfalls of the current product.
 
 This results in lack of trust, interest and ultimately the lack of conversions.
 
 ### Process: Design
+![Process_ Design](https://user-images.githubusercontent.com/349454/192349532-dcff4d92-c7bc-4640-bf18-0b81a1670df6.jpg)
 
 Let's design some solutions.
 
 ### Design A
+![Design](https://user-images.githubusercontent.com/349454/192349580-0304e687-0145-454f-8dfd-68f85783721d.jpg)
 
 We had a very aggressive deadline of 6 weeks to fully develop a PWA.
 
@@ -168,12 +195,14 @@ It needed to work offline, on mobile devices, be easy to use and looked modern a
 And developed quickly.
 
 ### Design B
+![Design (2)](https://user-images.githubusercontent.com/349454/192349611-d00a9447-7321-461c-845d-b9dc80221a9f.jpg)
 
 We needed a tight collaboration with the visual design team, development team, Q&A, and visual design.
 
 `<List areas of focus>`
 
 ### Design System
+![Design System](https://user-images.githubusercontent.com/349454/192349640-b9618d80-9d37-4b5c-a267-075ab0336f77.jpg)
 
 We needed a visual system that could scale with content (techniques, options, categories).
 
@@ -182,18 +211,21 @@ And components that could be reused and repurposed.
 We wanted to empowers devs and content creators to build their own pages and templates with the design system we built.
 
 ### Specific feature/flow highlights
+![Specific feature_flow highlights](https://user-images.githubusercontent.com/349454/192349662-f9e9d300-1ca2-4e93-baca-16acabb39784.jpg)
 
 As wireframes and prototypes were created and validated with users, design was iterated and improved upon.
 
 This is some of the initial critical feedback we recevied.
 
 ### Overall Design Highlights
+![Overall design highlights](https://user-images.githubusercontent.com/349454/192349688-3ffd827c-acca-4b76-94dc-efe27257d276.jpg)
 
 Some of that feedback was added to a backlog and prioritized.
 
 And we focused on `<List hihglights>`
 
 ### The Solution
+![The Solution](https://user-images.githubusercontent.com/349454/192349704-9f0c2a4c-4a67-4c1d-8a9e-3d2907c66237.jpg)
 
 The solution was heavily grounded on how to better navigate content that is very dense, lengthily and difficult to parse.
 
@@ -202,12 +234,15 @@ This included work on:
 - IA, information design, and accessibility considerations
 
 ### The Solution B
+![The Solution (2)](https://user-images.githubusercontent.com/349454/192349718-58f7322f-1fa4-4c9c-9edc-dbbe3d6184a2.jpg)
 
 What is the solution? and Why a PWA?
 
 `<List benefits>`
 
 ### Demo
+![Demo](https://user-images.githubusercontent.com/349454/192349765-2e787c68-4ecb-46de-a911-a68205073c39.jpg)
+
 
 Meet the DA Toolkit.
 
@@ -215,6 +250,8 @@ I design with this philosophy of "Shneiderman Mantra"
 Forest > Trees > Leafs on demand.
 
 ### Outcomes
+![Outcome](https://user-images.githubusercontent.com/349454/192349794-b2cc3aa9-5b61-4305-abbc-5e561727c59d.jpg)
+
 
 This project was very successful.
 
@@ -222,5 +259,7 @@ This project was very successful.
 - And the technology and architecture (technical and information), have become the seed for many future PWA projects to come.
 
 ### Next Steps
+![Next Steps](https://user-images.githubusercontent.com/349454/192349832-4e03b9ee-8358-4de8-8669-6e9b1f0e25bb.jpg)
+
 
 One of the biggest challenges was that we were receiving a JSON file that contained in-line HTML styles that prevented from displaying the text better.
