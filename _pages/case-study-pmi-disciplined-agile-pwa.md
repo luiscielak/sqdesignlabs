@@ -34,8 +34,6 @@ PWA: web-based, mobile app, with offline capabilities.
 
 Many people collaborated in this project across product and development teams.
 
-<List Team> and roles.
-
 As you can see, we had a stellar team that collaborated across many disciplines, building something that I'm very proud of, and happy to share with you today.
 
 ### My Role
