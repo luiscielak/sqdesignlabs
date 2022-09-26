@@ -1,12 +1,12 @@
 ---
-title: PMI Disciplined Agile PWA
-subtitle: Redefining the way Agile professionals learn, reference and share human-centric tools
+title: "Case Study: PMI Disciplined Agile PWA"
+subtitle: Project Management Institute (PMI), Progressive Web App (PWA)
 description: Case Study, Progressive Web App (PWA)
 featured_image: /images/social.jpg
 ---
 
 
-# Case Study: PMI Disciplined Agile PWA
+## Redefining the way Agile professionals learn, reference and share human-centric tools
 
 ### Cover
 
