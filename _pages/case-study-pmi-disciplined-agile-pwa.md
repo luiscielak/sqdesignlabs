@@ -34,6 +34,8 @@ PWA: web-based, mobile app, with offline capabilities.
 
 Many people collaborated in this project across product and development teams.
 
+`<List roles>`
+
 As you can see, we had a stellar team that collaborated across many disciplines, building something that I'm very proud of, and happy to share with you today.
 
 ### My Role
@@ -81,7 +83,7 @@ We separated our user base into experienced and naive users. We conducted interv
 
 The main takeaways from the research were around the themes of trust and ease of use.
 
-<List takeaways>
+`<List takeaways>`
 
 ### Participants
 
@@ -165,7 +167,7 @@ And developed quickly.
 
 We needed a tight collaboration with the visual design team, development team, Q&A, and visual design.
 
-<List areas of focus>
+`<List areas of focus>`
 
 ### Design System
 
@@ -185,7 +187,7 @@ This is some of the initial critical feedback we recevied.
 
 Some of that feedback was added to a backlog and prioritized.
 
-And we focused on <List hihglights>
+And we focused on `<List hihglights>`
 
 ### The Solution
 
@@ -199,7 +201,7 @@ This included work on:
 
 What is the solution? and Why a PWA?
 
-<List benefits>
+`<List benefits>`
 
 ### Demo
 
