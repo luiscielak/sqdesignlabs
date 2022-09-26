@@ -8,33 +8,36 @@ featured_image: /images/social.jpg
 
 ## Redefining the way Agile professionals learn, reference and share human-centric tools
 
-### Cover
-
-Redefining the way Agile professionals learn, reference and share human-centric tools.
-
-I'm going to talk about how PMI attempts to modernize themselves.
-
 ### Intro
 
-PMI is known for the PMP certification. Many modern teams have moved away from those methodologies of project management (waterfall, etc) into a swifter more effective ways, such as Agile and Scrum.
+PMI’s **Disciplined Agile Toolkit App** provides access to over **400+ techniques, templates and best practices for project success across product delivery teams**. 
 
-PMI acquired DA as a response to serve their clients using these Agile methodologies in their projects and teams.
+This Progressive Web Application (PWA) allows **product owners**, **project managers**, **consultants**, **practitioners** and **educators** to apply, save and share proven techniques across the most popular industries and teams to **improve the way teams work**.
 
-One of DA's component is the DA toolkit.
+This case study explores how PMI attempts to modernize themselves.
 
-This case study shows how I was able to redesign the current desktop-only toolkit, into a mobile-first redesign, focused on our customers.
+_PMI is known for the PMP certification. Many modern teams have moved away from those methodologies of project management (waterfall, etc) into a swifter more effective ways, such as Agile and Scrum.
+_
 
-PMI: leader in PM certification.
+_PMI acquired DA as a response to serve their clients using these Agile methodologies in their projects and teams._
 
+_One of DA's component is the DA toolkit._
+
+_This case study shows how I was able to redesign the current desktop-only toolkit, into a mobile-first redesign, focused on our customers._
+
+_PMI: leader in PM certification.
 DA: is the solution and response to Agile, one of the most used mehtodologies in the tech
-
-PWA: web-based, mobile app, with offline capabilities.
+PWA: web-based, mobile app, with offline capabilities._
 
 ### The Team
 
 Many people collaborated in this project across product and development teams.
 
-`<List roles>`
+**Product Team**
+- Product owner, design lead, research lead, qualitative research, creative director, visual designer, content writer
+
+**Development Team**
+- Systems architect, QA manager, back-end engineer, front-end engineer
 
 As you can see, we had a stellar team that collaborated across many disciplines, building something that I'm very proud of, and happy to share with you today.
 
