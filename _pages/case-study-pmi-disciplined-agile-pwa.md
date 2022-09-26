@@ -65,8 +65,6 @@ As you can see, we had a stellar team that collaborated across many disciplines,
 - Create lo/hi fidelity wireframes and build interactive prototypes
 - Partner with the design systems team to develop and extend components and design tokens
 
-![My Role](https://user-images.githubusercontent.com/349454/192348154-706f67f9-d583-4dd9-ad55-529accbaf183.jpg)
-
 My role as a Design lead:
 
 - Facilitated workshops
@@ -77,23 +75,20 @@ My role as a Design lead:
 ### The Context
 Disciplined Agile (DA) is developing a Progressive Web App (PWA) as a proof of concept for future PWAs across the PMI organization.
 
-![The Context](https://user-images.githubusercontent.com/349454/192348173-116455a9-6b7c-47df-91f5-8d7631deea08.jpg)
+![IMG_8595](https://user-images.githubusercontent.com/349454/192383687-8742115a-1a8b-40a8-89dd-0aab7443628b.jpg)
 
-Disciplined Agile (DA) is developing a Progressive Web App (PWA) as a proof of concept for future PWAs across the PMI organization.
 
 ### The Problem
+
+_What are we trying to solve?_
+
 Disciplined Agile consists on a collection of many tools and frameworks for working teams. Currently, there is no seamless experience that handles an end-to-end flow for learning, referencing, teaching, and sharing best practices and methods.
 
-![The Problem](https://user-images.githubusercontent.com/349454/192348182-5955cca9-0f55-4e35-9e12-e683a2ec5567.jpg)
-
-What are we trying to solve?
 
 ### The Objective
 Research, strategize and design an end-to-end PWA (progress web app) experience to help PMI’s members leverage best practices, with a focus on increasing mobile reach and certification awareness for this MVP.
 
-![The Objective](https://user-images.githubusercontent.com/349454/192348454-7f862e34-ec19-4312-bfe1-4b24de6d7a19.jpg)
-
-What is the objective of the Toolkit, the project and this whole initiative?
+_What is the objective of the Toolkit, the project and this whole initiative?_
 
 ### The Process: Empathize
 ![Process_ Empathize](https://user-images.githubusercontent.com/349454/192348505-9a9a5163-7051-4d88-b49f-dd1c90bf7019.jpg)
@@ -126,11 +121,11 @@ I used miro here to facilitate these remote workshops.
 - Investigated experienced and naive Agile users, PMI customers, and non-customers
 - Conducted a discovery workshop with stakeholders, product and development teams
 
-![Empathize (2)](https://user-images.githubusercontent.com/349454/192349219-c4b21e44-cd61-47ba-bdcc-41118ba4319e.jpg)
+![DALL·E 2022-08-30 20 04 31 - An oil painting of a grid of people in a computer screen on a conference call  ](https://user-images.githubusercontent.com/349454/192384242-6c9f2191-90b7-4a3e-ac06-6c65d1395d79.png)
 
-In collaboration with the UX research team, we dove into an intensive research sprint.
+_In collaboration with the UX research team, we dove into an intensive research sprint._
 
-We separated our user base into experienced and naive users. We conducted interviews, workshops and analysis.
+_We separated our user base into experienced and naive users. We conducted interviews, workshops and analysis._
 
 ### User Interviews Takeaways
 User interviews takeaways
@@ -330,19 +325,18 @@ Some of that feedback was added to a backlog and prioritized.
 And we focused on `<List hihglights>`
 
 ### The Solution
+![IMG_8600](https://user-images.githubusercontent.com/349454/192384535-bf4b99a1-fde5-4aff-9401-e3fe339e4a7e.jpg)
+
 **How might we organize our content to make it more relatable, accessible and shareable?**
 
 - Improve information design and architecture
 - Provide a responsive, dynamic and interactive interface
 - Adhere to accessibility guidelines, enable offline access to content, and extend sharing capabilities
 
-![The Solution](https://user-images.githubusercontent.com/349454/192349704-9f0c2a4c-4a67-4c1d-8a9e-3d2907c66237.jpg)
 
-The solution was heavily grounded on how to better navigate content that is very dense, lengthily and difficult to parse.
+_The solution was heavily grounded on how to better navigate content that is very dense, lengthily and difficult to parse._
 
-This included work on:
-
-- IA, information design, and accessibility considerations
+_This included work on: information architecture, information design, and accessibility considerations._
 
 ### The Solution B
 **The progressive web app is a great way for customers to view Disciplined Agile content in a new way**
