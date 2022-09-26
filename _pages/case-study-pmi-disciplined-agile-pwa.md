@@ -5,8 +5,9 @@ description: Case Study, Progressive Web App (PWA)
 featured_image: /images/social.jpg
 ---
 
-
 ## Redefining the way Agile professionals learn, reference and share human-centric tools
+
+![Cover](https://user-images.githubusercontent.com/349454/192347869-f2bd4fc1-9db5-40eb-acb9-4fb063d2c454.jpg)
 
 ### Intro
 
@@ -29,6 +30,7 @@ DA: is the solution and response to Agile, one of the most used mehtodologies in
 PWA: web-based, mobile app, with offline capabilities._
 
 ### The Team
+![The Team](https://user-images.githubusercontent.com/349454/192348000-2c53e25f-96ef-49ac-8308-75ac89bcf897.jpg)
 
 Many people collaborated in this project across product and development teams.
 
