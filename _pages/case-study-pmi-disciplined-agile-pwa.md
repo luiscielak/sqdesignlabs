@@ -16,7 +16,7 @@ This Progressive Web Application (PWA) allows **product owners**, **project mana
 
 This case study explores how PMI attempts to modernize themselves.
 
-PMI is known for the PMP certification. Many modern teams have moved away from those methodologies of project management, such as waterfall, into a swifter more effective ways, such as Agile and Scrum.
+PMI is known for the PMP certification. Many modern teams have moved away from those methodologies of project management, such as waterfall, into a swifter more effective ways, such as Agile and Scrum. [cite]
 
 _PMI acquired DA as a response to serve their clients using these Agile methodologies in their projects and teams._
 
