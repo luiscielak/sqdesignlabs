@@ -5,8 +5,10 @@ description: Case Study, Progressive Web App (PWA)
 featured_image: /images/social.jpg
 ---
 
-## Redefining the way Agile professionals learn, reference and share human-centric tools
 <img width="712" alt="Screen Shot 2022-09-26 at 3 43 07 PM" src="https://user-images.githubusercontent.com/349454/192366593-7e238555-ed61-48b2-ae37-d66d388931fe.png">
+
+## Redefining the way Agile professionals learn, reference and share human-centric tools
+
 
 
 ### Intro
