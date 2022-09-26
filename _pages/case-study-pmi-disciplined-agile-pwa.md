@@ -33,7 +33,11 @@ PWA: web-based, mobile app, with offline capabilities._
 
 ### The Team
 
+![DALL·E 2022-08-30 19 05 44 - Painting by Dali of a group of designers making an app  ](https://user-images.githubusercontent.com/349454/192364106-bfe061c6-0729-45ba-86c1-aeb00d5e773b.png)
+
 Many people collaborated in this project across product and development teams.
+
+
 
 **Product Team**
 - Design lead
