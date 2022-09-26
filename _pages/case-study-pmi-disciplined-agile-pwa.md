@@ -383,6 +383,7 @@ This project was very successful.
 - And the technology and architecture (technical and information), have become the seed for many future PWA projects to come.
 
 ### Next Steps
+
 The progressive web app is a great way for customers to view Displined Agile content in a new way
 
 - Create an onboarding experience
