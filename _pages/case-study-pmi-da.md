@@ -106,8 +106,6 @@ Starting with Empathize.
 - What did they really want?
 - What did they really need?
 
-![Empathize](https://user-images.githubusercontent.com/349454/192348524-e7d7e765-01c9-432f-bd58-f52ed69e5eb6.jpg)
-
 ![Empathy Map Miro](https://user-images.githubusercontent.com/349454/193666723-95cb313d-ec08-4bc0-a253-67f21c8de259.png)
 
 First we needed to gain clarity on what frustrates our customers the most.
@@ -137,7 +135,6 @@ User interviews takeaways
 - Purchasing materials, certifications, and training is difficult
 - Users do not trust the legitimacy of the content
 
-![User interviews takeaways](https://user-images.githubusercontent.com/349454/192349241-4aa05bba-5c00-4763-8a69-a887edd9f08e.jpg)
 ![Research Insights Dovetail](https://user-images.githubusercontent.com/349454/193666725-7b814ddd-c731-4a4b-95fe-1083334a6336.png)
 
 The main takeaways from the research were around the themes of trust and ease of use.
@@ -198,10 +195,8 @@ On this step, we gathered our insights and began shaping our hypothesis into pot
 - Classify all insights gathered
 - Present our synthesis to stakeholders
 
-![Conceptualize](https://user-images.githubusercontent.com/349454/192349388-66660968-a381-4c78-865e-87f63e8883fa.jpg)
-
-
 ![User Personas Chart](https://user-images.githubusercontent.com/349454/193666727-ce0eca9f-4fb6-4e33-ad87-d348903f60bf.png)
+
 ![User Personas Profiles](https://user-images.githubusercontent.com/349454/193667297-6764179e-d2a1-403f-b01a-024e88c9a631.png)
 
 By mapping out our personas, and grouping them in different ways, we start contrasting and comparing qualities and prioritizing feature sets.
@@ -212,8 +207,7 @@ By mapping out our personas, and grouping them in different ways, we start contr
 - Created affinity maps 
 - Prioritized customer pain-points, wants and needs 
 - Validated insights with customers
-- 
-![Conceptualize (2)](https://user-images.githubusercontent.com/349454/192349403-4497492b-5b05-4e8c-8e5b-3d68133d200b.jpg)
+ 
 
 As we develop these concepts and features, we are constantly validating with our customers.
 
@@ -223,7 +217,7 @@ As we develop these concepts and features, we are constantly validating with our
 - Provide an experience with less friction and more credibility
 - Make Agile work in my teams and organization
 
-![Affinity map](https://user-images.githubusercontent.com/349454/192349424-37b97a9a-e605-47cb-9839-5627dc06face.jpg)
+![Affinity Map](https://user-images.githubusercontent.com/349454/193666717-7b39714a-b511-4cab-93ab-85603f66b917.png)
 
 By conceptually grouping this feedback with Affinity Maps, we uncover actionable solution for various pain-points.
 
@@ -233,12 +227,19 @@ By conceptually grouping this feedback with Affinity Maps, we uncover actionable
 - Unclear how our customers are currently benefiting
 - Clients are not motivated to make a purchase
 
-![Customer journey map](https://user-images.githubusercontent.com/349454/192349443-c792d696-1457-4e8e-9be6-d50fa53b9802.jpg)
+![User Journey](https://user-images.githubusercontent.com/349454/193667296-63525068-2ae4-4714-a41b-834a1f6441e9.png)
+
 
 And by mapping out these experiences into flows, we can uncover points of friction and areas of opportunity beyond a single use case, or touchpoint with a customer.
 
 ### Current State
+
 ![Current State](https://user-images.githubusercontent.com/349454/192349496-63c88560-443e-471e-a512-de591e36d139.jpg)
+
+![Current State Desktop](https://user-images.githubusercontent.com/349454/193666720-b453df10-5ee6-4d74-be06-3a37cb72f493.png)
+
+![Current State Mobile](https://user-images.githubusercontent.com/349454/193670716-1c5a0f3b-b441-4b85-a058-53d5a6e888b5.gif)
+
 
 The current toolkit was originally designed as a companion to a physical book as a reference tool for  diagrams.
 
@@ -256,7 +257,7 @@ Issues in current state:
 - Products and services are poorly integrated
 - Lack of trust and credibility is the most significant threat
 
-![Key takeaways](https://user-images.githubusercontent.com/349454/192349507-7d9fbbfc-cc8f-4b2c-9a51-5a6e6c012f2d.jpg)
+![Key Takeaways Sketches](https://user-images.githubusercontent.com/349454/193666733-c25640c9-1185-44e0-80eb-b373422880f0.png)
 
 The clunky interface and frustrating flows are the most critical shortfalls of the current product.
 
@@ -276,7 +277,7 @@ Let's design some solutions.
 - Did we need a design system right now?
 - What was our visual design language?
 
-![Design](https://user-images.githubusercontent.com/349454/192349580-0304e687-0145-454f-8dfd-68f85783721d.jpg)
+![Project Timeline](https://user-images.githubusercontent.com/349454/193660432-164dc889-2074-4dac-acdb-2d1bf4556451.png)
 
 We had a very aggressive deadline of 6 weeks to fully develop a PWA.
 
@@ -411,19 +412,7 @@ One of the biggest challenges was that we were receiving a JSON file that contai
 ---
 
 
-
-![Project Timeline](https://user-images.githubusercontent.com/349454/193660432-164dc889-2074-4dac-acdb-2d1bf4556451.png)
-
-![User Journey](https://user-images.githubusercontent.com/349454/193667296-63525068-2ae4-4714-a41b-834a1f6441e9.png)
-
-
-
-![Affinity Map](https://user-images.githubusercontent.com/349454/193666717-7b39714a-b511-4cab-93ab-85603f66b917.png)
-![Current State Desktop](https://user-images.githubusercontent.com/349454/193666720-b453df10-5ee6-4d74-be06-3a37cb72f493.png)
 ![Discovery Workshop Insights](https://user-images.githubusercontent.com/349454/193666722-d6519c82-c9e2-48f2-ac2f-5c6ecad5d389.png)
-
-
-
 
 ![Current State Mobile](https://user-images.githubusercontent.com/349454/193666728-5731ea8e-079a-441a-88f9-31aaea388650.png)
 
@@ -431,7 +420,6 @@ One of the biggest challenges was that we were receiving a JSON file that contai
 
 ![Design System](https://user-images.githubusercontent.com/349454/193666730-7ae2c95f-7e06-4551-a414-815058ff68f2.png)
 
-![Key Takeaways Sketches](https://user-images.githubusercontent.com/349454/193666733-c25640c9-1185-44e0-80eb-b373422880f0.png)
 
 ![Next Steps](https://user-images.githubusercontent.com/349454/193666734-4582c97e-a20f-41bb-9b7e-d98acfc56bf7.png)
 
@@ -448,6 +436,5 @@ One of the biggest challenges was that we were receiving a JSON file that contai
 ![Wireframes LowFi](https://user-images.githubusercontent.com/349454/193666742-9be09d27-7a46-42fc-a25a-975d98e556c3.png)
 
 
-![Current State Mobile](https://user-images.githubusercontent.com/349454/193670716-1c5a0f3b-b441-4b85-a058-53d5a6e888b5.gif)
 
 
