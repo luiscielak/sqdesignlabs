@@ -406,19 +406,8 @@ One of the biggest challenges was that we were receiving a JSON file that contai
 
 
 ![Project Timeline](https://user-images.githubusercontent.com/349454/193660432-164dc889-2074-4dac-acdb-2d1bf4556451.png)
-
-
-![5](https://user-images.githubusercontent.com/349454/193660480-031885f0-d210-40f3-9c4b-466513f331ca.png)
-![4](https://user-images.githubusercontent.com/349454/193660481-0b9ead33-79a3-4e2f-8826-9589833cabd3.png)
-![6](https://user-images.githubusercontent.com/349454/193660501-9861a2b6-93bf-4eb9-99e6-681fc32e0103.png)
-
-
-
-
-
-
-
-
+![User Journey](https://user-images.githubusercontent.com/349454/193667296-63525068-2ae4-4714-a41b-834a1f6441e9.png)
+![User Personas Profiles](https://user-images.githubusercontent.com/349454/193667297-6764179e-d2a1-403f-b01a-024e88c9a631.png)
 
 ![Affinity Map](https://user-images.githubusercontent.com/349454/193666717-7b39714a-b511-4cab-93ab-85603f66b917.png)
 ![Current State Desktop](https://user-images.githubusercontent.com/349454/193666720-b453df10-5ee6-4d74-be06-3a37cb72f493.png)
