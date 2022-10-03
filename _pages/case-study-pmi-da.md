@@ -108,6 +108,8 @@ Starting with Empathize.
 
 ![Empathize](https://user-images.githubusercontent.com/349454/192348524-e7d7e765-01c9-432f-bd58-f52ed69e5eb6.jpg)
 
+![Empathy Map Miro](https://user-images.githubusercontent.com/349454/193666723-95cb313d-ec08-4bc0-a253-67f21c8de259.png)
+
 First we needed to gain clarity on what frustrates our customers the most.
 
 What are their motivations? Their frustrations?
@@ -136,6 +138,7 @@ User interviews takeaways
 - Users do not trust the legitimacy of the content
 
 ![User interviews takeaways](https://user-images.githubusercontent.com/349454/192349241-4aa05bba-5c00-4763-8a69-a887edd9f08e.jpg)
+![Research Insights Dovetail](https://user-images.githubusercontent.com/349454/193666725-7b814ddd-c731-4a4b-95fe-1083334a6336.png)
 
 The main takeaways from the research were around the themes of trust and ease of use.
 
@@ -196,6 +199,10 @@ On this step, we gathered our insights and began shaping our hypothesis into pot
 - Present our synthesis to stakeholders
 
 ![Conceptualize](https://user-images.githubusercontent.com/349454/192349388-66660968-a381-4c78-865e-87f63e8883fa.jpg)
+
+
+![User Personas Chart](https://user-images.githubusercontent.com/349454/193666727-ce0eca9f-4fb6-4e33-ad87-d348903f60bf.png)
+![User Personas Profiles](https://user-images.githubusercontent.com/349454/193667297-6764179e-d2a1-403f-b01a-024e88c9a631.png)
 
 By mapping out our personas, and grouping them in different ways, we start contrasting and comparing qualities and prioritizing feature sets.
 
@@ -406,17 +413,22 @@ One of the biggest challenges was that we were receiving a JSON file that contai
 
 
 ![Project Timeline](https://user-images.githubusercontent.com/349454/193660432-164dc889-2074-4dac-acdb-2d1bf4556451.png)
+
 ![User Journey](https://user-images.githubusercontent.com/349454/193667296-63525068-2ae4-4714-a41b-834a1f6441e9.png)
-![User Personas Profiles](https://user-images.githubusercontent.com/349454/193667297-6764179e-d2a1-403f-b01a-024e88c9a631.png)
+
+
 
 ![Affinity Map](https://user-images.githubusercontent.com/349454/193666717-7b39714a-b511-4cab-93ab-85603f66b917.png)
 ![Current State Desktop](https://user-images.githubusercontent.com/349454/193666720-b453df10-5ee6-4d74-be06-3a37cb72f493.png)
 ![Discovery Workshop Insights](https://user-images.githubusercontent.com/349454/193666722-d6519c82-c9e2-48f2-ac2f-5c6ecad5d389.png)
-![Empathy Map Miro](https://user-images.githubusercontent.com/349454/193666723-95cb313d-ec08-4bc0-a253-67f21c8de259.png)
-![Research Insights Dovetail](https://user-images.githubusercontent.com/349454/193666725-7b814ddd-c731-4a4b-95fe-1083334a6336.png)
-![User Personas Chart](https://user-images.githubusercontent.com/349454/193666727-ce0eca9f-4fb6-4e33-ad87-d348903f60bf.png)
+
+
+
+
 ![Current State Mobile](https://user-images.githubusercontent.com/349454/193666728-5731ea8e-079a-441a-88f9-31aaea388650.png)
+
 ![Demo](https://user-images.githubusercontent.com/349454/193666729-c56774a6-98d8-4f46-8e69-f8b21b37e102.png)
+
 ![Design System](https://user-images.githubusercontent.com/349454/193666730-7ae2c95f-7e06-4551-a414-815058ff68f2.png)
 ![Key Takeaways Sketches](https://user-images.githubusercontent.com/349454/193666733-c25640c9-1185-44e0-80eb-b373422880f0.png)
 ![Next Steps](https://user-images.githubusercontent.com/349454/193666734-4582c97e-a20f-41bb-9b7e-d98acfc56bf7.png)
@@ -428,5 +440,6 @@ One of the biggest challenges was that we were receiving a JSON file that contai
 ![Wireframes LowFi](https://user-images.githubusercontent.com/349454/193666742-9be09d27-7a46-42fc-a25a-975d98e556c3.png)
 
 
+![Current State Mobile](https://user-images.githubusercontent.com/349454/193670716-1c5a0f3b-b441-4b85-a058-53d5a6e888b5.gif)
 
 
