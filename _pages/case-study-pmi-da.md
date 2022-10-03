@@ -1,6 +1,6 @@
 ---
 title: "Redefining the way Agile professionals learn, reference and share human-centric tools"
-subtitle: Case Study
+subtitle: Case Study: Project Management Institute (PMI)
 description: Case Study, Progressive Web App (PWA)
 featured_image: /images/social.jpg
 ---
