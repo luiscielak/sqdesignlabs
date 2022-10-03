@@ -430,13 +430,21 @@ One of the biggest challenges was that we were receiving a JSON file that contai
 ![Demo](https://user-images.githubusercontent.com/349454/193666729-c56774a6-98d8-4f46-8e69-f8b21b37e102.png)
 
 ![Design System](https://user-images.githubusercontent.com/349454/193666730-7ae2c95f-7e06-4551-a414-815058ff68f2.png)
+
 ![Key Takeaways Sketches](https://user-images.githubusercontent.com/349454/193666733-c25640c9-1185-44e0-80eb-b373422880f0.png)
+
 ![Next Steps](https://user-images.githubusercontent.com/349454/193666734-4582c97e-a20f-41bb-9b7e-d98acfc56bf7.png)
+
 ![Outcome](https://user-images.githubusercontent.com/349454/193666735-b02f6fca-ad19-485b-b4a9-75239696d9ef.png)
+
 ![Sketches](https://user-images.githubusercontent.com/349454/193666736-99f345b5-62cb-4285-b251-6eff19f6a87e.png)
+
 ![Solution](https://user-images.githubusercontent.com/349454/193666737-f869c9f6-40dd-47d5-b531-0a70c5999980.png)
+
 ![Website](https://user-images.githubusercontent.com/349454/193666739-484bbf05-d830-4cdc-8e1c-262486972ef5.png)
+
 ![Wireframes HiFi](https://user-images.githubusercontent.com/349454/193666741-30dbb6f4-6328-4f4d-adee-003163265acc.png)
+
 ![Wireframes LowFi](https://user-images.githubusercontent.com/349454/193666742-9be09d27-7a46-42fc-a25a-975d98e556c3.png)
 
 
