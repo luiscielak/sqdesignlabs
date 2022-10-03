@@ -90,7 +90,9 @@ _What is the objective of the Toolkit, the project and this whole initiative?_
 
 ### The Process: Empathize
 
-![Process: Empathize](https://user-images.githubusercontent.com/349454/193652996-01737784-0a2b-4998-9f74-a446f132b0ec.png)
+
+
+![Process_ Empathize](https://user-images.githubusercontent.com/349454/193654328-5f46b73a-2f77-41e1-b136-0b812e7386dc.png)
 
 
 Let me take you through my design process.
@@ -180,7 +182,7 @@ Overwhelmed with insights, we needed to start prioritizing to form a strategy.
 - Classify all insights gathered
 - Present our synthesis to stakeholders
 
-![Process_ Conceptualize](https://user-images.githubusercontent.com/349454/192349369-35242f67-fae0-4446-93b8-9b4ad831dc7f.jpg)
+![Process_ Conceptualize](https://user-images.githubusercontent.com/349454/193654360-96758f91-6145-40b5-8bb9-af7c045f82df.png)
 
 Now to Conceptualize.
 
@@ -254,7 +256,9 @@ The clunky interface and frustrating flows are the most critical shortfalls of t
 This results in lack of trust, interest and ultimately the lack of conversions.
 
 ### Process: Design
-![Process_ Design](https://user-images.githubusercontent.com/349454/192349532-dcff4d92-c7bc-4640-bf18-0b81a1670df6.jpg)
+
+![Process_ Design](https://user-images.githubusercontent.com/349454/193654372-290d5cd5-23ca-4927-a73b-bd1c08b03c5b.png)
+
 
 Let's design some solutions.
 
