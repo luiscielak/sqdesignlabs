@@ -1,6 +1,6 @@
 ---
 title: "Streamline communication and workflows utilizing a new mobile app"
-subtitle: Case Study: Movers Specialty Services (MSS)
+subtitle: "Case Study: Movers Specialty Services (MSS)"
 description: Case Study, iOS and Android App
 featured_image: /images/social.jpg
 ---
