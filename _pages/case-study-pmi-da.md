@@ -420,6 +420,23 @@ One of the biggest challenges was that we were receiving a JSON file that contai
 
 
 
+![Affinity Map](https://user-images.githubusercontent.com/349454/193666717-7b39714a-b511-4cab-93ab-85603f66b917.png)
+![Current State Desktop](https://user-images.githubusercontent.com/349454/193666720-b453df10-5ee6-4d74-be06-3a37cb72f493.png)
+![Discovery Workshop Insights](https://user-images.githubusercontent.com/349454/193666722-d6519c82-c9e2-48f2-ac2f-5c6ecad5d389.png)
+![Empathy Map Miro](https://user-images.githubusercontent.com/349454/193666723-95cb313d-ec08-4bc0-a253-67f21c8de259.png)
+![Research Insights Dovetail](https://user-images.githubusercontent.com/349454/193666725-7b814ddd-c731-4a4b-95fe-1083334a6336.png)
+![User Personas Chart](https://user-images.githubusercontent.com/349454/193666727-ce0eca9f-4fb6-4e33-ad87-d348903f60bf.png)
+![Current State Mobile](https://user-images.githubusercontent.com/349454/193666728-5731ea8e-079a-441a-88f9-31aaea388650.png)
+![Demo](https://user-images.githubusercontent.com/349454/193666729-c56774a6-98d8-4f46-8e69-f8b21b37e102.png)
+![Design System](https://user-images.githubusercontent.com/349454/193666730-7ae2c95f-7e06-4551-a414-815058ff68f2.png)
+![Key Takeaways Sketches](https://user-images.githubusercontent.com/349454/193666733-c25640c9-1185-44e0-80eb-b373422880f0.png)
+![Next Steps](https://user-images.githubusercontent.com/349454/193666734-4582c97e-a20f-41bb-9b7e-d98acfc56bf7.png)
+![Outcome](https://user-images.githubusercontent.com/349454/193666735-b02f6fca-ad19-485b-b4a9-75239696d9ef.png)
+![Sketches](https://user-images.githubusercontent.com/349454/193666736-99f345b5-62cb-4285-b251-6eff19f6a87e.png)
+![Solution](https://user-images.githubusercontent.com/349454/193666737-f869c9f6-40dd-47d5-b531-0a70c5999980.png)
+![Website](https://user-images.githubusercontent.com/349454/193666739-484bbf05-d830-4cdc-8e1c-262486972ef5.png)
+![Wireframes HiFi](https://user-images.githubusercontent.com/349454/193666741-30dbb6f4-6328-4f4d-adee-003163265acc.png)
+![Wireframes LowFi](https://user-images.githubusercontent.com/349454/193666742-9be09d27-7a46-42fc-a25a-975d98e556c3.png)
 
 
 
