@@ -292,7 +292,7 @@ And developed quickly.
 - Moved forward with a mobile-first approach
 - Focus on home screen and diagram navigation
 
-![Design (2)](https://user-images.githubusercontent.com/349454/192349611-d00a9447-7321-461c-845d-b9dc80221a9f.jpg)
+![Sketches](https://user-images.githubusercontent.com/349454/193666736-99f345b5-62cb-4285-b251-6eff19f6a87e.png)
 
 We needed a tight collaboration with the visual design team, development team, Q&A, and visual design.
 
@@ -303,7 +303,7 @@ We needed a tight collaboration with the visual design team, development team, Q
 - Build a dynamic brand that is scalable and adaptable
 - Design responsive components with theming capabilities
 
-![Design System](https://user-images.githubusercontent.com/349454/192349640-b9618d80-9d37-4b5c-a267-075ab0336f77.jpg)
+![Design System](https://user-images.githubusercontent.com/349454/193666730-7ae2c95f-7e06-4551-a414-815058ff68f2.png)
 
 We needed a visual system that could scale with content (techniques, options, categories).
 
@@ -317,7 +317,7 @@ We wanted to empowers devs and content creators to build their own pages and tem
 - Consider multiple ways to explore and share content
 - Consider how to streamline the home screen
 
-![Specific feature_flow highlights](https://user-images.githubusercontent.com/349454/192349662-f9e9d300-1ca2-4e93-baca-16acabb39784.jpg)
+![Wireframes LowFi](https://user-images.githubusercontent.com/349454/193666742-9be09d27-7a46-42fc-a25a-975d98e556c3.png)
 
 As wireframes and prototypes were created and validated with users, design was iterated and improved upon.
 
@@ -329,14 +329,15 @@ This is some of the initial critical feedback we recevied.
 - Clearly define terminology and expand support features
 - Provide a dedicated onboarding experience
 
-![Overall design highlights](https://user-images.githubusercontent.com/349454/192349688-3ffd827c-acca-4b76-94dc-efe27257d276.jpg)
+![Wireframes HiFi](https://user-images.githubusercontent.com/349454/193666741-30dbb6f4-6328-4f4d-adee-003163265acc.png)
 
 Some of that feedback was added to a backlog and prioritized.
 
 And we focused on `<List hihglights>`
 
 ### The Solution
-![IMG_8600](https://user-images.githubusercontent.com/349454/192384535-bf4b99a1-fde5-4aff-9401-e3fe339e4a7e.jpg)
+
+![Solution On-Hand](https://user-images.githubusercontent.com/349454/192384535-bf4b99a1-fde5-4aff-9401-e3fe339e4a7e.jpg)
 
 **How might we organize our content to make it more relatable, accessible and shareable?**
 
@@ -356,15 +357,17 @@ _This included work on: information architecture, information design, and access
 - Responsive to multiple devices (phones, tablets, desktops)
 - It works without internet connectivity
 
-![The Solution (2)](https://user-images.githubusercontent.com/349454/192349718-58f7322f-1fa4-4c9c-9edc-dbbe3d6184a2.jpg)
+![Solution](https://user-images.githubusercontent.com/349454/193666737-f869c9f6-40dd-47d5-b531-0a70c5999980.png)
 
 What is the solution? and Why a PWA?
 
 `<List benefits>`
 
 ### Demo
+
 ![Demo](https://user-images.githubusercontent.com/349454/192349765-2e787c68-4ecb-46de-a911-a68205073c39.jpg)
 
+![Website](https://user-images.githubusercontent.com/349454/193666739-484bbf05-d830-4cdc-8e1c-262486972ef5.png)
 
 Meet the DA Toolkit.
 
@@ -378,8 +381,7 @@ Forest > Trees > Leafs on demand.
 - Extended to 3 additional key project initiatives
 - The app has become the preferred method for learning, referencing, teaching, and sharing best Agile practices and methods
 
-![Outcome](https://user-images.githubusercontent.com/349454/192349794-b2cc3aa9-5b61-4305-abbc-5e561727c59d.jpg)
-
+![Outcome](https://user-images.githubusercontent.com/349454/193666735-b02f6fca-ad19-485b-b4a9-75239696d9ef.png)
 
 This project was very successful.
 
@@ -394,8 +396,7 @@ This project was very successful.
 - Better UI affordances
 - Refine typography
 
-![Next Steps](https://user-images.githubusercontent.com/349454/192349832-4e03b9ee-8358-4de8-8669-6e9b1f0e25bb.jpg)
-
+![Next Steps](https://user-images.githubusercontent.com/349454/193666734-4582c97e-a20f-41bb-9b7e-d98acfc56bf7.png)
 
 One of the biggest challenges was that we were receiving a JSON file that contained in-line HTML styles that prevented from displaying the text better.
 
@@ -412,28 +413,21 @@ One of the biggest challenges was that we were receiving a JSON file that contai
 ---
 
 
-![Discovery Workshop Insights](https://user-images.githubusercontent.com/349454/193666722-d6519c82-c9e2-48f2-ac2f-5c6ecad5d389.png)
 
 ![Current State Mobile](https://user-images.githubusercontent.com/349454/193666728-5731ea8e-079a-441a-88f9-31aaea388650.png)
 
 ![Demo](https://user-images.githubusercontent.com/349454/193666729-c56774a6-98d8-4f46-8e69-f8b21b37e102.png)
 
-![Design System](https://user-images.githubusercontent.com/349454/193666730-7ae2c95f-7e06-4551-a414-815058ff68f2.png)
 
 
-![Next Steps](https://user-images.githubusercontent.com/349454/193666734-4582c97e-a20f-41bb-9b7e-d98acfc56bf7.png)
 
-![Outcome](https://user-images.githubusercontent.com/349454/193666735-b02f6fca-ad19-485b-b4a9-75239696d9ef.png)
 
-![Sketches](https://user-images.githubusercontent.com/349454/193666736-99f345b5-62cb-4285-b251-6eff19f6a87e.png)
 
-![Solution](https://user-images.githubusercontent.com/349454/193666737-f869c9f6-40dd-47d5-b531-0a70c5999980.png)
 
-![Website](https://user-images.githubusercontent.com/349454/193666739-484bbf05-d830-4cdc-8e1c-262486972ef5.png)
 
-![Wireframes HiFi](https://user-images.githubusercontent.com/349454/193666741-30dbb6f4-6328-4f4d-adee-003163265acc.png)
 
-![Wireframes LowFi](https://user-images.githubusercontent.com/349454/193666742-9be09d27-7a46-42fc-a25a-975d98e556c3.png)
+
+
 
 
 
