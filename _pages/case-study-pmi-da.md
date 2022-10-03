@@ -89,7 +89,8 @@ Research, strategize and design an end-to-end PWA (progress web app) experience 
 _What is the objective of the Toolkit, the project and this whole initiative?_
 
 ### The Process: Empathize
-![Process_ Empathize](https://user-images.githubusercontent.com/349454/192348505-9a9a5163-7051-4d88-b49f-dd1c90bf7019.jpg)
+
+![Process: Empathize](https://user-images.githubusercontent.com/349454/193652996-01737784-0a2b-4998-9f74-a446f132b0ec.png)
 
 
 Let me take you through my design process.
