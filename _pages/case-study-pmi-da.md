@@ -7,6 +7,10 @@ featured_image: /images/social.jpg
 
 <img width="712" alt="Screen Shot 2022-09-26 at 3 43 07 PM" src="https://user-images.githubusercontent.com/349454/192366593-7e238555-ed61-48b2-ae37-d66d388931fe.png">
 
+
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+
 ### Intro
 
 PMI’s **Disciplined Agile Toolkit App** provides access to over **400+ techniques, templates and best practices for project success across product delivery teams**.
@@ -403,13 +407,6 @@ One of the biggest challenges was that we were receiving a JSON file that contai
 
 
 
-
-
-
-
-
-
-
 ---
 
 
@@ -418,6 +415,21 @@ One of the biggest challenges was that we were receiving a JSON file that contai
 
 ![Demo](https://user-images.githubusercontent.com/349454/193666729-c56774a6-98d8-4f46-8e69-f8b21b37e102.png)
 
+
+---
+
+### Footnotes
+
+
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
 
 
 
