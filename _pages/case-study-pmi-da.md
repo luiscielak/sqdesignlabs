@@ -27,9 +27,9 @@ One of DA's main component is the DA Tool Kit. This case study shows how I was a
 
 ![DALL·E 2022-08-30 19 05 44 - Painting by Dali of a group of designers making an app](https://user-images.githubusercontent.com/349454/192364106-bfe061c6-0729-45ba-86c1-aeb00d5e773b.png)
 
-Image generated with DALL·E[^3]
+Image generated with DALL-E[^3]
 
-[^3] DALL·E. "Painting by Dali of a group of designers making an app."
+[^3] DALL-E. "Painting by Dali of a group of designers making an app."
 
 Many people collaborated in this project across product and development teams.
 
