@@ -27,9 +27,9 @@ One of DA's main component is the DA Tool Kit. This case study shows how I was a
 
 ![DALL·E 2022-08-30 19 05 44 - Painting by Dali of a group of designers making an app](https://user-images.githubusercontent.com/349454/192364106-bfe061c6-0729-45ba-86c1-aeb00d5e773b.png)
 
-Image generated with DALL·E[^3]
+[^3]
 
-[^3]: DALL·E. "Painting by Dali of a group of designers making an app."
+[^3]: DALL·E. Painting by Dali of a group of designers making an app.
 
 Many people collaborated in this project across product and development teams.
 
@@ -54,9 +54,9 @@ As you can see, we had a stellar team that collaborated across many disciplines,
 
 ![DALL·E 2022-09-26 15 50 12 - An oil painting by Matisse of a bald designer making an app](https://user-images.githubusercontent.com/349454/192366968-a99a19fe-c200-43c2-ac4a-2597cbe2b1e9.png)
 
-Image generated with DALL·E[^4]
+[^4]
 
-[^4]: DALL·E. "An oil painting by Matisse of a bald designer making an app."
+[^4]: Image generated with DALL·E. "An oil painting by Matisse of a bald designer making an app."
 
 ### Design Lead
 
@@ -107,7 +107,7 @@ What are their motivations? Their frustrations?
 
 I used Miro[^5] here to facilitate these remote workshops.
 
-[^5]: [Miro](https://miro.com/). "An online collaborative whiteboard platform to bring teams together, anytime, anywhere."
+[^5]: [Miro](https://miro.com/). An online collaborative whiteboard platform to bring teams together, anytime, anywhere.
 
 
 **Approach:**
@@ -406,9 +406,9 @@ The progressive web app is a great way for customers to view Disciplined Agile c
 ## Footnotes
 
 
-[^1]: Forbes. ["Agile Vs. Waterfall: Which Project Management Methodology Is Best For You?"](https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/)
+[^1]: [Forbes.](https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/) Agile Vs. Waterfall: Which Project Management Methodology Is Best For You?
 
-[^2]: PMI. ["Project Management Institute Announces Acquisition of Disciplined Agile"](https://www.pmi.org/about/press-media/press-releases/project-management-institute-announces-acquisition-of-disciplined-agile)
+[^2]: [PMI.](https://www.pmi.org/about/press-media/press-releases/project-management-institute-announces-acquisition-of-disciplined-agile) Project Management Institute Announces Acquisition of Disciplined Agile
 
 
 
