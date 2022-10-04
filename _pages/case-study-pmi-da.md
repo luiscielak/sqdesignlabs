@@ -9,7 +9,7 @@ featured_image: /images/social.jpg
 
 ### Intro
 
-PMI’s **Disciplined Agile Toolkit App** provides access to over **400+ techniques, templates and best practices for project success across product delivery teams**. 
+PMI’s **Disciplined Agile Toolkit App** provides access to over **400+ techniques, templates and best practices for project success across product delivery teams**.
 
 This Progressive Web Application (PWA) allows **product owners**, **project managers**, **consultants**, **practitioners** and **educators** to apply, save and share proven techniques across the most popular industries and teams to **improve the way teams work**.
 
@@ -63,12 +63,12 @@ As you can see, we had a stellar team that collaborated across many disciplines,
 - Create lo/hi fidelity wireframes and build interactive prototypes
 - Partner with the design systems team to develop and extend components and design tokens
 
-_My role as a Design lead:
+My role as a Design lead:
 
 - Facilitated workshops
 - Collaborate with research to conduct studies
 - Create personas, wireframes, flows, and prototypes
-- Work with the design systems team to make sure we are a UI that is scalable, reusable and dynamic._
+- Work with the design systems team to make sure we are a UI that is scalable, reusable and dynamic.
 
 ### The Context
 Disciplined Agile (DA) is developing a Progressive Web App (PWA) as a proof of concept for future PWAs across the PMI organization.
@@ -204,10 +204,10 @@ By mapping out our personas, and grouping them in different ways, we start contr
 ### Conceptualize B
 **Jumped into secondary research to form our product strategy and experience.**
 
-- Created affinity maps 
-- Prioritized customer pain-points, wants and needs 
+- Created affinity maps
+- Prioritized customer pain-points, wants and needs
 - Validated insights with customers
- 
+
 
 As we develop these concepts and features, we are constantly validating with our customers.
 
@@ -299,7 +299,7 @@ We needed a tight collaboration with the visual design team, development team, Q
 `<List areas of focus>`
 
 ### Design System
-- Implement reusable components to eliminate inconsistency 
+- Implement reusable components to eliminate inconsistency
 - Build a dynamic brand that is scalable and adaptable
 - Design responsive components with theming capabilities
 
