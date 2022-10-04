@@ -19,7 +19,7 @@ This Progressive Web Application (PWA) allows **product owners**, **project mana
 
 This case study explores how PMI attempts to modernize themselves.
 
-PMI is known for the PMP certification. Many modern teams have moved away from those methodologies of project management, such as waterfall, into a swifter more effective ways, such as Agile and Scrum [cite]().
+PMI is known for more traditional project management methodologies. Many modern teams have moved away from those techniques of project management, such as waterfall, into swifter and more flexible ways, such as Agile and Scrum[^1].
 
 _PMI acquired DA as a response to serve their clients using these Agile methodologies in their projects and teams._
 
@@ -421,15 +421,7 @@ One of the biggest challenges was that we were receiving a JSON file that contai
 ### Footnotes
 
 
-[^1]: This is the first footnote.
-
-[^bignote]: Here's one with multiple paragraphs and code.
-
-    Indent paragraphs to include them in the footnote.
-
-    `{ my code }`
-
-    Add as many paragraphs as you like.
+[^1]: Forbes. ["Agile Vs. Waterfall: Which Project Management Methodology Is Best For You?"](https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/)
 
 
 
