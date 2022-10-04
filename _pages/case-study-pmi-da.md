@@ -350,7 +350,7 @@ _The solution was heavily grounded on how to better navigate content that is ver
 _This included work on: information architecture, information design, and accessibility considerations._
 
 ### The Technology
-> The progressive web app is a great way for customers to view Disciplined Agile content in a new way
+The progressive web app is a great way for customers to view Disciplined Agile content in a new way.
 
 - Working on multiple browsers and sharable through a link
 - Responsive to multiple devices (phones, tablets, desktops)
@@ -361,16 +361,15 @@ _This included work on: information architecture, information design, and access
 
 ## Demo
 
-> Meet the DA Toolkit.
-
-![Demo](https://user-images.githubusercontent.com/349454/192349765-2e787c68-4ecb-46de-a911-a68205073c39.jpg)
+### Meet the DA Toolkit.
 
 ![Website](https://user-images.githubusercontent.com/349454/193666739-484bbf05-d830-4cdc-8e1c-262486972ef5.png)
 
+![Demo](https://user-images.githubusercontent.com/349454/193666729-c56774a6-98d8-4f46-8e69-f8b21b37e102.png)
 
 ## Outcomes
 
-> We successfully launched 6 months later an MVP that will serve as the backbone for all future mobile projects in PMI.
+**We successfully launched 6 months later an MVP that will serve as the backbone for all future mobile projects in PMI.**
 
 - Adopted by PMI Agile coaches and instructors
 - Extended to 3 additional key project initiatives
@@ -381,7 +380,7 @@ _This included work on: information architecture, information design, and access
 
 ## Next Steps
 
-> The progressive web app is a great way for customers to view Disciplined Agile content in a new way
+**The progressive web app is a great way for customers to view Disciplined Agile content in a new way.**
 
 - Create a better on-boarding experience
 - Better UI affordances
@@ -399,7 +398,7 @@ _This included work on: information architecture, information design, and access
 
 ![Current State Mobile](https://user-images.githubusercontent.com/349454/193666728-5731ea8e-079a-441a-88f9-31aaea388650.png)
 
-![Demo](https://user-images.githubusercontent.com/349454/193666729-c56774a6-98d8-4f46-8e69-f8b21b37e102.png)
+
 
 
 ---
