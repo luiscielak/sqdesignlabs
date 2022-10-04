@@ -27,9 +27,9 @@ One of DA's main component is the DA Tool Kit. This case study shows how I was a
 
 ![DALL·E 2022-08-30 19 05 44 - Painting by Dali of a group of designers making an app](https://user-images.githubusercontent.com/349454/192364106-bfe061c6-0729-45ba-86c1-aeb00d5e773b.png)
 
-Image generated with DALL-E[^3]
+Image generated with DALL·E[^3]
 
-[^3] DALL-E. "Painting by Dali of a group of designers making an app."
+[^3]: DALL·E. "Painting by Dali of a group of designers making an app."
 
 Many people collaborated in this project across product and development teams.
 
@@ -56,7 +56,7 @@ As you can see, we had a stellar team that collaborated across many disciplines,
 
 Image generated with DALL·E[^4]
 
-[^4] DALL·E. "An oil painting by Matisse of a bald designer making an app."
+[^4]: DALL·E. "An oil painting by Matisse of a bald designer making an app."
 
 ### Design Lead
 
@@ -85,9 +85,7 @@ Research, strategize and design an end-to-end PWA (Progress Web App) experience 
 
 
 
-## The Process
-
-### Empathize
+## The Process: Empathize
 
 Let me take you through my design process.
 
@@ -95,7 +93,7 @@ Starting with Empathize.
 
 ![Process_ Empathize](https://user-images.githubusercontent.com/349454/193654328-5f46b73a-2f77-41e1-b136-0b812e7386dc.png)
 
-**Lacked understanding in customer wants, needs and expectations.**
+**We lacked understanding in customer wants, needs and expectations.**
 
 - Current frustrations and pain points?
 - What did they really want?
@@ -109,7 +107,7 @@ What are their motivations? Their frustrations?
 
 I used Miro[^5] here to facilitate these remote workshops.
 
-[^5] [Miro](https://miro.com/). "An online collaborative whiteboard platform to bring teams together, anytime, anywhere."
+[^5]: [Miro](https://miro.com/). "An online collaborative whiteboard platform to bring teams together, anytime, anywhere."
 
 
 **Approach:**
