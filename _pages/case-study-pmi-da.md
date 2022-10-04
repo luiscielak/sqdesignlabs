@@ -8,9 +8,6 @@ featured_image: /images/social.jpg
 <img width="712" alt="Screen Shot 2022-09-26 at 3 43 07 PM" src="https://user-images.githubusercontent.com/349454/192366593-7e238555-ed61-48b2-ae37-d66d388931fe.png">
 
 
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
-
-
 ### Intro
 
 PMI’s **Disciplined Agile Toolkit App** provides access to over **400+ techniques, templates and best practices for project success across product delivery teams**.
@@ -19,13 +16,11 @@ This Progressive Web Application (PWA) allows **product owners**, **project mana
 
 This case study explores how PMI attempts to modernize themselves.
 
-PMI is known for more traditional project management methodologies. Many modern teams have moved away from those techniques of project management, such as waterfall, into swifter and more flexible ways, such as Agile and Scrum[^1].
+PMI, the leader in project management certification, is known for more traditional methodologies. Many modern teams have moved away from those techniques of project management into swifter and more flexible ways, such as Agile and Scrum[^1].
 
-_PMI acquired DA as a response to serve their clients using these Agile methodologies in their projects and teams._
+PMI acquired Disciplined Agile (DA) to be able to offer their clients courses, training, certifications, and coaching in these Agile methodologies.
 
-_One of DA's component is the DA toolkit._
-
-_This case study shows how I was able to redesign the current desktop-only toolkit, into a mobile-first redesign, focused on our customers._
+One of DA's main component is the DA Tool Kit. This case study shows how I was able to redesign the current desktop-only toolkit, into a mobile-first redesign, focused on our customers.
 
 _PMI: leader in PM certification.
 DA: is the solution and response to Agile, one of the most used mehtodologies in the tech
@@ -409,6 +404,21 @@ One of the biggest challenges was that we were receiving a JSON file that contai
 
 ---
 
+Text that is not a quote
+
+> Text that is a quote
+
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+
 
 
 ![Current State Mobile](https://user-images.githubusercontent.com/349454/193666728-5731ea8e-079a-441a-88f9-31aaea388650.png)
@@ -421,16 +431,17 @@ One of the biggest challenges was that we were receiving a JSON file that contai
 ### Footnotes
 
 
-[^1]: Forbes. ["Agile Vs. Waterfall: Which Project Management Methodology Is Best For You?"](https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/)
+[^1]: Forbes. [Agile Vs. Waterfall: Which Project Management Methodology Is Best For You?](https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/)
+
+[^2]: PMI. [Project Management Institute Announces Acquisition of Disciplined Agile](https://www.pmi.org/about/press-media/press-releases/project-management-institute-announces-acquisition-of-disciplined-agile)
 
 
 
 
 
+This site was built using [GitHub Pages](https://pages.github.com/).
 
-
-
-
+:+1:
 
 
 
