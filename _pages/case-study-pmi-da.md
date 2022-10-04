@@ -25,7 +25,9 @@ One of DA's main component is the DA Tool Kit. This case study shows how I was a
 
 ## The Team
 
-![DALL·E 2022-08-30 19 05 44 - Painting by Dali of a group of designers making an app](https://user-images.githubusercontent.com/349454/192364106-bfe061c6-0729-45ba-86c1-aeb00d5e773b.png)[^3]
+![DALL·E 2022-08-30 19 05 44 - Painting by Dali of a group of designers making an app](https://user-images.githubusercontent.com/349454/192364106-bfe061c6-0729-45ba-86c1-aeb00d5e773b.png)
+
+Image generated with DALL·E[^3]
 
 [^3] DALL·E. "Painting by Dali of a group of designers making an app."
 
@@ -392,20 +394,6 @@ _This included work on: information architecture, information design, and access
 
 ---
 
-Text that is not a quote
-
-> Text that is a quote
-
-
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
-
-
-The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
 
 
 
@@ -424,12 +412,6 @@ The background color should be `#ffffff` for light mode and `#0d1117` for dark m
 [^2]: PMI. ["Project Management Institute Announces Acquisition of Disciplined Agile"](https://www.pmi.org/about/press-media/press-releases/project-management-institute-announces-acquisition-of-disciplined-agile)
 
 
-
-
-
-This site was built using [GitHub Pages](https://pages.github.com/).
-
-:+1:
 
 
 
