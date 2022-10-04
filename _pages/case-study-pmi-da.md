@@ -52,7 +52,9 @@ As you can see, we had a stellar team that collaborated across many disciplines,
 
 ## My Role
 
-![DALL·E 2022-09-26 15 50 12 - An oil painting by Matisse of a bald designer making an app](https://user-images.githubusercontent.com/349454/192366968-a99a19fe-c200-43c2-ac4a-2597cbe2b1e9.png)[^4]
+![DALL·E 2022-09-26 15 50 12 - An oil painting by Matisse of a bald designer making an app](https://user-images.githubusercontent.com/349454/192366968-a99a19fe-c200-43c2-ac4a-2597cbe2b1e9.png)
+
+Image generated with DALL·E[^4]
 
 [^4] DALL·E. "An oil painting by Matisse of a bald designer making an app."
 
@@ -67,9 +69,9 @@ As you can see, we had a stellar team that collaborated across many disciplines,
 
 ## The Context
 
-> Disciplined Agile (DA) is developing a Progressive Web App (PWA) as a proof of concept for future PWAs across the PMI organization.
+Disciplined Agile (DA) is developing a Progressive Web App (PWA) as a proof of concept for future PWAs across the PMI organization.
 
-![IMG_8595](https://user-images.githubusercontent.com/349454/192383687-8742115a-1a8b-40a8-89dd-0aab7443628b.jpg)
+![DA Toolkit Phone on Hand](https://user-images.githubusercontent.com/349454/192383687-8742115a-1a8b-40a8-89dd-0aab7443628b.jpg)
 
 
 ## The Problem
@@ -83,7 +85,9 @@ Research, strategize and design an end-to-end PWA (Progress Web App) experience 
 
 
 
-## The Process: Empathize
+## The Process
+
+### Empathize
 
 Let me take you through my design process.
 
@@ -91,9 +95,7 @@ Starting with Empathize.
 
 ![Process_ Empathize](https://user-images.githubusercontent.com/349454/193654328-5f46b73a-2f77-41e1-b136-0b812e7386dc.png)
 
-
-**Key Finding:**
-> Lacked understanding in customer wants, needs and expectations.
+**Lacked understanding in customer wants, needs and expectations.**
 
 - Current frustrations and pain points?
 - What did they really want?
