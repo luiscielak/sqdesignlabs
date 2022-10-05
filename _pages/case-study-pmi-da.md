@@ -337,14 +337,17 @@ This included work on: information architecture, information design, and accessi
 - Responsive to multiple devices (phones, tablets, desktops)
 - It works without Internet connectivity
 
-![Solution](https://user-images.githubusercontent.com/349454/193666737-f869c9f6-40dd-47d5-b531-0a70c5999980.png)
 
 
 
 ![Toolkit Website](https://user-images.githubusercontent.com/349454/194134429-13454ffa-ba7d-4afd-bbe2-79d627af1ea5.jpg)
 
 
+![Solution](https://user-images.githubusercontent.com/349454/193666737-f869c9f6-40dd-47d5-b531-0a70c5999980.png)
 
+
+
+![Case Study Animations](https://user-images.githubusercontent.com/349454/194138275-bde68143-f61e-491d-afdb-350c68d0a151.gif)
 
 
 
@@ -381,6 +384,14 @@ This included work on: information architecture, information design, and accessi
 [^2]: [PMI.](https://www.pmi.org/about/press-media/press-releases/project-management-institute-announces-acquisition-of-disciplined-agile) Project Management Institute Announces Acquisition of Disciplined Agile
 
 
+
+---
+
+![Case Study Animations](https://user-images.githubusercontent.com/349454/194138275-bde68143-f61e-491d-afdb-350c68d0a151.gif)
+
+![Case Study Animations](https://user-images.githubusercontent.com/349454/194138275-bde68143-f61e-491d-afdb-350c68d0a151.gif)
+
+![Case Study Animations](https://user-images.githubusercontent.com/349454/194138275-bde68143-f61e-491d-afdb-350c68d0a151.gif)
 
 
 
