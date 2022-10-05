@@ -23,30 +23,43 @@ MSS gets hired by movers and relocators to pack delicate and valuable items. MSS
 
 
 ## The Team
-Many people collaborated in this project.
+
+Many people collaborated in this project across product and development teams.
 
 ![DALL·E 2022-09-26 17 47 41 - Painting by Rembrandt of a group of designers creating an app](https://user-images.githubusercontent.com/349454/192397428-b76eba76-dc37-41bd-ac3f-05072e2e822b.png)
 
-### Product & Development Teams
+
+### Product Team
 - Design Lead
 - Project Manager
+
+
+### Development Team
 - Tech Lead
 - Front-end Engineer
 - Back-end Engineer
 - Quality Assurance (QA) Manager
 
+As you can see, we had a stellar team that collaborated across many disciplines, building something that I’m very proud of, and happy to share with you.
 
-## My Role: Design Lead
-- Facilitated discovery sessions and workshops
-- Created sketches and wireframes
-- Built prototypes and conduct usability studies
-- Created and implement reusable components
-- Conducted user research
+
+## My Role
 
 ![DALL·E 2022-08-30 20 13 25 - An oil painting by Matisse of a bald designer making an app](https://user-images.githubusercontent.com/349454/192397517-29f2f5a7-45bf-45b6-bf23-219db20cf8dd.png)
 
 
+### Design Lead
+
+- Facilitated discovery sessions and workshops
+- Created sketches and wireframes
+- Built prototypes and conduct usability studies
+- Created and implement reusable React components
+- Conducted user research
+
+
+
 ## The Context
+
 Movers Specialty Service (MSS)  was developing a Progressive Web App (PWA) to **enhance the current packing and logistics tool for movers and relocators**.
 
 ![The Context](https://user-images.githubusercontent.com/349454/192396189-86c21ce3-c40e-4378-85e1-d1ba7a2020b2.jpg)
