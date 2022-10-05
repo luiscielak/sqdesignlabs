@@ -210,8 +210,7 @@ By conceptually grouping this feedback with Affinity Maps, we uncover actionable
 - Provide an experience with less friction and more credibility
 - Make Agile work in my teams and organization
 
-![Affinity Map](https://user-images.githubusercontent.com/349454/193666717-7b39714a-b511-4cab-93ab-85603f66b917.png)
-
+![Affinity Map](https://user-images.githubusercontent.com/349454/194168425-361925f3-269a-4191-8ae4-94f2c16cf9e4.png)
 
 
 ### Customer Journey Map
@@ -302,8 +301,7 @@ This is some of the initial critical feedback we received.
 - Consider multiple ways to explore and share content
 - Consider how to streamline the home screen
 
-![Wireframes LowFi](https://user-images.githubusercontent.com/349454/193666742-9be09d27-7a46-42fc-a25a-975d98e556c3.png)
-
+![Wireframes LowFi](https://user-images.githubusercontent.com/349454/194168491-b5875d2e-3319-4bb3-83c6-1e5955db3eca.png)
 
 
 ## The Solution
@@ -337,7 +335,7 @@ This included work on: information architecture, information design, and accessi
 - Responsive to multiple devices (phones, tablets, desktops)
 - It works without Internet connectivity
 
-![Toolkit Website](https://user-images.githubusercontent.com/349454/194134429-13454ffa-ba7d-4afd-bbe2-79d627af1ea5.jpg)
+![Toolkit Website](https://user-images.githubusercontent.com/349454/194168314-e374f274-0bf4-4ccf-b0eb-369d44637e01.png)
 
 ![Solution UI 1](https://user-images.githubusercontent.com/349454/194164671-76dcd00a-de0d-4a04-9185-f587a9917530.gif)
 
