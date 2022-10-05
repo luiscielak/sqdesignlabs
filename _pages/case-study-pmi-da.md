@@ -56,21 +56,20 @@ As you can see, we had a stellar team that collaborated across many disciplines,
 
 
 
-## My Role
-
-![DALL·E 2022-09-26 15 50 12 - An oil painting by Matisse of a bald designer making an app](https://user-images.githubusercontent.com/349454/192366968-a99a19fe-c200-43c2-ac4a-2597cbe2b1e9.png)
-
-[^4]
-
-[^4]: Image generated with DALL·E. "An oil painting by Matisse of a bald designer making an app."
-
-### Design Lead
+## My Role: Design Lead
 
 - Facilitate discovery workshops with stakeholders and leads
 - Collaborate with the UX research team to conduct generative and evaluative research
 - Define user personas, user journeys, user flows, and empathy maps
 - Create lo/hi fidelity wireframes and build interactive prototypes
 - Partner with the design systems team to develop and extend components and design tokens
+
+![DALL·E 2022-09-26 15 50 12 - An oil painting by Matisse of a bald designer making an app](https://user-images.githubusercontent.com/349454/192366968-a99a19fe-c200-43c2-ac4a-2597cbe2b1e9.png)
+*image caption [^4]*
+
+[^4]
+
+[^4]: Image generated with DALL·E. "An oil painting by Matisse of a bald designer making an app."
 
 
 ## The Context
