@@ -335,7 +335,7 @@ This included work on: information architecture, information design, and accessi
 - Responsive to multiple devices (phones, tablets, desktops)
 - It works without Internet connectivity
 
-![Toolkit Website](https://user-images.githubusercontent.com/349454/194168314-e374f274-0bf4-4ccf-b0eb-369d44637e01.png)
+![Toolkit Website](https://user-images.githubusercontent.com/349454/194168915-54ff4ce6-17aa-4fe0-aaf4-2feeaf2e26cb.png)
 
 ![Solution UI 1](https://user-images.githubusercontent.com/349454/194164671-76dcd00a-de0d-4a04-9185-f587a9917530.gif)
 
