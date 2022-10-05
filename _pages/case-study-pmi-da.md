@@ -337,7 +337,7 @@ This included work on: information architecture, information design, and accessi
 
 ![Toolkit Website](https://user-images.githubusercontent.com/349454/194168915-54ff4ce6-17aa-4fe0-aaf4-2feeaf2e26cb.png)
 
-![Solution UI 1](https://user-images.githubusercontent.com/349454/194164671-76dcd00a-de0d-4a04-9185-f587a9917530.gif)
+![Solution UI 1](https://user-images.githubusercontent.com/349454/194173922-8e08934d-55a3-48a4-881e-16e3807add55.gif)
 
 ![Solution UI 2](https://user-images.githubusercontent.com/349454/194167154-4aa9dd46-bb33-41f3-8357-b00577a02ba2.gif)
 
