@@ -59,13 +59,14 @@ Movers Specialty Service (MSS)  was developing a Progressive Web App (PWA) to **
 
 ![Context Build](https://user-images.githubusercontent.com/349454/193978611-93c88eb4-e4c1-4b05-abc5-4a9179854b8d.png)
 
-![Context Pack](https://user-images.githubusercontent.com/349454/193978609-32a1ffb2-7605-493e-a6db-e647b1d8640b.png)
 
 ## The Objective
 
 To research and design an end-to-end dispatching experience to help movers, drivers and technicians communicate and focus on safety and accessibility while on the move.
 
 The objective for this project was to build a tool for the technicians and drivers to simplify their workflow, communicate better and be as focused and safe while on the move.
+
+![Context Pack](https://user-images.githubusercontent.com/349454/193978609-32a1ffb2-7605-493e-a6db-e647b1d8640b.png)
 
 
 ## The Problem
@@ -154,6 +155,7 @@ On this step, we gathered our insights and began shaping our hypothesis into pot
 - Present our synthesis to stakeholders
 
 ![Conceptualize](https://user-images.githubusercontent.com/349454/192396204-3bb52e6d-566f-4987-8528-e5158bb85ae8.jpg)
+
 ![Ride Along Site](https://user-images.githubusercontent.com/349454/193978603-57496eea-0202-4df7-a217-1a63a94110a1.png)
 
 As we started to build these flows, we were constantly validating our hypothesis and solutions with our customers.
@@ -219,13 +221,13 @@ A collaboration between product owners, designers and engineers
 
 The collaboration between design, engineering and project management was key in order to prioritize and estimate accurately.
 
-![Design](https://user-images.githubusercontent.com/349454/192396217-9a1b2b3f-2478-41ff-bd92-1e60ae6db449.jpg)
+![Estimation](https://user-images.githubusercontent.com/349454/193978592-52dfa150-39f6-423a-b494-4a84c306f8d8.png)
 
 ### Wireframes
 
 Once the flows were established, quick wireframing leveraging the current design system was next.
 
-![Wireframes](https://user-images.githubusercontent.com/349454/192396214-04d32000-3425-4d32-bde1-36b87894dfdd.jpg)
+![Wireframes](https://user-images.githubusercontent.com/349454/193978594-7d8230ee-69cb-4c36-b199-ef64a0ea293b.png)
 
 ### Prototypes
 
@@ -347,11 +349,13 @@ MSS’s work became easier than ever and, due to additions based on user insight
 
 
 
-![Estimation](https://user-images.githubusercontent.com/349454/193978592-52dfa150-39f6-423a-b494-4a84c306f8d8.png)
+
 ![Key Takeaways](https://user-images.githubusercontent.com/349454/193978593-776273ae-a08c-41a0-9734-3c4e9c3312fc.png)
-![Wireframes](https://user-images.githubusercontent.com/349454/193978594-7d8230ee-69cb-4c36-b199-ef64a0ea293b.png)
+
 ![Current State](https://user-images.githubusercontent.com/349454/193978595-33026b70-075c-4d44-b012-969b42510d5a.png)
+
 ![User Flows](https://user-images.githubusercontent.com/349454/193978597-189c32cb-cd4a-4195-a290-8a5a0f1389f1.png)
+
 ![User Journey](https://user-images.githubusercontent.com/349454/193978600-52525d98-dc6b-47b6-95aa-b445d6de96d5.png)
 
 ![Ride Along Site](https://user-images.githubusercontent.com/349454/193978603-57496eea-0202-4df7-a217-1a63a94110a1.png)
