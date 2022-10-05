@@ -339,7 +339,7 @@ This included work on: information architecture, information design, and accessi
 
 ![Solution UI 1](https://user-images.githubusercontent.com/349454/194174362-6fbcb42c-d381-4e17-82ac-a0d806b6b206.gif)
 
-![Solution UI 2](https://user-images.githubusercontent.com/349454/194167154-4aa9dd46-bb33-41f3-8357-b00577a02ba2.gif)
+![Solution UI 2](https://user-images.githubusercontent.com/349454/194174673-2666db3e-f5f5-47c9-a4f1-b98a9923447e.gif)
 
 
 
