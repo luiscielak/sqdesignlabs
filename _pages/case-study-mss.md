@@ -275,17 +275,14 @@ Many times these screens are overlooked and not prioritized allowing for a fract
 
 ![Empty States](https://user-images.githubusercontent.com/349454/193978587-afc20498-e4a4-47e1-95ae-b5f4f00e8fd7.png)
 
-### Overall Design Highlights
-This is was was delivered to the app store.
-
-![Features 1](https://user-images.githubusercontent.com/349454/193978588-27c69153-e0e6-45ba-804b-e299c877bcbf.png)
-
-![Features 2](https://user-images.githubusercontent.com/349454/193978583-e5819f03-f046-4d75-bcea-13ec0984e819.png)
-
 
 ## The Solution
 
 Our solution was focused around displaying content the right way at the right time, improving the workflow, and prioritizing safety and attention for our drivers.
+
+![Features 1](https://user-images.githubusercontent.com/349454/193978588-27c69153-e0e6-45ba-804b-e299c877bcbf.png)
+
+![Features 2](https://user-images.githubusercontent.com/349454/193978583-e5819f03-f046-4d75-bcea-13ec0984e819.png)
 
 ### How might we manage and display our content to make it available offline, organized, and contained while dispatched on the job?
 
