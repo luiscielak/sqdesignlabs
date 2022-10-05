@@ -87,7 +87,7 @@ Research, strategize and design an end-to-end PWA (Progress Web App) experience 
 
 
 
-## The Process: Empathize
+## Process: Empathize
 
 Let me take you through my design process.
 
@@ -95,37 +95,34 @@ Starting with Empathize.
 
 ![Process_ Empathize](https://user-images.githubusercontent.com/349454/193654328-5f46b73a-2f77-41e1-b136-0b812e7386dc.png)
 
-**We lacked understanding in customer wants, needs and expectations.**
+### We lacked understanding in customer wants, needs and expectations.
 
 - Current frustrations and pain points?
 - What did they really want?
 - What did they really need?
 
-![Empathy Map Miro](https://user-images.githubusercontent.com/349454/193666723-95cb313d-ec08-4bc0-a253-67f21c8de259.png)
-
 First we needed to gain clarity on what frustrates our customers the most.
 
 What are their motivations? Their frustrations?
 
-I used Miro[^5] here to facilitate these remote workshops.
+I used Miro, an online collaborative whiteboard platform to facilitate these remote workshops.
 
-[^5]: [Miro](https://miro.com/). An online collaborative whiteboard platform to bring teams together, anytime, anywhere.
+![Empathy Map Miro](https://user-images.githubusercontent.com/349454/193666723-95cb313d-ec08-4bc0-a253-67f21c8de259.png)
 
 
-**Approach:**
-> Dived into an intensive 2-week research sprint.
+### Dived into an intensive 2-week research sprint.
 
 - 12+ user interviews
 - Investigated experienced and naive Agile users, PMI customers, and non-customers
 - Conducted a discovery workshop with stakeholders, product and development teams
 
+In collaboration with the UX research team, we dove into an intensive research sprint.
+
+We separated our user base into experienced and naive users. We conducted interviews, workshops and analysis.
+
 ![DALL·E 2022-08-30 20 04 31 - An oil painting of a grid of people in a computer screen on a conference call  ](https://user-images.githubusercontent.com/349454/192384242-6c9f2191-90b7-4a3e-ac06-6c65d1395d79.png)
 
-_In collaboration with the UX research team, we dove into an intensive research sprint._
-
-_We separated our user base into experienced and naive users. We conducted interviews, workshops and analysis._
-
-## User Interviews Takeaways
+### User Interviews Takeaways
 
 The main takeaways from the research were around themes of **trust** and **ease of use**.
 
@@ -136,7 +133,7 @@ The main takeaways from the research were around themes of **trust** and **ease 
 ![Research Insights Dovetail](https://user-images.githubusercontent.com/349454/193666725-7b814ddd-c731-4a4b-95fe-1083334a6336.png)
 
 
-## Research Data
+### Research Data
 
 **Participants**
 Here is some participant data.
@@ -152,12 +149,13 @@ A heatmap of the results of some of the studies we did around product messaging,
 We were aiming to understand what is it about the structure of the content and the presentation of information is acting as the catalyst for the lack of trust and frustration.
 
 **Additional Feedback**
+
 Additional feedback focused around language, tone and messaging.
 
 ![Additional Feedback](https://user-images.githubusercontent.com/349454/192349329-4bf84808-8d11-4846-b880-99a8fe149c87.jpg)
 
 
-## Discovery Workshop Insights
+### Discovery Workshop Insights
 
 The key insights from the initial discovery workshop consisted on:
 - User flows are confusing and cumbersome
@@ -173,21 +171,16 @@ For the B2B customers, the decision makers are unclear on what they are committi
 And lastly, the product evangelists, the Agile coaches, are not motivated to share and promote the knowledge of DA.
 
 ## Process: Conceptualize
-Overwhelmed with insights, we needed to start prioritizing to form a strategy.
-On this step, I gathered our insights and began shaping our hypothesis into potential concepts.
 
-- Understand key pain-points, wants and needs
-- Classify all insights gathered
-- Present our synthesis to stakeholders
+On this step, we gathered our insights and began shaping our hypothesis into potential concepts.
 
 ![Process_ Conceptualize](https://user-images.githubusercontent.com/349454/193654360-96758f91-6145-40b5-8bb9-af7c045f82df.png)
 
-
-> Overwhelmed with insights, we needed to start prioritizing to form a strategy.
-
+### Overwhelmed with insights, we needed to start prioritizing to form a strategy.
 - Understand key pain-points, wants and needs
 - Classify all insights gathered
 - Present our synthesis to stakeholders
+
 
 ### User Personas
 
@@ -198,9 +191,7 @@ By mapping out our personas, and grouping them in different ways, we start contr
 ![User Personas Profiles](https://user-images.githubusercontent.com/349454/193667297-6764179e-d2a1-403f-b01a-024e88c9a631.png)
 
 
-
-## Conceptualize B
-> Jumped into secondary research to form our product strategy and experience.
+### Jumped into secondary research to form our product strategy and experience.
 
 - Created affinity maps
 - Prioritized customer pain-points, wants and needs
@@ -209,7 +200,7 @@ By mapping out our personas, and grouping them in different ways, we start contr
 
 As we develop these concepts and features, we are constantly validating with our customers.
 
-## Affinity Map
+### Affinity Map
 By conceptually grouping this feedback with Affinity Maps, we uncover actionable solution for various pain-points.
 
 - Give me the tools to solve my problems
@@ -220,7 +211,7 @@ By conceptually grouping this feedback with Affinity Maps, we uncover actionable
 
 
 
-## Customer Journey Map
+### Customer Journey Map
 
 By mapping out these experiences into flows, we can uncover points of friction and areas of opportunity beyond a single use case, or touch-point with a customer.
 
@@ -232,7 +223,7 @@ By mapping out these experiences into flows, we can uncover points of friction a
 
 
 
-## Current State
+### Current State
 
 The current toolkit was originally designed as a companion to a physical book as a reference tool for diagrams. The current experience was not intended to be customer facing, and was not intended for mobile use. Mobile now, is a requirement that customers are demanding.
 
@@ -248,7 +239,7 @@ The content in the current state is hard to read, difficult to navigate, and cum
 
 
 
-## Key Takeaways
+### Key Takeaways
 
 The clunky interface and frustrating flows are the most critical shortfalls of the current product. This results in lack of trust, interest and ultimately the lack of conversions.
 
@@ -269,7 +260,8 @@ Let's design some solutions.
 
 
 ### Timeline
-> We were on a very tight deadline and developers needed to start building soon.
+
+### We were on a very tight deadline and developers needed to start building soon.
 
 - Should we design mobile first?
 - Did we need a design system right now?
@@ -283,9 +275,7 @@ It needed to work offline, on mobile devices, be easy to use and looked modern a
 
 And to be developed quickly.
 
-### Design Strategy
-
-> Once we answered the burning questions, we commenced design right away.
+### Once we answered the burning questions, we commenced design right away.
 
 We needed a tight collaboration with the visual design team, development team, Q&A, and visual design.
 
@@ -296,7 +286,7 @@ We needed a tight collaboration with the visual design team, development team, Q
 ![Sketches](https://user-images.githubusercontent.com/349454/193666736-99f345b5-62cb-4285-b251-6eff19f6a87e.png)
 
 
-## Design System
+### Design System
 We needed a visual system that could scale with content (techniques, options, categories).
 
 And components that could be reused and re-purposed.
@@ -310,7 +300,7 @@ We wanted to empowers developers and content creators to build their own pages a
 ![Design System](https://user-images.githubusercontent.com/349454/193666730-7ae2c95f-7e06-4551-a414-815058ff68f2.png)
 
 
-## Specific feature/flow highlights
+### Low and High Fidelity Wireframes
 
 As wireframes and prototypes were created and validated with users, design was iterated and improved upon.
 
@@ -324,7 +314,7 @@ This is some of the initial critical feedback we received.
 
 
 
-## Overall Design Highlights
+## The Solution
 
 The feedback was received and was added to a backlog to be then prioritized.
 
@@ -337,9 +327,7 @@ We first then focused on:
 ![Wireframes HiFi](https://user-images.githubusercontent.com/349454/193666741-30dbb6f4-6328-4f4d-adee-003163265acc.png)
 
 
-## The Solution
-
-> How might we organize our content to make it more relatable, accessible and shareable?
+### How might we organize our content to make it more relatable, accessible and shareable?
 
 - Improve information design and architecture
 - Provide a responsive, dynamic and interactive interface
@@ -347,9 +335,9 @@ We first then focused on:
 
 ![Solution On-Hand](https://user-images.githubusercontent.com/349454/192384535-bf4b99a1-fde5-4aff-9401-e3fe339e4a7e.jpg)
 
-_The solution was heavily grounded on how to better navigate content that is very dense, lengthily and difficult to parse._
+The solution was heavily grounded on how to better navigate content that is very dense, lengthily and difficult to parse.
 
-_This included work on: information architecture, information design, and accessibility considerations._
+This included work on: information architecture, information design, and accessibility considerations.
 
 ### The Technology
 The progressive web app is a great way for customers to view Disciplined Agile content in a new way.
@@ -389,19 +377,6 @@ The progressive web app is a great way for customers to view Disciplined Agile c
 - Refine typography
 
 ![Next Steps](https://user-images.githubusercontent.com/349454/193666734-4582c97e-a20f-41bb-9b7e-d98acfc56bf7.png)
-
-
-
-
----
-
-
-
-
-![Current State Mobile](https://user-images.githubusercontent.com/349454/193666728-5731ea8e-079a-441a-88f9-31aaea388650.png)
-
-
-
 
 ---
 

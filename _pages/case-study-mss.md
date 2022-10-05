@@ -60,15 +60,6 @@ Movers Specialty Service (MSS)  was developing a Progressive Web App (PWA) to **
 ![Context Build](https://user-images.githubusercontent.com/349454/193978611-93c88eb4-e4c1-4b05-abc5-4a9179854b8d.png)
 
 
-## The Objective
-
-To research and design an end-to-end dispatching experience to help movers, drivers and technicians communicate and focus on safety and accessibility while on the move.
-
-The objective for this project was to build a tool for the technicians and drivers to simplify their workflow, communicate better and be as focused and safe while on the move.
-
-![Context Pack](https://user-images.githubusercontent.com/349454/193978609-32a1ffb2-7605-493e-a6db-e647b1d8640b.png)
-
-
 ## The Problem
 
 Technicians have to balance a set of apps, instructions and check lists, while doing driving, the crate building and packing work.
@@ -81,6 +72,15 @@ Ultimately, it was not being adopted my the client's partners, so alternative pa
 - 👽 **Cumbersome UI**
 - 😖 **Confusing Flow**
 - 🤝 **Poor Partner Adoption**
+
+
+## The Objective
+
+To research and design an end-to-end dispatching experience to help movers, drivers and technicians communicate and focus on safety and accessibility while on the move.
+
+The objective for this project was to build a tool for the technicians and drivers to simplify their workflow, communicate better and be as focused and safe while on the move.
+
+![Context Pack](https://user-images.githubusercontent.com/349454/193978609-32a1ffb2-7605-493e-a6db-e647b1d8640b.png)
 
 
 
@@ -309,7 +309,7 @@ Reduce confusion, work on multiple workflow stages at once, have their informati
 
 
 ## Outcome
-The new app is a great way for customers and technicians to share progress and document a move.
+**The new app is a great way for customers and technicians to share progress and document a move.**
 
 - Automatic notifications from the dispatcher are a great experience improvement
 - Fully adopted by the client's customers, improving dispatching administrative overhead significantly
@@ -321,11 +321,16 @@ The app was fully adopted by the client's partners, techs and customer satisfact
 
 ## Next Steps
 
-MSS’s work became easier than ever and, due to additions based on user insights, reporting happened consistently.
+**MSS’s work became easier than ever and, due to additions based on user insights, reporting happened consistently.**
 
 - Define an on-boarding experience
 - Better edge-case design
 - Access completed jobs
 
 ![Next Steps](https://user-images.githubusercontent.com/349454/193978579-2e2b3589-d9dd-42bc-890c-ac634299d37a.png)
+
+
+---
+
+## Footnotes
 
