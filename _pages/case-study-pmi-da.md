@@ -7,7 +7,6 @@ featured_image: /images/social.jpg
 
 <img width="712" alt="Screen Shot 2022-09-26 at 3 43 07 PM" src="https://user-images.githubusercontent.com/349454/192366593-7e238555-ed61-48b2-ae37-d66d388931fe.png">
 
-
 ## Intro
 
 PMI’s **Disciplined Agile Toolkit App** provides access to over **400+ techniques, templates and best practices for project success across product delivery teams**.
@@ -351,6 +350,7 @@ This included work on: information architecture, information design, and accessi
 ![Case Study Animations](https://user-images.githubusercontent.com/349454/194138275-bde68143-f61e-491d-afdb-350c68d0a151.gif)
 
 
+![Solution UI 1](https://user-images.githubusercontent.com/349454/194164671-76dcd00a-de0d-4a04-9185-f587a9917530.gif)
 
 
 ## Outcome
@@ -383,18 +383,4 @@ This included work on: information architecture, information design, and accessi
 [^1]: [Forbes.](https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/) Agile Vs. Waterfall: Which Project Management Methodology Is Best For You?
 
 [^2]: [PMI.](https://www.pmi.org/about/press-media/press-releases/project-management-institute-announces-acquisition-of-disciplined-agile) Project Management Institute Announces Acquisition of Disciplined Agile
-
-
-
----
-
-![Case Study Animations](https://user-images.githubusercontent.com/349454/194138275-bde68143-f61e-491d-afdb-350c68d0a151.gif)
-
-![Case Study Animations](https://user-images.githubusercontent.com/349454/194138275-bde68143-f61e-491d-afdb-350c68d0a151.gif)
-
-![Case Study Animations](https://user-images.githubusercontent.com/349454/194138275-bde68143-f61e-491d-afdb-350c68d0a151.gif)
-
-
-
-
 
