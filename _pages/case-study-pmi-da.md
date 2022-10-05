@@ -27,7 +27,7 @@ One of DA's main component is the DA Tool Kit. This case study shows how I was a
 
 Many people collaborated in this project across product and development teams.
 
-### Product Team
+**Product Team**
 - Design lead
 - Product owner
 - Research lead
@@ -36,17 +36,19 @@ Many people collaborated in this project across product and development teams.
 - Visual designer
 - Content writer
 
-### Development Team
+**Development Team**
 - Systems architect
 - QA manager
 - Back-end engineer
 - Front-end engineer
 
-As you can see, we had a stellar team that collaborated across many disciplines, building something that I'm very proud of, and happy to share with you.
+
 
 ![DALL·E 2022-08-30 19 05 44 - Painting by Dali of a group of designers making an app](https://user-images.githubusercontent.com/349454/192364106-bfe061c6-0729-45ba-86c1-aeb00d5e773b.png)
 
 [^3]
+
+As you can see, we had a stellar team that collaborated across many disciplines, building something that I'm very proud of, and happy to share with you.
 
 [^3]: DALL·E. Painting by Dali of a group of designers making an app.
 
