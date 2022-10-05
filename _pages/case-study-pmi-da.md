@@ -162,7 +162,8 @@ The key insights from the initial discovery workshop consisted on:
 - Decision makers do not know what they are deciding on
 - Coaches are not motivated to preach Agile
 
-![Discovery workshop insights](https://user-images.githubusercontent.com/349454/192349349-d39fed0b-541f-4a2c-8183-699c95d3fc41.jpg)
+![Discovery Workshop Insights](https://user-images.githubusercontent.com/349454/194130573-eccd3838-7c62-4294-a703-d905d1c92958.png)
+
 
 We identified that the lack of conversion is contributed by confusing and cumbersome purchasing flows.
 
@@ -229,14 +230,7 @@ The current toolkit was originally designed as a companion to a physical book as
 
 The content in the current state is hard to read, difficult to navigate, and cumbersome to access.
 
-
-![Current State](https://user-images.githubusercontent.com/349454/192349496-63c88560-443e-471e-a512-de591e36d139.jpg)
-
-![Current State Desktop](https://user-images.githubusercontent.com/349454/193666720-b453df10-5ee6-4d74-be06-3a37cb72f493.png)
-
-![Current State Mobile](https://user-images.githubusercontent.com/349454/193670716-1c5a0f3b-b441-4b85-a058-53d5a6e888b5.gif)
-
-
+![Current State](https://user-images.githubusercontent.com/349454/194131077-34ec3380-8751-4fc9-812b-69aa180a2f36.gif)
 
 
 ### Key Takeaways
