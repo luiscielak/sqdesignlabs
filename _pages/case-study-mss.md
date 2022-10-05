@@ -57,9 +57,9 @@ As you can see, we had a stellar team that collaborated across many disciplines,
 
 Movers Specialty Service (MSS)  was developing a Progressive Web App (PWA) to **enhance the current packing and logistics tool for movers and relocators**.
 
-![The Context](https://user-images.githubusercontent.com/349454/192396189-86c21ce3-c40e-4378-85e1-d1ba7a2020b2.jpg)
+![Context Build](https://user-images.githubusercontent.com/349454/193978611-93c88eb4-e4c1-4b05-abc5-4a9179854b8d.png)
 
-![The Context B](https://user-images.githubusercontent.com/349454/192396190-988479a7-dd2f-4d86-b361-0f28627e5628.jpg)
+![Context Pack](https://user-images.githubusercontent.com/349454/193978609-32a1ffb2-7605-493e-a6db-e647b1d8640b.png)
 
 ## The Objective
 
@@ -105,9 +105,8 @@ I went on ride-alongs with drivers and techs to get an understanding of how they
 
 This informed my design decisions, and allowed to steer the conversations in the right direction with the stakeholders.
 
-![Empathize](https://user-images.githubusercontent.com/349454/192396194-952c13f7-df4d-4991-9540-07c095076a3b.jpg)
 
-
+![Empathy Map](https://user-images.githubusercontent.com/349454/193978610-a694b2e8-0213-4e98-bfa5-26f561b2e555.png)
 
 
 ### Went on ride-alongs with movers to learn and analyze the process.
@@ -115,7 +114,7 @@ This informed my design decisions, and allowed to steer the conversations in the
 - Conducted a discovery workshop with stakeholders, product and development teams
 - This informed user experience decisions, from feature ideation to app flows and screen design
 
-![Empathize (2)](https://user-images.githubusercontent.com/349454/192396198-5385b236-d802-48a0-a38b-e4916a433772.jpg)
+![Ride Along](https://user-images.githubusercontent.com/349454/193978607-af132dc8-cbb9-4dce-ad18-88f811a93561.png)
 
 
 ### Discovery Workshop Takeaways
@@ -128,7 +127,8 @@ The tools were needed to enable to batter care for their customers.
 - In-house teams do not have the appropriate tools to support field technicians in remote areas
 
 
-![Discovery Workshop Takeaways](https://user-images.githubusercontent.com/349454/192396202-a7ba0eb5-5350-442f-8865-477c8832b819.jpg)
+![Discovery Workshop](https://user-images.githubusercontent.com/349454/193978605-38b3e26b-15f0-4950-8c7d-0fb49e65c519.png)
+
 
 
 ### Ride-Along Takeaways
@@ -139,9 +139,7 @@ The main takeaways from the research were around the themes of ease of use, acce
 - Unreliable Internet access in remote areas prevents system access
 
 
-
-![User interviews takeaways (2)](https://user-images.githubusercontent.com/349454/192396199-9141dd25-6858-47be-8bbc-0b98efbfd841.jpg)
-
+![Ride Along Drive](https://user-images.githubusercontent.com/349454/193978601-49bb4825-0ff1-4d3b-bcd9-75c118de4f88.png)
 
 ## Process: Conceptualize
 On this step, we gathered our insights and began shaping our hypothesis into potential concepts.
@@ -156,7 +154,7 @@ On this step, we gathered our insights and began shaping our hypothesis into pot
 - Present our synthesis to stakeholders
 
 ![Conceptualize](https://user-images.githubusercontent.com/349454/192396204-3bb52e6d-566f-4987-8528-e5158bb85ae8.jpg)
-
+![Ride Along Site](https://user-images.githubusercontent.com/349454/193978603-57496eea-0202-4df7-a217-1a63a94110a1.png)
 
 As we started to build these flows, we were constantly validating our hypothesis and solutions with our customers.
 
@@ -269,7 +267,8 @@ And components that could be reused and re-purposed. We also wanted to make sure
 - Build components to enable the team to build their own layouts
 - Leverage native components in iOS and Android where possible
 
-![Design System](https://user-images.githubusercontent.com/349454/192396224-6e039fdc-2fc7-4582-b60d-0216ca461abb.jpg)
+![Design System](https://user-images.githubusercontent.com/349454/193978586-3db000b3-7ae5-4278-b849-26802cc2b4c2.png)
+
 
 
 ### Empty States
@@ -281,12 +280,13 @@ Many times these screens are overlooked and not prioritized allowing for a fract
 - Highlight and suggest action items to increase initial actions
 - Expand on incorporating a dedicated on-boarding experience
 
-![Specific feature_flow highlights](https://user-images.githubusercontent.com/349454/192396228-cb34eb30-3b07-47d5-967e-5b10921ff80e.jpg)
+![Empty States](https://user-images.githubusercontent.com/349454/193978587-afc20498-e4a4-47e1-95ae-b5f4f00e8fd7.png)
 
 ### Overall Design Highlights
 This is was was delivered to the app store.
 
-![Overall design highlights](https://user-images.githubusercontent.com/349454/192396225-5025a455-e3c8-4746-957e-3fd2af19ae85.jpg)
+![Features 1](https://user-images.githubusercontent.com/349454/193978588-27c69153-e0e6-45ba-804b-e299c877bcbf.png)
+![Features 2](https://user-images.githubusercontent.com/349454/193978583-e5819f03-f046-4d75-bcea-13ec0984e819.png)
 
 
 ## The Solution
@@ -299,8 +299,8 @@ Our solution was focused around displaying content the right way at the right ti
 - Reduce safety risk for drivers interacting with the app in the field
 - Eliminate the need of paper-based documentation thanks to offline capabilities
 
+![Solution Drive](https://user-images.githubusercontent.com/349454/193978584-5b689175-691f-4a4a-bdcc-103fa77e212d.png)
 
-![The Solution](https://user-images.githubusercontent.com/349454/192396230-49e0450b-3660-4375-99f2-a2afce804085.jpg)
 
 
 ### The progressive web app is a great way for technicians to manage relocations and moves and keeping the customer informed at all times
@@ -314,11 +314,7 @@ An app that allows technicians to:
 
 Reduce confusion, work on multiple workflow stages at once, have their information properly organized, and offline capabilities.
 
-
-![The Solution (2)](https://user-images.githubusercontent.com/349454/192396229-d9efd5aa-c7c0-4d33-b669-6270dfd0f1fd.jpg)
-
-
-
+![Solution UI](https://user-images.githubusercontent.com/349454/193978582-c61568df-eac5-404e-bc90-b301ea58aae7.png)
 
 
 ## Outcome
@@ -330,7 +326,7 @@ The new app is a great way for customers and technicians to share progress and d
 
 The app was fully adopted by the client's partners, techs and customer satisfaction improved, and we received a 5-star rating in the app store.
 
-![Outcome](https://user-images.githubusercontent.com/349454/192396234-2d78dee4-6030-486a-9cf6-4c20a0c76783.jpg)
+![Outcome](https://user-images.githubusercontent.com/349454/193978581-3b8b8d9f-7686-40ef-b3ef-6204eec83af0.png)
 
 ## Next Steps
 
@@ -340,22 +336,18 @@ MSS’s work became easier than ever and, due to additions based on user insight
 - Better edge-case design
 - Access completed jobs
 
-![Next Steps](https://user-images.githubusercontent.com/349454/192396232-a3d29d50-2fbb-4d77-8019-862cbbae2b22.jpg)
-
-
+![Next Steps](https://user-images.githubusercontent.com/349454/193978579-2e2b3589-d9dd-42bc-890c-ac634299d37a.png)
 
 ----
 
 
-![Next Steps](https://user-images.githubusercontent.com/349454/193978579-2e2b3589-d9dd-42bc-890c-ac634299d37a.png)
-![Outcome](https://user-images.githubusercontent.com/349454/193978581-3b8b8d9f-7686-40ef-b3ef-6204eec83af0.png)
-![Solution UI](https://user-images.githubusercontent.com/349454/193978582-c61568df-eac5-404e-bc90-b301ea58aae7.png)
-![Features 2](https://user-images.githubusercontent.com/349454/193978583-e5819f03-f046-4d75-bcea-13ec0984e819.png)
-![Solution Drive](https://user-images.githubusercontent.com/349454/193978584-5b689175-691f-4a4a-bdcc-103fa77e212d.png)
-![Design System](https://user-images.githubusercontent.com/349454/193978586-3db000b3-7ae5-4278-b849-26802cc2b4c2.png)
-![Empty States](https://user-images.githubusercontent.com/349454/193978587-afc20498-e4a4-47e1-95ae-b5f4f00e8fd7.png)
-![Features 1](https://user-images.githubusercontent.com/349454/193978588-27c69153-e0e6-45ba-804b-e299c877bcbf.png)
-![Iteration and Refinemnet](https://user-images.githubusercontent.com/349454/193978589-06ca6da6-c400-415b-a959-26d8771bb533.png)
+
+
+
+
+
+
+![Iteration and Refinement](https://user-images.githubusercontent.com/349454/193978589-06ca6da6-c400-415b-a959-26d8771bb533.png)
 ![Prototypes](https://user-images.githubusercontent.com/349454/193978590-670d8cd0-cd09-4b46-adac-4bcb5045e227.png)
 ![User Testing](https://user-images.githubusercontent.com/349454/193978591-7d7f5b7e-cb25-405a-9594-a25e789ab03d.png)
 ![Estimation](https://user-images.githubusercontent.com/349454/193978592-52dfa150-39f6-423a-b494-4a84c306f8d8.png)
@@ -364,12 +356,12 @@ MSS’s work became easier than ever and, due to additions based on user insight
 ![Current State](https://user-images.githubusercontent.com/349454/193978595-33026b70-075c-4d44-b012-969b42510d5a.png)
 ![User Flows](https://user-images.githubusercontent.com/349454/193978597-189c32cb-cd4a-4195-a290-8a5a0f1389f1.png)
 ![User Journey](https://user-images.githubusercontent.com/349454/193978600-52525d98-dc6b-47b6-95aa-b445d6de96d5.png)
-![Ride Along Drive](https://user-images.githubusercontent.com/349454/193978601-49bb4825-0ff1-4d3b-bcd9-75c118de4f88.png)
+
 ![Ride Along Site](https://user-images.githubusercontent.com/349454/193978603-57496eea-0202-4df7-a217-1a63a94110a1.png)
-![Discovery Workshop](https://user-images.githubusercontent.com/349454/193978605-38b3e26b-15f0-4950-8c7d-0fb49e65c519.png)
-![Ride Along](https://user-images.githubusercontent.com/349454/193978607-af132dc8-cbb9-4dce-ad18-88f811a93561.png)
-![Context Pack](https://user-images.githubusercontent.com/349454/193978609-32a1ffb2-7605-493e-a6db-e647b1d8640b.png)
-![Empathy Map](https://user-images.githubusercontent.com/349454/193978610-a694b2e8-0213-4e98-bfa5-26f561b2e555.png)
-![Context Build](https://user-images.githubusercontent.com/349454/193978611-93c88eb4-e4c1-4b05-abc5-4a9179854b8d.png)
+
+
+
+
+
 
 
