@@ -64,7 +64,9 @@ The objective for this project was to build a tool for the technicians and drive
 
 Technicians have to balance a set of apps, instructions and check lists, while doing driving, the crate building and packing work.
 
-The current solution did not work offline, which is necessary in remote areas with limited connectivity where the technicians operate. It was hard to use because of confusing flows and cumbersome UI. Ultimately, it was not being adopted my the client's partners, so alternative paper-based work-flows were applied. Thus these processes were prone to error, and jobs took a significant amount of time to process.
+The current solution did not work offline, which is necessary in remote areas with limited connectivity where the technicians operate. It was hard to use because of confusing flows and cumbersome UI.
+
+Ultimately, it was not being adopted my the client's partners, so alternative paper-based work-flows were applied. Thus these processes were prone to error, and jobs took a significant amount of time to process.
 
 - 📡 **No Offline Access**
 - 👽 **Cumbersome UI**
@@ -216,7 +218,7 @@ The collaboration between design, engineering and project management was key in 
 
 Once the flows were established, quick wireframing leveraging the current design system was next.
 
-![22](https://user-images.githubusercontent.com/349454/192396214-04d32000-3425-4d32-bde1-36b87894dfdd.jpg)
+![Wireframes](https://user-images.githubusercontent.com/349454/192396214-04d32000-3425-4d32-bde1-36b87894dfdd.jpg)
 
 ### Prototypes
 
@@ -232,7 +234,7 @@ And by constantly validating with user studies, we can adapt and iterate quickly
 - Iterate and adjust user flows and layouts based on feedback
 - Measure success across multiple testable paths
 
-![24](https://user-images.githubusercontent.com/349454/192396219-f6cda41f-28d8-471d-ab25-4639375c2d1a.jpg)
+![User Testing](https://user-images.githubusercontent.com/349454/192396219-f6cda41f-28d8-471d-ab25-4639375c2d1a.jpg)
 
 ### Iteration & Refinement
 
@@ -240,19 +242,19 @@ This is an example of how early testing and iteration was helpful at finding cru
 
 In this example the CTA is located in different part of the screen, depending on the content up top. Causing the CTA to potentially be hidden below the fold.
 
-![25](https://user-images.githubusercontent.com/349454/192396220-f88d6bb2-e583-4738-a502-2916c098ed2a.jpg)
+![Iteration](https://user-images.githubusercontent.com/349454/192396220-f88d6bb2-e583-4738-a502-2916c098ed2a.jpg)
 
 
 By relocating the CTA at the top, in a dedicated section along with the job status section,
 we improved discoverability and task success.
 
-![26](https://user-images.githubusercontent.com/349454/192396222-2591c9e6-0747-4a9f-8af7-a80e06916ec1.jpg)
+![Refinement](https://user-images.githubusercontent.com/349454/192396222-2591c9e6-0747-4a9f-8af7-a80e06916ec1.jpg)
 
 ### Design System
 
 We needed a visual system that could scale with content.
 
-And components that could be reused and repurposed. We also wanted to make sure the UI looked native for iOS and Android.
+And components that could be reused and re-purposed. We also wanted to make sure the UI looked native for iOS and Android.
 
 - Implement reusable components to eliminate inconsistencies
 - Build components to enable the team to build their own layouts
@@ -273,6 +275,8 @@ Many times these screens are overlooked and not prioritized allowing for a fract
 ![Specific feature_flow highlights](https://user-images.githubusercontent.com/349454/192396228-cb34eb30-3b07-47d5-967e-5b10921ff80e.jpg)
 
 ### Overall Design Highlights
+This is was was delivered to the app store.
+
 ![Overall design highlights](https://user-images.githubusercontent.com/349454/192396225-5025a455-e3c8-4746-957e-3fd2af19ae85.jpg)
 
 
@@ -280,10 +284,20 @@ Many times these screens are overlooked and not prioritized allowing for a fract
 
 Our solution was focused around displaying content the right way at the right time, improving the workflow, and prioritizing safety and attention for our drivers.
 
+### How might we manage and display our content to make it available offline, organized, and contained while dispatched on the job?
+
+- Improve workflow efficiency and accuracy
+- Reduce safety risk for drivers interacting with the app in the field
+- Eliminate the need of paper-based documentation thanks to offline capabilities
+
+
+![The Solution](https://user-images.githubusercontent.com/349454/192396230-49e0450b-3660-4375-99f2-a2afce804085.jpg)
+
+
 ### The progressive web app is a great way for technicians to manage relocations and moves and keeping the customer informed at all times
 - Working on multiple jobs in different stages at once
 - Job information and images properly organized
-- Offline capabilities for areas with no internet coverage
+- Offline capabilities for areas with no Internet coverage
 
 
 What's the solution?
@@ -292,16 +306,9 @@ An app that allows technicians to:
 Reduce confusion, work on multiple workflow stages at once, have their information properly organized, and offline capabilities.
 
 
-### The progressive web app is a great way for technicians to manage relocations and moves and keeping the customer informed at all times
-
-Working on multiple jobs in different stages at once
-Job information and images properly organized
-Offline capabilities for areas with no internet coverage
-
-
-![The Solution](https://user-images.githubusercontent.com/349454/192396230-49e0450b-3660-4375-99f2-a2afce804085.jpg)
-
 ![The Solution (2)](https://user-images.githubusercontent.com/349454/192396229-d9efd5aa-c7c0-4d33-b669-6270dfd0f1fd.jpg)
+
+
 
 
 
@@ -309,9 +316,10 @@ Offline capabilities for areas with no internet coverage
 The new app is a great way for customers and technicians to share progress and document a move.
 
 - Automatic notifications from the dispatcher are a great experience improvement
-- Fully adopted by the client's customers, improving dispatching admin overhead significantly
+- Fully adopted by the client's customers, improving dispatching administrative overhead significantly
 - Very positive customer feedback, a five-star AppStore rating
 
+The app was fully adopted by the client's partners, techs and customer satisfaction improved, and we received a 5-star rating in the app store.
 
 ![Outcome](https://user-images.githubusercontent.com/349454/192396234-2d78dee4-6030-486a-9cf6-4c20a0c76783.jpg)
 
@@ -319,7 +327,7 @@ The new app is a great way for customers and technicians to share progress and d
 
 MSS’s work became easier than ever and, due to additions based on user insights, reporting happened consistently.
 
-- Define an onboarding experience
+- Define an on-boarding experience
 - Better edge-case design
 - Access completed jobs
 
