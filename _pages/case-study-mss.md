@@ -232,7 +232,7 @@ Once the flows were established, quick wireframing leveraging the current design
 Building prototypes with the design system allows us to have higher fidelity concepts out faster.
 We could then test those prototypes with users live. Without coding at this point.
 
-![Demo](https://user-images.githubusercontent.com/349454/192396218-562fce40-f3a2-4585-b6f5-4e960c981c5f.jpg)
+![Prototypes](https://user-images.githubusercontent.com/349454/193978590-670d8cd0-cd09-4b46-adac-4bcb5045e227.png)
 
 ### User Testing
 And by constantly validating with user studies, we can adapt and iterate quickly.
@@ -241,7 +241,7 @@ And by constantly validating with user studies, we can adapt and iterate quickly
 - Iterate and adjust user flows and layouts based on feedback
 - Measure success across multiple testable paths
 
-![User Testing](https://user-images.githubusercontent.com/349454/192396219-f6cda41f-28d8-471d-ab25-4639375c2d1a.jpg)
+![User Testing](https://user-images.githubusercontent.com/349454/193978591-7d7f5b7e-cb25-405a-9594-a25e789ab03d.png)
 
 ### Iteration & Refinement
 
@@ -249,8 +249,8 @@ This is an example of how early testing and iteration was helpful at finding cru
 
 In this example the CTA is located in different part of the screen, depending on the content up top. Causing the CTA to potentially be hidden below the fold.
 
-![Iteration](https://user-images.githubusercontent.com/349454/192396220-f88d6bb2-e583-4738-a502-2916c098ed2a.jpg)
 
+![Iteration and Refinement](https://user-images.githubusercontent.com/349454/193978589-06ca6da6-c400-415b-a959-26d8771bb533.png)
 
 By relocating the CTA at the top, in a dedicated section along with the job status section,
 we improved discoverability and task success.
@@ -347,9 +347,6 @@ MSS’s work became easier than ever and, due to additions based on user insight
 
 
 
-![Iteration and Refinement](https://user-images.githubusercontent.com/349454/193978589-06ca6da6-c400-415b-a959-26d8771bb533.png)
-![Prototypes](https://user-images.githubusercontent.com/349454/193978590-670d8cd0-cd09-4b46-adac-4bcb5045e227.png)
-![User Testing](https://user-images.githubusercontent.com/349454/193978591-7d7f5b7e-cb25-405a-9594-a25e789ab03d.png)
 ![Estimation](https://user-images.githubusercontent.com/349454/193978592-52dfa150-39f6-423a-b494-4a84c306f8d8.png)
 ![Key Takeaways](https://user-images.githubusercontent.com/349454/193978593-776273ae-a08c-41a0-9734-3c4e9c3312fc.png)
 ![Wireframes](https://user-images.githubusercontent.com/349454/193978594-7d8230ee-69cb-4c36-b199-ef64a0ea293b.png)
