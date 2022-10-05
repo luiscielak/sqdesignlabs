@@ -60,6 +60,11 @@ Movers Specialty Service (MSS)  was developing a Progressive Web App (PWA) to **
 ![The Context B](https://user-images.githubusercontent.com/349454/192396190-988479a7-dd2f-4d86-b361-0f28627e5628.jpg)
 
 ## The Objective
+
+Research and design an end-to-end dispatching experience to help movers, drivers and technicians communicate and focus on safety and accessibility while on the move.
+
+The objective for this project was to build a tool for the technicians and drivers to simplify their workflow, communicate better and be as focused and safe while doing it.
+
 ![The Objective](https://user-images.githubusercontent.com/349454/192396192-ebed02f4-8736-48bb-8665-ac36c30e0fe2.jpg)
 
 ## The Problem
@@ -80,13 +85,22 @@ so workflows were heavily paper-based, prone to error, and took a long time.
 
 ![The Problem](https://user-images.githubusercontent.com/349454/192396193-0f79b9ed-4048-467f-aecd-a3ba4e1e462d.jpg)
 
-## Empathize
+## Process: Empathize
+Let me take you through my design process.
+
+Starting with Empathize.
+
+![Process_ Empathize](https://user-images.githubusercontent.com/349454/193654328-5f46b73a-2f77-41e1-b136-0b812e7386dc.png)
+
+First we needed to gain clarity on what frustrates our customers the most.
+
+What are their motivations? Their frustrations?
+
+Executives did not have an understanding of the tech's main struggles. We needed to make sure we were building the right set of features for this MVP.
+
 ![Empathize](https://user-images.githubusercontent.com/349454/192396194-952c13f7-df4d-4991-9540-07c095076a3b.jpg)
 
-## Process: Empathize
-![Process_ Empathize](https://user-images.githubusercontent.com/349454/192396195-ec7dff65-d794-4a80-be44-a61ff1cfde69.jpg)
 
-## Empathize
 ![Empathize (2)](https://user-images.githubusercontent.com/349454/192396198-5385b236-d802-48a0-a38b-e4916a433772.jpg)
 
 ## Ride-Along Takeaways
