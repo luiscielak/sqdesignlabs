@@ -18,12 +18,9 @@ Technology:
 
 MSS needed an app to **improve their workflow and customer experience**. More specifically, they wanted a way to **prepare their technicians for jobs** and to **notify customers of estimated times of arrival**.
 
+The way it works:
 MSS gets hired by movers and relocators to pack delicate and valuable items. MSS technicians get dispatched to the customer's location. On-site, the technician builds a custom crate for the mover to load into the truck and transport. Upon arrival at destination, an MSS technician is dispatched in order to unpack the crate.
 
-The way it works:
-Tech gets dispatched, arrives at location, builds a custom crate for each item, packs it, leaves, movers move, then technician gets dispatched to unpack.
-
-![Intro](https://user-images.githubusercontent.com/349454/192396186-e3c61e28-7289-49f2-9c5c-2be62bb38245.jpg)
 
 ## The Team
 Many people collaborated in this project.
@@ -38,20 +35,16 @@ Many people collaborated in this project.
 - Back-end Engineer
 - Quality Assurance (QA) Manager
 
-![The Team](https://user-images.githubusercontent.com/349454/192396187-ebe636a5-847d-4151-a8ed-85e65d8fe05d.jpg)
 
-## My Role
+## My Role: Design Lead
+- Facilitated discovery sessions and workshops
+- Created sketches and wireframes
+- Built prototypes and conduct usability studies
+- Created and implement reusable components
+- Conducted user research
 
 ![DALL·E 2022-08-30 20 13 25 - An oil painting by Matisse of a bald designer making an app](https://user-images.githubusercontent.com/349454/192397517-29f2f5a7-45bf-45b6-bf23-219db20cf8dd.png)
 
-### Design Lead
-- In charge of facilitating discovery sessions and workshops
-- Create sketches and wireframes
-- Build prototypes and conduct usability studies
-- Create and implement reusable components
-- Conducted user research
-
-![My Role](https://user-images.githubusercontent.com/349454/192396188-82c67df4-d643-4ca4-ad73-9e573f3eb98c.jpg)
 
 ## The Context
 Movers Specialty Service (MSS)  was developing a Progressive Web App (PWA) to **enhance the current packing and logistics tool for movers and relocators**.
@@ -66,7 +59,6 @@ To research and design an end-to-end dispatching experience to help movers, driv
 
 The objective for this project was to build a tool for the technicians and drivers to simplify their workflow, communicate better and be as focused and safe while on the move.
 
-![The Objective](https://user-images.githubusercontent.com/349454/192396192-ebed02f4-8736-48bb-8665-ac36c30e0fe2.jpg)
 
 ## The Problem
 
@@ -74,12 +66,12 @@ Technicians have to balance a set of apps, instructions and check lists, while d
 
 The current solution did not work offline, which is necessary in remote areas with limited connectivity where the technicians operate. It was hard to use because of confusing flows and cumbersome UI. Ultimately, it was not being adopted my the client's partners, so alternative paper-based work-flows were applied. Thus these processes were prone to error, and jobs took a significant amount of time to process.
 
-📡 No Offline Access
-👽 Cumbersome UI
-😖 Confusing Flow
-🤝 Poor Partner Adoption
+- 📡 **No Offline Access**
+- 👽 **Cumbersome UI**
+- 😖 **Confusing Flow**
+- 🤝 **Poor Partner Adoption**
 
-![The Problem](https://user-images.githubusercontent.com/349454/192396193-0f79b9ed-4048-467f-aecd-a3ba4e1e462d.jpg)
+
 
 ## Process: Empathize
 Let me take you through my design process.
@@ -99,13 +91,14 @@ Executives did not have an understanding of the technicians' main struggles. We 
 - Prioritize features that deliver business value
 - Establish technical approach to create a realistic, achievable MVP
 
+I went on ride-alongs with drivers and techs to get an understanding of how they work, their points of friction.
+
+This informed my design decisions, and allowed to steer the conversations in the right direction with the stakeholders.
 
 ![Empathize](https://user-images.githubusercontent.com/349454/192396194-952c13f7-df4d-4991-9540-07c095076a3b.jpg)
 
 
-I went on ride-alongs with drivers and techs to get an understanding of how they work, their points of friction.
 
-This informed my design decisions, and allowed to steer the conversations in the right direction with the stakeholders.
 
 ### Went on ride-alongs with movers to learn and analyze the process.
 - Shadowed and interviewed 10+ people across multiple roles (mover, dispatcher, shipper, customer, driver)
@@ -124,7 +117,8 @@ The main takeaways from the sessions were that the team lacked the proper tools 
 
 The tools were needed to enable to batter care for their customers.
 
-```image missing```
+![Discovery Workshop Takeaways](https://user-images.githubusercontent.com/349454/192396202-a7ba0eb5-5350-442f-8865-477c8832b819.jpg)
+
 
 ### Ride-Along Takeaways
 
@@ -137,17 +131,12 @@ The main takeaways from the research were around the themes of ease of use, acce
 
 ![User interviews takeaways (2)](https://user-images.githubusercontent.com/349454/192396199-9141dd25-6858-47be-8bbc-0b98efbfd841.jpg)
 
-```video```
-
-
-### User interviews takeaways
-![User interviews takeaways](https://user-images.githubusercontent.com/349454/192396202-a7ba0eb5-5350-442f-8865-477c8832b819.jpg)
-
----
 
 ## Process: Conceptualize
+On this step, we gathered our insights and began shaping our hypothesis into potential concepts.
 
 ![Process_ Conceptualize](https://user-images.githubusercontent.com/349454/193654360-96758f91-6145-40b5-8bb9-af7c045f82df.png)
+
 
 ### With a clear understanding of the workflow and experienced pain-points we needed to prioritize feature areas
 
@@ -158,9 +147,6 @@ The main takeaways from the research were around the themes of ease of use, acce
 ![Conceptualize](https://user-images.githubusercontent.com/349454/192396204-3bb52e6d-566f-4987-8528-e5158bb85ae8.jpg)
 
 
-
-
-## Conceptualize
 As we started to build these flows, we were constantly validating our hypothesis and solutions with our customers.
 
 Prioritizing, validating, and prioritizing was key to our success.
@@ -198,12 +184,13 @@ Designed to support a paper-based system and process.
 
 
 ### Key Takeaways
-
-Drivers are constantly relying on a secondary device in order to get better navigation, communicate with the customer, and interact with the dispatcher.
-
 - Drivers rely on a secondary device for navigation, traffic and photos
 - Drivers manually notify the customer and dispatcher of their current status and travel estimates
 - Paper forms and legacy process overhead is significant
+
+Drivers are constantly relying on a secondary device in order to get better navigation, communicate with the customer, and interact with the dispatcher.
+
+
 ![Key takeaways](https://user-images.githubusercontent.com/349454/192396211-14c1050e-8740-4d63-a3f7-93f37eea7a01.jpg)
 
 
@@ -214,7 +201,7 @@ Let's design some solutions.
 ![Process_ Design](https://user-images.githubusercontent.com/349454/193654372-290d5cd5-23ca-4927-a73b-bd1c08b03c5b.png)
 
 
-### Estimation and user stories:
+### Estimation and user stories
 A collaboration between product owners, designers and engineers
 
 - What features should we prioritize?
