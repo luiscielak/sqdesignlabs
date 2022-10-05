@@ -223,21 +223,25 @@ A collaboration between product owners, designers and engineers
 
 The collaboration between design, engineering and project management was key in order to prioritize and estimate accurately.
 
-
-
-### Wireframes & Prototypes
-![22](https://user-images.githubusercontent.com/349454/192396214-04d32000-3425-4d32-bde1-36b87894dfdd.jpg)
-
-### Design
 ![Design](https://user-images.githubusercontent.com/349454/192396217-9a1b2b3f-2478-41ff-bd92-1e60ae6db449.jpg)
 
-### Demo
+### Wireframes
+
+Once the flows were established, quick wireframing leveraging the current design system was next.
+
+![22](https://user-images.githubusercontent.com/349454/192396214-04d32000-3425-4d32-bde1-36b87894dfdd.jpg)
+
+### Prototypes
+
+Building prototypes with the design system allows us to have higher fidelity concepts out faster.
+We could then test those prototypes with users live. Without coding at this point.
+
 ![Demo](https://user-images.githubusercontent.com/349454/192396218-562fce40-f3a2-4585-b6f5-4e960c981c5f.jpg)
 
 ### User Testing
 ![24](https://user-images.githubusercontent.com/349454/192396219-f6cda41f-28d8-471d-ab25-4639375c2d1a.jpg)
 
-### Iteration & Refinment
+### Iteration & Refinement
 ![25](https://user-images.githubusercontent.com/349454/192396220-f88d6bb2-e583-4738-a502-2916c098ed2a.jpg)
 
 ![26](https://user-images.githubusercontent.com/349454/192396222-2591c9e6-0747-4a9f-8af7-a80e06916ec1.jpg)
