@@ -111,24 +111,25 @@ This informed my design decisions, and allowed to steer the conversations in the
 
 
 ### Discovery Workshop Takeaways
+The main takeaways from the sessions were that the team lacked the proper tools to work efficiently and effectively
+
+The tools were needed to enable to batter care for their customers.
+
 - Field technicians have too many confusing forms to complete
 - Navigating the current app to complete job forms is cumbersome
 - In-house teams do not have the appropriate tools to support field technicians in remote areas
 
-The main takeaways from the sessions were that the team lacked the proper tools to work efficiently and effectively
-
-The tools were needed to enable to batter care for their customers.
 
 ![Discovery Workshop Takeaways](https://user-images.githubusercontent.com/349454/192396202-a7ba0eb5-5350-442f-8865-477c8832b819.jpg)
 
 
 ### Ride-Along Takeaways
+The main takeaways from the research were around the themes of ease of use, accessibility, and network connectivity.
 
 - Too many steps, too many screens to keep track
 - Small on-screen touch areas, cumbersome to use while driving
 - Unreliable Internet access in remote areas prevents system access
 
-The main takeaways from the research were around the themes of ease of use, accessibility, and network connectivity.
 
 
 ![User interviews takeaways (2)](https://user-images.githubusercontent.com/349454/192396199-9141dd25-6858-47be-8bbc-0b98efbfd841.jpg)
@@ -186,11 +187,11 @@ Designed to support a paper-based system and process.
 
 
 ### Key Takeaways
+Drivers are constantly relying on a secondary device in order to get better navigation, communicate with the customer, and interact with the dispatcher.
+
 - Drivers rely on a secondary device for navigation, traffic and photos
 - Drivers manually notify the customer and dispatcher of their current status and travel estimates
 - Paper forms and legacy process overhead is significant
-
-Drivers are constantly relying on a secondary device in order to get better navigation, communicate with the customer, and interact with the dispatcher.
 
 
 ![Key takeaways](https://user-images.githubusercontent.com/349454/192396211-14c1050e-8740-4d63-a3f7-93f37eea7a01.jpg)
