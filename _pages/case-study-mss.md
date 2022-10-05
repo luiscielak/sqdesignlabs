@@ -154,8 +154,6 @@ On this step, we gathered our insights and began shaping our hypothesis into pot
 - Classify all insights gathered
 - Present our synthesis to stakeholders
 
-![Conceptualize](https://user-images.githubusercontent.com/349454/192396204-3bb52e6d-566f-4987-8528-e5158bb85ae8.jpg)
-
 ![Ride Along Site](https://user-images.githubusercontent.com/349454/193978603-57496eea-0202-4df7-a217-1a63a94110a1.png)
 
 As we started to build these flows, we were constantly validating our hypothesis and solutions with our customers.
@@ -168,9 +166,7 @@ Prioritizing, validating, and prioritizing was key to our success.
 - Prioritized customer pain-points, wants and needs
 - Validated insights with customers
 
-![Conceptualize (2)](https://user-images.githubusercontent.com/349454/192396208-c71af4eb-2412-4b33-a4d9-a86e4195c85a.jpg)
-
-
+![User Flows](https://user-images.githubusercontent.com/349454/193978597-189c32cb-cd4a-4195-a290-8a5a0f1389f1.png)
 
 ### User Journey Map
 
@@ -180,9 +176,7 @@ And by mapping out these experiences into flows, we can uncover points of fricti
 - Dead-zones prevent crucial job information flow
 - Customers do not receive clear job status estimates
 
-
-![Customer journey map](https://user-images.githubusercontent.com/349454/192396210-2d0ba596-58b1-486a-b768-032e8a6f34e6.jpg)
-
+![User Journey](https://user-images.githubusercontent.com/349454/193978600-52525d98-dc6b-47b6-95aa-b445d6de96d5.png)
 
 ### Current State
 The current solution was not optimized for technicians on the move.
@@ -191,8 +185,7 @@ Not only was it hard to interact with the UI, the flows and procedures did not m
 
 Designed to support a paper-based system and process.
 
-![Current State](https://user-images.githubusercontent.com/349454/192396207-ec246f3b-85d9-4963-bd0d-cdcda7d9762c.jpg)
-
+![Current State](https://user-images.githubusercontent.com/349454/193978595-33026b70-075c-4d44-b012-969b42510d5a.png)
 
 ### Key Takeaways
 Drivers are constantly relying on a secondary device in order to get better navigation, communicate with the customer, and interact with the dispatcher.
@@ -201,8 +194,7 @@ Drivers are constantly relying on a secondary device in order to get better navi
 - Drivers manually notify the customer and dispatcher of their current status and travel estimates
 - Paper forms and legacy process overhead is significant
 
-
-![Key takeaways](https://user-images.githubusercontent.com/349454/192396211-14c1050e-8740-4d63-a3f7-93f37eea7a01.jpg)
+![Key Takeaways](https://user-images.githubusercontent.com/349454/193978593-776273ae-a08c-41a0-9734-3c4e9c3312fc.png)
 
 
 ## Process: Design
@@ -257,7 +249,6 @@ In this example the CTA is located in different part of the screen, depending on
 By relocating the CTA at the top, in a dedicated section along with the job status section,
 we improved discoverability and task success.
 
-![Refinement](https://user-images.githubusercontent.com/349454/192396222-2591c9e6-0747-4a9f-8af7-a80e06916ec1.jpg)
 
 ### Design System
 
@@ -288,6 +279,7 @@ Many times these screens are overlooked and not prioritized allowing for a fract
 This is was was delivered to the app store.
 
 ![Features 1](https://user-images.githubusercontent.com/349454/193978588-27c69153-e0e6-45ba-804b-e299c877bcbf.png)
+
 ![Features 2](https://user-images.githubusercontent.com/349454/193978583-e5819f03-f046-4d75-bcea-13ec0984e819.png)
 
 
@@ -339,30 +331,4 @@ MSS’s work became easier than ever and, due to additions based on user insight
 - Access completed jobs
 
 ![Next Steps](https://user-images.githubusercontent.com/349454/193978579-2e2b3589-d9dd-42bc-890c-ac634299d37a.png)
-
-----
-
-
-
-
-
-
-
-
-
-![Key Takeaways](https://user-images.githubusercontent.com/349454/193978593-776273ae-a08c-41a0-9734-3c4e9c3312fc.png)
-
-![Current State](https://user-images.githubusercontent.com/349454/193978595-33026b70-075c-4d44-b012-969b42510d5a.png)
-
-![User Flows](https://user-images.githubusercontent.com/349454/193978597-189c32cb-cd4a-4195-a290-8a5a0f1389f1.png)
-
-![User Journey](https://user-images.githubusercontent.com/349454/193978600-52525d98-dc6b-47b6-95aa-b445d6de96d5.png)
-
-![Ride Along Site](https://user-images.githubusercontent.com/349454/193978603-57496eea-0202-4df7-a217-1a63a94110a1.png)
-
-
-
-
-
-
 
