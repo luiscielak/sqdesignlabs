@@ -342,3 +342,34 @@ MSS’s work became easier than ever and, due to additions based on user insight
 
 ![Next Steps](https://user-images.githubusercontent.com/349454/192396232-a3d29d50-2fbb-4d77-8019-862cbbae2b22.jpg)
 
+
+
+----
+
+
+![Next Steps](https://user-images.githubusercontent.com/349454/193978579-2e2b3589-d9dd-42bc-890c-ac634299d37a.png)
+![Outcome](https://user-images.githubusercontent.com/349454/193978581-3b8b8d9f-7686-40ef-b3ef-6204eec83af0.png)
+![Solution UI](https://user-images.githubusercontent.com/349454/193978582-c61568df-eac5-404e-bc90-b301ea58aae7.png)
+![Features 2](https://user-images.githubusercontent.com/349454/193978583-e5819f03-f046-4d75-bcea-13ec0984e819.png)
+![Solution Drive](https://user-images.githubusercontent.com/349454/193978584-5b689175-691f-4a4a-bdcc-103fa77e212d.png)
+![Design System](https://user-images.githubusercontent.com/349454/193978586-3db000b3-7ae5-4278-b849-26802cc2b4c2.png)
+![Empty States](https://user-images.githubusercontent.com/349454/193978587-afc20498-e4a4-47e1-95ae-b5f4f00e8fd7.png)
+![Features 1](https://user-images.githubusercontent.com/349454/193978588-27c69153-e0e6-45ba-804b-e299c877bcbf.png)
+![Iteration and Refinemnet](https://user-images.githubusercontent.com/349454/193978589-06ca6da6-c400-415b-a959-26d8771bb533.png)
+![Prototypes](https://user-images.githubusercontent.com/349454/193978590-670d8cd0-cd09-4b46-adac-4bcb5045e227.png)
+![User Testing](https://user-images.githubusercontent.com/349454/193978591-7d7f5b7e-cb25-405a-9594-a25e789ab03d.png)
+![Estimation](https://user-images.githubusercontent.com/349454/193978592-52dfa150-39f6-423a-b494-4a84c306f8d8.png)
+![Key Takeaways](https://user-images.githubusercontent.com/349454/193978593-776273ae-a08c-41a0-9734-3c4e9c3312fc.png)
+![Wireframes](https://user-images.githubusercontent.com/349454/193978594-7d8230ee-69cb-4c36-b199-ef64a0ea293b.png)
+![Current State](https://user-images.githubusercontent.com/349454/193978595-33026b70-075c-4d44-b012-969b42510d5a.png)
+![User Flows](https://user-images.githubusercontent.com/349454/193978597-189c32cb-cd4a-4195-a290-8a5a0f1389f1.png)
+![User Journey](https://user-images.githubusercontent.com/349454/193978600-52525d98-dc6b-47b6-95aa-b445d6de96d5.png)
+![Ride Along Drive](https://user-images.githubusercontent.com/349454/193978601-49bb4825-0ff1-4d3b-bcd9-75c118de4f88.png)
+![Ride Along Site](https://user-images.githubusercontent.com/349454/193978603-57496eea-0202-4df7-a217-1a63a94110a1.png)
+![Discovery Workshop](https://user-images.githubusercontent.com/349454/193978605-38b3e26b-15f0-4950-8c7d-0fb49e65c519.png)
+![Ride Along](https://user-images.githubusercontent.com/349454/193978607-af132dc8-cbb9-4dce-ad18-88f811a93561.png)
+![Context Pack](https://user-images.githubusercontent.com/349454/193978609-32a1ffb2-7605-493e-a6db-e647b1d8640b.png)
+![Empathy Map](https://user-images.githubusercontent.com/349454/193978610-a694b2e8-0213-4e98-bfa5-26f561b2e555.png)
+![Context Build](https://user-images.githubusercontent.com/349454/193978611-93c88eb4-e4c1-4b05-abc5-4a9179854b8d.png)
+
+
