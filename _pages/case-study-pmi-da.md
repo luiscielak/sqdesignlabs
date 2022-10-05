@@ -251,10 +251,6 @@ Let's design some solutions.
 ![Process_ Design](https://user-images.githubusercontent.com/349454/193654372-290d5cd5-23ca-4927-a73b-bd1c08b03c5b.png)
 
 
-
-
-### Timeline
-
 ### We were on a very tight deadline and developers needed to start building soon.
 
 - Should we design mobile first?
@@ -333,9 +329,8 @@ The solution was heavily grounded on how to better navigate content that is very
 
 This included work on: information architecture, information design, and accessibility considerations.
 
-### The Technology
-The progressive web app is a great way for customers to view Disciplined Agile content in a new way.
 
+### The Progressive Web App (PWA) is a great way for customers to view Disciplined Agile content in a new way.
 - Working on multiple browsers and sharable through a link
 - Responsive to multiple devices (phones, tablets, desktops)
 - It works without Internet connectivity
@@ -343,15 +338,16 @@ The progressive web app is a great way for customers to view Disciplined Agile c
 ![Solution](https://user-images.githubusercontent.com/349454/193666737-f869c9f6-40dd-47d5-b531-0a70c5999980.png)
 
 
-## Demo
 
-### Meet the DA Toolkit.
+![Toolkit Website](https://user-images.githubusercontent.com/349454/194134429-13454ffa-ba7d-4afd-bbe2-79d627af1ea5.jpg)
 
-![Website](https://user-images.githubusercontent.com/349454/193666739-484bbf05-d830-4cdc-8e1c-262486972ef5.png)
 
-![Demo](https://user-images.githubusercontent.com/349454/193666729-c56774a6-98d8-4f46-8e69-f8b21b37e102.png)
 
-## Outcomes
+
+
+
+
+## Outcome
 
 **We successfully launched 6 months later an MVP that will serve as the backbone for all future mobile projects in PMI.**
 
@@ -371,6 +367,7 @@ The progressive web app is a great way for customers to view Disciplined Agile c
 - Refine typography
 
 ![Next Steps](https://user-images.githubusercontent.com/349454/193666734-4582c97e-a20f-41bb-9b7e-d98acfc56bf7.png)
+
 
 ---
 
