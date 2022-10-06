@@ -7,13 +7,7 @@ description: UX. UI. DataViz.
 - [PMI Progressive Web App (PWA)](/case-study-pmi-da)
 - [MSS iOS & Android App](/case-study-mss)
 
+![case-study-01](https://user-images.githubusercontent.com/349454/194199693-2f8403c0-6f1e-46b6-8a02-43bbd547895d.png)
 
 
-
-![5](https://user-images.githubusercontent.com/349454/193660480-031885f0-d210-40f3-9c4b-466513f331ca.png)
-
-
-![4](https://user-images.githubusercontent.com/349454/193660481-0b9ead33-79a3-4e2f-8826-9589833cabd3.png)
-
-
-![6](https://user-images.githubusercontent.com/349454/193660501-9861a2b6-93bf-4eb9-99e6-681fc32e0103.png)
+![case-study-02](https://user-images.githubusercontent.com/349454/194199695-73f65cd5-307c-4b3e-8830-fd8162b76ad9.png)
