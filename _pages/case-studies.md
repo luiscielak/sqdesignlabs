@@ -3,13 +3,29 @@ title: Case Studies
 description: UX. UI. DataViz.
 ---
 
-<div class="gallery full-width" data-columns="2">
+<section class="recent-posts">
+  <div class="wrap grid">
+    <header class="clients__header">
+      <h5 class="section-title">Case Studies</h5>
+    </header>
 
-  <a href="/case-study-pmi-da">
-    <img alt="Case Study: PMI Progressive Web App (PWA)" src="/images/case-studies/case-study-01.png">
-  </a>
+    <div class="recent-posts__list grid">
 
-  <a href="/case-study-mss">
-    <img alt="Case Study: MSS iOS & Android App" src="/images/case-studies/case-study-02.png">
-  </a>
-</div>
+      <article class="post__card">
+        <a href="/case-study-pmi-da" class="post__link">
+          <div class="post__image" style="background-image: url(/images/case-studies/case-study-01.png)">
+          </div>
+        </a>
+      </article>
+
+      <article class="post__card">
+        <a href="/case-study-mss" class="post__link">
+          <div class="post__image" style="background-image: url(/images/case-studies/case-study-02.png)">
+          </div>
+        </a>
+      </article>
+
+    </div>
+
+  </div>
+</section>
