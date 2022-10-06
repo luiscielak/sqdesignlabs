@@ -16,7 +16,7 @@ featured_image: /images/social.jpg
 - The app has become the preferred method for learning, referencing, teaching, and sharing best Agile practices and methods
 - The technology and architecture (technical and information), has become the seed for many future PWA projects to come.
 
-![Outcome](https://user-images.githubusercontent.com/349454/193666735-b02f6fca-ad19-485b-b4a9-75239696d9ef.png)
+![Results](https://user-images.githubusercontent.com/349454/193666735-b02f6fca-ad19-485b-b4a9-75239696d9ef.png)
 
 
 ## Intro
