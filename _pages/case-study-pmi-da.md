@@ -7,6 +7,18 @@ featured_image: /images/social.jpg
 
 <img width="712" alt="Screen Shot 2022-09-26 at 3 43 07 PM" src="https://user-images.githubusercontent.com/349454/192366593-7e238555-ed61-48b2-ae37-d66d388931fe.png">
 
+## Results
+
+**We successfully launched 6 months later an MVP that will serve as the backbone for all future mobile projects in PMI.**
+
+- Adopted by PMI Agile coaches and instructors
+- Extended to 3 additional key project initiatives
+- The app has become the preferred method for learning, referencing, teaching, and sharing best Agile practices and methods
+- The technology and architecture (technical and information), has become the seed for many future PWA projects to come.
+
+![Outcome](https://user-images.githubusercontent.com/349454/193666735-b02f6fca-ad19-485b-b4a9-75239696d9ef.png)
+
+
 ## Intro
 
 PMI’s **Disciplined Agile Toolkit App** provides access to over **400+ techniques, templates and best practices for project success across product delivery teams**.
@@ -335,18 +347,6 @@ This included work on: information architecture, information design, and accessi
 
 ![Solution UI 2](https://user-images.githubusercontent.com/349454/194174673-2666db3e-f5f5-47c9-a4f1-b98a9923447e.gif)
 
-
-
-## Outcome
-
-**We successfully launched 6 months later an MVP that will serve as the backbone for all future mobile projects in PMI.**
-
-- Adopted by PMI Agile coaches and instructors
-- Extended to 3 additional key project initiatives
-- The app has become the preferred method for learning, referencing, teaching, and sharing best Agile practices and methods
-- The technology and architecture (technical and information), has become the seed for many future PWA projects to come.
-
-![Outcome](https://user-images.githubusercontent.com/349454/193666735-b02f6fca-ad19-485b-b4a9-75239696d9ef.png)
 
 ## Next Steps
 
