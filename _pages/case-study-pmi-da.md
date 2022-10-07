@@ -116,7 +116,7 @@ I used Miro, an online collaborative whiteboard platform to facilitate these rem
 ![Empathy Map Miro](https://user-images.githubusercontent.com/349454/193666723-95cb313d-ec08-4bc0-a253-67f21c8de259.png)
 
 
-### W dived into an intensive 2-week research sprint.
+### We dived into an intensive 2-week research sprint.
 
 - 12+ user interviews
 - Investigated experienced and naive Agile users, PMI customers, and non-customers
