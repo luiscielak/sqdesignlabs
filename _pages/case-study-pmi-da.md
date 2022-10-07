@@ -9,12 +9,12 @@ featured_image: /images/social.jpg
 
 ## Results
 
-**We successfully launched 6 months later an MVP that will serve as the backbone for all future mobile projects in PMI.**
+**We successfully launched 6 months later an MVP that will serve as the backbone for all future mobile projects at PMI.**
 
 - Adopted by PMI Agile coaches and instructors
 - Extended to 3 additional key project initiatives
 - The app has become the preferred method for learning, referencing, teaching, and sharing best Agile practices and methods
-- The technology and architecture (technical and information), has become the seed for many future PWA projects to come.
+- The technology and information architecture, has become the seed for many future PWA projects to come.
 
 ![Results](https://user-images.githubusercontent.com/349454/193666735-b02f6fca-ad19-485b-b4a9-75239696d9ef.png)
 
@@ -23,15 +23,15 @@ featured_image: /images/social.jpg
 
 PMI’s **Disciplined Agile Toolkit App** provides access to over **400+ techniques, templates and best practices for project success across product delivery teams**.
 
-This Progressive Web Application (PWA) allows **product owners**, **project managers**, **consultants**, **practitioners** and **educators** to apply, save and share proven techniques across the most popular industries and teams to **improve the way teams work**.
+This Progressive Web Application (PWA) allows **product owners**, **project managers**, **consultants**, **practitioners** and **educators** to implement, save and share proven techniques across the most popular industries and teams to **improve the way teams work**.
 
-This case study explores how PMI attempts to modernize themselves.
+This case study explores how PMI executed a new mobile design strategy to modernize themselves.
 
 PMI, the leader in project management certification, is known for more traditional methodologies. Many modern teams have moved away from those techniques of project management into swifter and more flexible ways, such as Agile and Scrum[^1].
 
 PMI acquired Disciplined Agile (DA) to be able to offer their clients courses, training, certifications, and coaching in these Agile methodologies[^2].
 
-One of DA's main component is the DA Tool Kit. This case study shows how I was able to redesign the current desktop-only toolkit, into a mobile-first experience, applying human-centric design.
+One of DA's main component is the DA Tool Kit. This case study shows how I was able to redesign and improve the existing toolkit, into a mobile-first experience, applying human-centric design.
 
 
 ## The Team
@@ -53,7 +53,7 @@ Many people collaborated in this project across product and development teams.
 - Back-end engineer
 - Front-end engineer
 
-As you can see, we had a stellar team that collaborated across many disciplines, building something that I'm very proud of, and happy to share with you.
+We had a stellar team that collaborated across many disciplines, building something that I'm very proud of, and happy to share with you.
 
 ![DALL·E 2022-08-30 19 05 44 - Painting by Dali of a group of designers making an app](https://user-images.githubusercontent.com/349454/192364106-bfe061c6-0729-45ba-86c1-aeb00d5e773b.png)
 
@@ -91,7 +91,7 @@ Disciplined Agile consists on a collection of many tools and frameworks for work
 
 ## The Objective
 
-Research, strategize and design an end-to-end PWA (Progress Web App) experience to help PMI’s members leverage best practices, with a focus on increasing mobile reach and certification awareness for this MVP.
+To research, strategize and design an end-to-end PWA (Progress Web App) experience to help PMI’s members leverage best practices, with a focus on increasing mobile reach and certification awareness for this MVP.
 
 
 
@@ -111,14 +111,12 @@ Starting with Empathize.
 
 First we needed to gain clarity on what frustrates our customers the most.
 
-What are their motivations? Their frustrations?
-
 I used Miro, an online collaborative whiteboard platform to facilitate these remote workshops.
 
 ![Empathy Map Miro](https://user-images.githubusercontent.com/349454/193666723-95cb313d-ec08-4bc0-a253-67f21c8de259.png)
 
 
-### Dived into an intensive 2-week research sprint.
+### W dived into an intensive 2-week research sprint.
 
 - 12+ user interviews
 - Investigated experienced and naive Agile users, PMI customers, and non-customers
