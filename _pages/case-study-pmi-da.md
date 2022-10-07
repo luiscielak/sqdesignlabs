@@ -146,22 +146,18 @@ The main takeaways from the research were around themes of **trust** and **ease 
 
 ### Research Data
 
+We were aiming to understand what was the catalyst for the lack of trust.  We learned that the poor organization and structure of the content was the main reason users felt confused and lost when browsing our content.
+
+A heatmap allowed us to identify the areas our customers were cofusing on the most. We also received additional feedback to improve language, tone and messaging.
+
 **Participants**
 Here is some participant data.
 ![Participants](https://user-images.githubusercontent.com/349454/192349272-9c782f71-07e0-4ff5-8b9d-d1063c269b07.jpg)
 
 
-
 **Exploratory Research**
 ![Exploratory Research](https://user-images.githubusercontent.com/349454/192349299-7bf6356c-ff47-44d6-b7c5-2273bad42ef6.jpg)
 
-A heatmap of the results of some of the studies we did around product messaging, and communication.
-
-We were aiming to understand what is it about the structure of the content and the presentation of information is acting as the catalyst for the lack of trust and frustration.
-
-**Additional Feedback**
-
-Additional feedback focused around language, tone and messaging.
 
 ![Additional Feedback](https://user-images.githubusercontent.com/349454/192349329-4bf84808-8d11-4846-b880-99a8fe149c87.jpg)
 
