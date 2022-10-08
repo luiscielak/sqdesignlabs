@@ -4,9 +4,9 @@
 
 // - - - - - - - - - - - - - - - - - -
 
-.case-studies {
+.recent-posts-cases {
 
-  .case-studies__header {
+  .recent-posts-cases__header {
     margin-bottom: 40px;
 
     .action {
@@ -16,7 +16,7 @@
     }
   }
 
-  .case-studies__list {
+  .recent-posts-cases__list {
     width: 100%;
     grid-template-columns: 1fr;
     grid-gap: 56px;
@@ -30,7 +30,7 @@
   @include mq(tabletp) {
     padding: 0 0 10px;
 
-    .case-studies__header {
+    .recent-posts-cases__header {
       display: grid;
       grid-template-columns: 1fr 1fr;
 
@@ -41,9 +41,9 @@
       }
     }
 
-    .case-studies__list {
+    .recent-posts-cases__list {
       grid-gap: 30px;
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr;
     }
 
     .post__image {
