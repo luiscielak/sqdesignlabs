@@ -1,12 +1,12 @@
 // - - - - - - - - - - - - - - - - - -
 
-// Section - Recent Posts
+// Section - Case Studies
 
 // - - - - - - - - - - - - - - - - - -
 
-.recent-posts {
+.case-studies {
 
-  .recent-posts__header {
+  .case-studies__header {
     margin-bottom: 40px;
 
     .action {
@@ -16,7 +16,7 @@
     }
   }
 
-  .recent-posts__list {
+  .case-studies__list {
     width: 100%;
     grid-template-columns: 1fr;
     grid-gap: 56px;
@@ -30,7 +30,7 @@
   @include mq(tabletp) {
     padding: 0 0 10px;
 
-    .recent-posts__header {
+    .case-studies__header {
       display: grid;
       grid-template-columns: 1fr 1fr;
 
@@ -41,9 +41,9 @@
       }
     }
 
-    .recent-posts__list {
+    .case-studies__list {
       grid-gap: 30px;
-      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
     }
 
     .post__image {
