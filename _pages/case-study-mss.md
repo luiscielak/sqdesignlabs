@@ -241,7 +241,8 @@ Once the flows were established, quick wireframing leveraging the current design
 Building prototypes with the design system allows us to have higher fidelity concepts out faster.
 We could then test those prototypes with users live. Without coding at this point.
 
-![Prototypes](https://user-images.githubusercontent.com/349454/193978590-670d8cd0-cd09-4b46-adac-4bcb5045e227.png)
+![Prototypes](https://user-images.githubusercontent.com/349454/194778519-f920bed9-c09c-4f92-9524-d8ef2e0ec8f4.gif)
+
 
 ### User Testing
 And by constantly validating with user studies, we can adapt and iterate quickly.
