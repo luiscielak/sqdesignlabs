@@ -5,7 +5,7 @@ description: Case Study, Progressive Web App (PWA)
 featured_image: /images/case-studies/case-study-01.png
 accent_color: '#4C60E6'
 gallery_images:
-  - demo.jpg
+  - case-studies/pmi/demo.jpg
   - /images/case-studies/case-study-01.png
   - demo.jpg
 ---
