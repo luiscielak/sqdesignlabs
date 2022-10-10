@@ -32,12 +32,12 @@ MSS gets hired by movers and relocators to pack delicate and valuable items. MSS
 
 Many people collaborated in this project across product and development teams.
 
-### Product Team
+** Product Team**
 - Design Lead
 - Project Manager
 
 
-### Development Team
+**Development Team**
 - Tech Lead
 - Front-end Engineer
 - Back-end Engineer
