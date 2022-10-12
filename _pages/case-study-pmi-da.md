@@ -1,17 +1,3 @@
----
-title: "Redefining the way Agile professionals learn, reference and share human-centric tools"
-subtitle: "Case Study. Progressive Web App (PWA)"
-description: Case Study, Progressive Web App (PWA)
-featured_image: /images/case-studies/case-study-01.png
-accent_color: '#4C60E6'
-gallery_images:
-  - case-studies/pmi/demo.jpg
-  - /images/case-studies/case-study-01.png
-  - demo.jpg
----
-
-<img width="712" alt="Screen Shot 2022-09-26 at 3 43 07 PM" src="https://user-images.githubusercontent.com/349454/192366593-7e238555-ed61-48b2-ae37-d66d388931fe.png">
-
 ## Results
 
 **We successfully launched 6 months later an MVP (Minimal Viable Product) that will serve as the backbone for all future mobile projects at PMI.**
@@ -19,29 +5,29 @@ gallery_images:
 - Adopted by PMI Agile coaches and instructors
 - Extended to 3 additional key project initiatives
 - The app has become the preferred method for learning, referencing, teaching, and sharing best Agile practices and techniques
-- The technology and information architecture, has become the seed for many future Progressive Web App (PWA) projects to come.
+- Technology and information architecture, have become the seed for many future Progressive Web App (PWA) projects to come.
 
 ![Results](https://user-images.githubusercontent.com/349454/193666735-b02f6fca-ad19-485b-b4a9-75239696d9ef.png)
 
 
 ## Intro
 
-PMI’s **Disciplined Agile Toolkit App** provides access to over **400+ techniques, templates and best practices for project success across product delivery teams**.
+PMI’s **Disciplined Agile Toolkit App** provides access to over **400+ techniques, templates, and best practices for project success across product delivery teams**.
 
-This Progressive Web Application (PWA) allows **product owners**, **project managers**, **consultants**, **practitioners** and **educators** to implement, save and share proven techniques across the most popular industries and teams to **improve the way teams work**.
+This Progressive Web Application (PWA) allows **product owners**, **project managers**, **consultants**, **practitioners**, and **educators** to implement, save and share proven techniques across the most popular industries and teams to **improve the way teams work**.
 
-This case study explores how PMI executed a new mobile design strategy to modernize themselves.
+This case study explores how PMI executed a new mobile design strategy to modernize itself.
 
 PMI, the leader in project management certification, is known for more traditional methodologies. Many modern teams have moved away from those techniques of project management into swifter and more flexible ways, such as Agile and Scrum[^1].
 
 PMI acquired Disciplined Agile (DA) to be able to offer their clients courses, training, certifications, and coaching in these Agile methodologies[^2].
 
-One of DA's main component is the DA Tool Kit. This case study shows how I was able to redesign and improve the existing toolkit, into a mobile-first experience, applying human-centric design.
+One of DA's main components is the DA Tool Kit. This case study shows how I was able to redesign and improve the existing toolkit, into a mobile-first experience, applying human-centric design.
 
 
 ## The Team
 
-Many people collaborated in this project across product and development teams.
+Many people collaborated on this project across product and development teams.
 
 **Product Team**
 - Design lead
@@ -58,7 +44,7 @@ Many people collaborated in this project across product and development teams.
 - Back-end engineer
 - Front-end engineer
 
-We had a stellar team that collaborated across many disciplines, building something that I'm very proud of, and happy to share with you.
+We had a stellar team that collaborated across many disciplines, building something that I'm very proud of and happy to share with you.
 
 ![DALL·E 2022-08-30 19 05 44 - Painting by Dali of a group of designers making an app](https://user-images.githubusercontent.com/349454/192364106-bfe061c6-0729-45ba-86c1-aeb00d5e773b.png)
 
@@ -72,7 +58,7 @@ We had a stellar team that collaborated across many disciplines, building someth
 - Facilitate discovery workshops with stakeholders and leads
 - Collaborate with the UX research team to conduct generative and evaluative research
 - Define user personas, user journeys, user flows, and empathy maps
-- Create lo/hi fidelity wireframes and build interactive prototypes
+- Create low/hi-fidelity wireframes and build interactive prototypes
 - Partner with the design systems team to develop and extend components and design tokens
 
 ![DALL·E 2022-09-26 15 50 12 - An oil painting by Matisse of a bald designer making an app](https://user-images.githubusercontent.com/349454/192366968-a99a19fe-c200-43c2-ac4a-2597cbe2b1e9.png)
@@ -96,7 +82,7 @@ Disciplined Agile consists on a collection of many tools and frameworks for work
 
 ## The Objective
 
-To research, strategize and design an end-to-end PWA (Progress Web App) experience to help PMI’s members leverage best practices, with a focus on increasing mobile reach and certification awareness for this MVP.
+To research, strategize, and design an end-to-end PWA (Progress Web App) experience to help PMI’s members leverage best practices, with a focus on increasing mobile reach and certification awareness for this MVP.
 
 
 
@@ -108,13 +94,13 @@ Starting with Empathize.
 
 ![Process_ Empathize](https://user-images.githubusercontent.com/349454/193654328-5f46b73a-2f77-41e1-b136-0b812e7386dc.png)
 
-### We lacked understanding in customer wants, needs and expectations.
+### We lacked an understanding of customer wants, needs and expectations.
 
 - Current frustrations and pain points?
-- What did they really want?
-- What did they really need?
+- What did they want?
+- What did they need?
 
-First we needed to gain clarity on what frustrates our customers the most.
+First, we needed to gain clarity on what frustrates our customers the most.
 
 I used Miro, an online collaborative whiteboard platform to facilitate these remote workshops.
 
@@ -129,13 +115,13 @@ I used Miro, an online collaborative whiteboard platform to facilitate these rem
 
 In collaboration with the UX research team, we dove into an intensive research sprint.
 
-We separated our user base into experienced and naive users. We conducted interviews, workshops and analysis.
+We separated our user base into experienced and naive users. We conducted interviews, workshops, and analyses.
 
-![DALL·E 2022-08-30 20 04 31 - An oil painting of a grid of people in a computer screen on a conference call  ](https://user-images.githubusercontent.com/349454/192384242-6c9f2191-90b7-4a3e-ac06-6c65d1395d79.png)
+![DALL·E 2022-08-30 20 04 31 - An oil painting of a grid of people on a computer screen on a conference call  ](https://user-images.githubusercontent.com/349454/192384242-6c9f2191-90b7-4a3e-ac06-6c65d1395d79.png)
 
 *Image generated by DALL·E* [^5]
 
-[^5]: Image generated with [DALL·E](https://openai.com/dall-e-2/). "An oil painting of a grid of people in a computer screen on a conference call."
+[^5]: Image generated with [DALL·E](https://openai.com/dall-e-2/). "An oil painting of a grid of people on a computer screen on a conference call."
 
 
 ### User Interviews Takeaways
@@ -153,10 +139,10 @@ The main takeaways from the research were around themes of **trust** and **ease 
 
 We were aiming to understand what was the catalyst for the lack of trust.  We learned that the poor organization and structure of the content was the main reason users felt confused and lost when browsing our content.
 
-A heatmap allowed us to identify the areas our customers were cofusing on the most. We also received additional feedback to improve language, tone and messaging.
+A heatmap allowed us to identify the areas our customers were cofusing about the most. We also received additional feedback to improve language, tone, and messaging.
 
 **Participants**
-Here is some participant data.
+Here are some participant data.
 ![Participants](https://user-images.githubusercontent.com/349454/192349272-9c782f71-07e0-4ff5-8b9d-d1063c269b07.jpg)
 
 
@@ -185,12 +171,12 @@ And lastly, the product evangelists, the Agile coaches, are not motivated to sha
 
 ## Process: Conceptualize
 
-On this step, we gathered our insights and began shaping our hypothesis into potential concepts.
+In this step, we gathered our insights and began shaping our hypothesis into potential concepts.
 
 ![Process_ Conceptualize](https://user-images.githubusercontent.com/349454/193654360-96758f91-6145-40b5-8bb9-af7c045f82df.png)
 
 ### Overwhelmed with insights, we needed to start prioritizing to form a strategy.
-- Understand key pain-points, wants and needs
+- Understand key pain points, wants, and needs
 - Classify all insights gathered
 - Present our synthesis to stakeholders
 
@@ -207,14 +193,14 @@ By mapping out our personas, and grouping them in different ways, we start contr
 ### Jumped into secondary research to form our product strategy and experience.
 
 - Created affinity maps
-- Prioritized customer pain-points, wants and needs
+- Prioritized customer pain points, wants, and needs
 - Validated insights with customers
 
 
-As we develop these concepts and features, we are constantly validating with our customers.
+As we develop these concepts and features, we are constantly validating them with our customers.
 
 ### Affinity Map
-By conceptually grouping this feedback with Affinity Maps, we uncover actionable solution for various pain-points.
+By conceptually grouping this feedback with Affinity Maps, we uncover actionable solutions for various pain points.
 
 - Give me the tools to solve my problems
 - Provide an experience with less friction and more credibility
@@ -225,7 +211,7 @@ By conceptually grouping this feedback with Affinity Maps, we uncover actionable
 
 ### Customer Journey Map
 
-By mapping out these experiences into flows, we can uncover points of friction and areas of opportunity beyond a single use case, or touch-point with a customer.
+By mapping out these experiences into flows, we can uncover points of friction and areas of opportunity beyond a single use case or touch-point with a customer.
 
 - Purchasing process is cumbersome
 - Unclear how our customers are currently benefiting
@@ -237,16 +223,16 @@ By mapping out these experiences into flows, we can uncover points of friction a
 
 ### Current State
 
-The current toolkit was originally designed as a companion to a physical book as a reference tool for diagrams. The current experience was not intended to be customer facing, and was not intended for mobile use. Mobile now, is a requirement that customers are demanding.
+The current toolkit was originally designed as a companion to a physical book as a reference tool for diagrams. The current experience was not intended to be customer-facing and was not intended for mobile use. Mobile now, is a requirement that customers are demanding.
 
-The content in the current state is hard to read, difficult to navigate, and cumbersome to access.
+The content in its current state is hard to read, difficult to navigate, and cumbersome to access.
 
 ![Current State](https://user-images.githubusercontent.com/349454/194131077-34ec3380-8751-4fc9-812b-69aa180a2f36.gif)
 
 
 ### Key Takeaways
 
-The clunky interface and frustrating flows are the most critical shortfalls of the current product. This results in lack of trust, interest and ultimately the lack of conversions.
+The clunky interface and frustrating flows are the most critical shortfalls of the current product. This results in a lack of trust, interest, and ultimately the lack of conversions.
 
 - Content is dense and difficult to navigate
 - Products and services are poorly integrated
@@ -272,7 +258,7 @@ Let's design some solutions.
 
 We had a very aggressive deadline of 6 months to fully develop a PWA.
 
-It needed to work offline, on mobile devices, be easy to use and looked modern and engaging.
+It needed to work offline, on mobile devices, be easy to use, and looked modern and engaging.
 
 And to be developed quickly.
 
@@ -282,7 +268,7 @@ We needed a tight collaboration with the visual design team, development team, Q
 
 - Built a design system as a priority
 - Moved forward with a mobile-first approach
-- Focus on home screen and diagram navigation
+- Focus on the home screen and diagram navigation
 
 ![Sketches](https://user-images.githubusercontent.com/349454/193666736-99f345b5-62cb-4285-b251-6eff19f6a87e.png)
 
@@ -292,7 +278,7 @@ We needed a visual system that could scale with content (techniques, options, ca
 
 And components that could be reused and re-purposed.
 
-We wanted to empowers developers and content creators to build their own pages and templates with the design system we built.
+We wanted to empower developers and content creators to build their pages and templates with the design system we built.
 
 - Implement reusable components to eliminate inconsistency
 - Build a dynamic brand that is scalable and adaptable
@@ -301,9 +287,9 @@ We wanted to empowers developers and content creators to build their own pages a
 ![Design System](https://user-images.githubusercontent.com/349454/193666730-7ae2c95f-7e06-4551-a414-815058ff68f2.png)
 
 
-### Low and High Fidelity Wireframes
+### Low and High-Fidelity Wireframes
 
-As wireframes and prototypes were created and validated with users, design was iterated and improved upon.
+As wireframes and prototypes were created and validated with users, the design was iterated and improved upon.
 
 This is some of the initial critical feedback we received.
 
@@ -321,23 +307,23 @@ The feedback was received and was added to a backlog to be then prioritized.
 We first then focused on:
 
 - Enabling multiple ways of navigating the content
-- Clearly defining terminology and expand support features
-- Provide a dedicated on-boarding experience
+- Clearly defining terminology and expanding support features
+- Provide a dedicated onboarding experience
 
 ![Wireframes HiFi](https://user-images.githubusercontent.com/349454/193666741-30dbb6f4-6328-4f4d-adee-003163265acc.png)
 
 
-### How might we organize our content to make it more relatable, accessible and shareable?
+### How might we organize our content to make it more relatable, accessible, and shareable?
 
 - Improve information design and architecture
-- Provide a responsive, dynamic and interactive interface
+- Provide a responsive, dynamic, and interactive interface
 - Adhere to accessibility guidelines, enable offline access to content, and extend sharing capabilities
 
 ![Solution On-Hand](https://user-images.githubusercontent.com/349454/192384535-bf4b99a1-fde5-4aff-9401-e3fe339e4a7e.jpg)
 
-The solution was heavily grounded on how to better navigate content that is very dense, lengthily and difficult to parse.
+The solution was heavily grounded on how to better navigate content that is very dense, lengthy, and difficult to parse.
 
-This included work on: information architecture, information design, and accessibility considerations.
+This included work on information architecture, information design, and accessibility considerations.
 
 
 ### The Progressive Web App (PWA) is a great way for customers to view Disciplined Agile content in a new way.
@@ -356,7 +342,7 @@ This included work on: information architecture, information design, and accessi
 
 **The progressive web app is a great way for customers to view Disciplined Agile content in a new way.**
 
-- Create a better on-boarding experience
+- Create a better onboarding experience
 - Better UI affordances
 - Refine typography
 
@@ -371,4 +357,5 @@ This included work on: information architecture, information design, and accessi
 [^1]: [Forbes.](https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/) Agile Vs. Waterfall: Which Project Management Methodology Is Best For You?
 
 [^2]: [PMI.](https://www.pmi.org/about/press-media/press-releases/project-management-institute-announces-acquisition-of-disciplined-agile) Project Management Institute Announces Acquisition of Disciplined Agile
+
 
