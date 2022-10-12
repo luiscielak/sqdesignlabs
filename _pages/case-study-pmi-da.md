@@ -16,7 +16,7 @@ featured_image: /images/case-studies/case-study-01.png
 - The app has become the preferred method for learning, referencing, teaching, and sharing best Agile practices and techniques
 - Technology and information architecture, have become the seed for many future Progressive Web App (PWA) projects to come.
 
-![Results](https://user-images.githubusercontent.com/349454/193666735-b02f6fca-ad19-485b-b4a9-75239696d9ef.png)
+![Results](https://user-images.githubusercontent.com/349454/195272178-4bf45ea8-6f08-4319-b46c-ceb2f4b4539e.png)
 
 
 ## Intro
