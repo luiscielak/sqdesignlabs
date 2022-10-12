@@ -3,11 +3,6 @@ title: "Redefining the way Agile professionals learn, reference and share human-
 subtitle: "Case Study. Progressive Web App (PWA)"
 description: Case Study, Progressive Web App (PWA)
 featured_image: /images/case-studies/case-study-01.png
-accent_color: '#4C60E6'
-gallery_images:
-  - case-studies/pmi/demo.jpg
-  - /images/case-studies/case-study-01.png
-  - demo.jpg
 ---
 
 <img width="712" alt="Screen Shot 2022-09-26 at 3 43 07 PM" src="https://user-images.githubusercontent.com/349454/192366593-7e238555-ed61-48b2-ae37-d66d388931fe.png">
@@ -325,6 +320,9 @@ We first then focused on:
 - Provide a dedicated on-boarding experience
 
 ![Wireframes HiFi](https://user-images.githubusercontent.com/349454/193666741-30dbb6f4-6328-4f4d-adee-003163265acc.png)
+
+
+![Wireframes HiFi](https://user-images.githubusercontent.com/349454/195269979-1b16e5e4-1f9a-4014-bc1c-e3596ea29714.png)
 
 
 ### How might we organize our content to make it more relatable, accessible and shareable?
