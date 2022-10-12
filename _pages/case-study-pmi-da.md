@@ -319,11 +319,7 @@ We first then focused on:
 - Clearly defining terminology and expand support features
 - Provide a dedicated on-boarding experience
 
-![Wireframes HiFi](https://user-images.githubusercontent.com/349454/193666741-30dbb6f4-6328-4f4d-adee-003163265acc.png)
-
-
-![Wireframes HiFi](https://user-images.githubusercontent.com/349454/195269979-1b16e5e4-1f9a-4014-bc1c-e3596ea29714.png)
-
+![Wireframes HiFi](https://user-images.githubusercontent.com/349454/195271032-1b5951d2-030a-4e3b-aee7-df7955c7424e.png)
 
 ### How might we organize our content to make it more relatable, accessible and shareable?
 
