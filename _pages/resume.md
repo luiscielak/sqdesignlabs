@@ -1,5 +1,6 @@
 ---
-title: Resume
+title: Luis Cielak
+subtitle: Resume
 description: UX. UI. DataViz.
 featured_image: /images/social.jpg
 ---
