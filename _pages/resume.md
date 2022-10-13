@@ -5,6 +5,10 @@ description: UX. UI. DataViz.
 featured_image: /images/social.jpg
 ---
 
+
+[Download Resume](https://github.com/luiscielak/sqdesignlabs/files/9779692/lcielak_resume.pdf)
+
+
 ## Education
 
 ###### Master of Science: Interactive Design & Media**
