@@ -7,14 +7,15 @@ featured_image: /images/social.jpg
 
 ## Education
 
-Master of Science: Interactive Design & Media
+### Master of Science: Interactive Design & Media
 
 _Thomas Jefferson University_ **May 2014**
 
 
-Bachelor of Science: Management Information Systems
+### Bachelor of Science: Management Information Systems
 
 _Florida State University_ **May 2008**
+
 
 ## Skills
 
