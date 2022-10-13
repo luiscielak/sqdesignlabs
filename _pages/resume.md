@@ -67,15 +67,24 @@ Enhanced information reliability across systems by educating project managers on
 
 ## Selected Projects
 
-UX Nights
+### UX Nights
+
 Creator and organizer of UX Nights Meet-Up.
+
 UX Nights is an inclusive community open to professionals, students, and anyone interested in design, where technologist and designers gather to discuss user experience and how it affects our lives and the work we do. This Meet-Up group is for people who are passionate about learning new things and want to become better at what they do.
-meetup.com/ux-nights
 
-Empathy Totems
+[meetup.com/ux-nights](meetup.com/ux-nights)
+
+
+### Empathy Totems
+
 Data sculptures to visually represent personal information as a non-verbal communication tool. The project explores how to understand and communicate information by conveying data through physical objects. It aims to utilize data visualization to improve interpersonal relationships.
-luiscielak.com/empathy-totems
 
-Data Ergo Sum
+[luiscielak.com/empathy-totems](luiscielak.com/empathy-totems)
+
+
+### Data Ergo Sum
+
 A tool that connects to APIs and represents data-streams visually through a responsive web application, rendering the information optimized for the device’s screen resolution.
+
 luiscielak.com/data-ergo-sum
