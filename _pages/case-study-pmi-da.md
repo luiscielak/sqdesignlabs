@@ -343,7 +343,8 @@ This included work on: information architecture, information design, and accessi
 
 ![Solution UI 1](https://user-images.githubusercontent.com/349454/195648543-652e5adb-9a42-47cf-be25-6fac961da86a.gif)
 
-![Solution UI 2](https://user-images.githubusercontent.com/349454/195652204-f1dcaba2-ae4f-46ab-8b8e-921beb7de177.gif)
+![Solution UI 2](https://user-images.githubusercontent.com/349454/195657356-43152e31-7278-4d60-97e6-314ab189bd2f.gif)
+
 
 
 
