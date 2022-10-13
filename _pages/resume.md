@@ -8,10 +8,13 @@ featured_image: /images/social.jpg
 ## Education
 
 Master of Science: Interactive Design & Media
-Thomas Jefferson University May 2014
+
+_Thomas Jefferson University_ **May 2014**
+
 
 Bachelor of Science: Management Information Systems
-Florida State University May 2008
+
+_Florida State University_ **May 2008**
 
 ## Skills
 
@@ -88,4 +91,4 @@ Data sculptures to visually represent personal information as a non-verbal commu
 
 A tool that connects to APIs and represents data-streams visually through a responsive web application, rendering the information optimized for the device’s screen resolution.
 
-luiscielak.com/data-ergo-sum
+[luiscielak.com/data-ergo-sum](luiscielak.com/data-ergo-sum)
