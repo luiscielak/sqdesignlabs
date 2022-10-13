@@ -18,19 +18,24 @@ _Florida State University_ **May 2008**
 
 ## Skills
 
-UX Design Methods
+### UX Design Methods
+
 Discovery Workshops, Personas, User Journeys, Ecosystem Maps, Competitive Audits, Moodboards, Stakeholder Interviews, Storyboards, User Flows, Content Audits, Heuristic Analysis, Sitemaps, Usability Testing, Wireframes, Prototypes, Pattern Libraries, Design Systems
 
-Application Software
+### Application Software
+
 Sketch, InVision, Miro, Figma, Axure, Balsamiq, Jira, Adobe Creative Suite, Microsoft Office Suite, Microsoft Project, Visio, SAP BusinessObjects, Omnigraffle, Tableau, Git
 
-Programming Languages
+### Programming Languages
+
 CSS, Sass, LESS, HTML, SQL, React, XML, D3js, PHP, JavaScript, Python, Processing, Arduino
 
 ## Experience
 
-Senior User Experience Designer
-Project Management Institute (PMI)    February 2021 - Present
+### Senior User Experience Designer
+
+_Project Management Institute (PMI)_    **February 2021 - Present**
+
 Conduct workshops to identify user personas and requirements, transitioning them into conceptual designs and UX artifacts for use with user researchers, business stakeholders, and development teams. Translate business needs into design solutions by creating: information architectures, taxonomies, user journeys and flows, wireframes, and prototypes.
 
 Design Consultant
