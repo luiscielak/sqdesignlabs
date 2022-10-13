@@ -7,48 +7,52 @@ featured_image: /images/social.jpg
 
 ## Education
 
-### Master of Science: Interactive Design & Media
+**Master of Science: Interactive Design & Media**
 
-_Thomas Jefferson University_ **May 2014**
+_Thomas Jefferson University_
+**May 2014**
 
 
-### Bachelor of Science: Management Information Systems
+**Bachelor of Science: Management Information Systems**
 
-_Florida State University_ **May 2008**
+_Florida State University_
+**May 2008**
 
 
 ## Skills
 
-### UX Design Methods
+**UX Design Methods**
 
 Discovery Workshops, Personas, User Journeys, Ecosystem Maps, Competitive Audits, Moodboards, Stakeholder Interviews, Storyboards, User Flows, Content Audits, Heuristic Analysis, Sitemaps, Usability Testing, Wireframes, Prototypes, Pattern Libraries, Design Systems
 
-### Application Software
+**Application Software**
 
 Sketch, InVision, Miro, Figma, Axure, Balsamiq, Jira, Adobe Creative Suite, Microsoft Office Suite, Microsoft Project, Visio, SAP BusinessObjects, Omnigraffle, Tableau, Git
 
-### Programming Languages
+**Programming Languages**
 
 CSS, Sass, LESS, HTML, SQL, React, XML, D3js, PHP, JavaScript, Python, Processing, Arduino
 
 ## Experience
 
-### Senior User Experience Designer
-
-_Project Management Institute (PMI)_    **February 2021 - Present**
-
+**Senior User Experience Designer**
+_Project Management Institute (PMI)_
+**February 2021 - Present**
 Conduct workshops to identify user personas and requirements, transitioning them into conceptual designs and UX artifacts for use with user researchers, business stakeholders, and development teams. Translate business needs into design solutions by creating: information architectures, taxonomies, user journeys and flows, wireframes, and prototypes.
 
-Design Consultant
-Near-Miss Management    July 2013 - Present
+**Design Consultant**
+_Near-Miss Management_
+**July 2013 - Present**
 Design the company’s flagship product, an interactive decision support system to visually represent process risk and alarm data in oil refineries aimed at achieving an increase of information transparency and a more comprehensive user experience. Meet with stakeholders regularly to assess and reassess client needs and improve product functionality and relevance to keep up with continuously evolving user needs.
 
-Senior User Experience Designer
-Elsevier     April 2020 - February 2021
+**Senior User Experience Designer**
+_Elsevier_
+**April 2020 - February 2021**
 Collaborate with UX researchers to conduct user interviews, gather feedback, and synthesize findings to improve a clinical trials product. Create data visualization concepts, wireframes and prototypes for a customer-facing oncology system to improve the standard level of patient care.
 
-Senior User Experience Designer
-Vanguard     November 2019 - April 2020
+**Senior User Experience Designer**
+_Vanguard_
+**November 2019 - April 2020**
 Plan, conduct, and lead white-boarding sessions, design sprints, workshops, and project meetings. Collaborate with internal teams to design the overall user experience for digital fintech systems and applications, including desktop and mobile. Prototype and iterate solutions based on user insight and feedback to better anticipate client needs.
 
 UX Designer & UI Engineer
