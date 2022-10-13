@@ -361,8 +361,7 @@ This included work on: information architecture, information design, and accessi
 - Better UI affordances
 - Refine typography
 
-![Next Steps](https://user-images.githubusercontent.com/349454/193666734-4582c97e-a20f-41bb-9b7e-d98acfc56bf7.png)
-
+![Next Steps](https://user-images.githubusercontent.com/349454/195661971-e92a800f-e3c9-4331-906e-c5ae7fff48c5.png)
 
 ---
 
