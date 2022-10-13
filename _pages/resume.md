@@ -59,24 +59,39 @@ UX Designer & UI Engineer
 PromptWorks    July 2017 - November 2019
 Interview clients and shadow in the field during normal business operations to assess needs and produce highly customized software. Collaborate with business analysts, engineers and project managers to estimate, design, test and implement intuitive, functional and elegant user interfaces for web and mobile applications. Create personas, user journeys, visualizations, story boards, task flows, wireframes, and prototypes to support the design, iteration and testing of features. Implement user-friendly and comprehensive design systems in HTML, CSS, React and React Native. Manage user experience and front-end development efforts to create an engaging experience for client projects and internal tools.
 
-Adjunct Professor
-Thomas Jefferson University    August 2016 - June 2017
+#### Adjunct Professor
+
+_Thomas Jefferson University_
+**August 2016 - June 2017**
+
 Taught the Essentials of Interactive Design and User Experience Design Thesis courses in the graduate User Experience and Interaction Design program. Mentored students and fostered educational growth through one-on-one meetings focused at improving quality of understanding concepts presented in class.
 
-Design Consultant
-Mega Supply Pro    June 2014 - June 2017
+#### Design Consultant
+
+_Mega Supply Pro_
+**June 2014 - June 2017**
+
 Lead design teams in analytics research that acquired data about current usage to inform and personalize product development Designed, implemented and maintained an e-commerce strategy with marketplaces in Shopify, Amazon and eBay.
 
-Design Consultant
-Electronic Ink    January 2013 - April 2013
+#### Design Consultant
+
+_Electronic Ink_
+**January 2013 - April 2013**
+
 Designed an operational modeling visualization for pharmaceutical regulatory reporting impacting the entire product line. Conceptualized and designed infographics conveying large datasets gathered during brainstorming sessions.
 
-Business Management Associate
-JPMorgan Chase & Co.    July 2009 - January 2013
+#### Business Management Associate
+
+_JPMorgan Chase & Co._
+**July 2009 - January 2013**
+
 Developed data visualization tools to streamline the financial reporting process and eliminate the need for printed artifacts. Optimized the department's reporting process by increasing information transparency and accountability.
 
-Business Management Analyst
-JPMorgan Chase & Co.    July 2008 - July 2009
+#### Business Management Analyst
+
+_JPMorgan Chase & Co._
+**July 2008 - July 2009**
+
 Enhanced information reliability across systems by educating project managers on how to identify, remediate, and prevent data quality issues.
 
 ## Selected Projects
