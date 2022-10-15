@@ -324,11 +324,6 @@ Our solution was focused around displaying content the right way at the right ti
 ![Solution Drive](https://user-images.githubusercontent.com/349454/193978584-5b689175-691f-4a4a-bdcc-103fa77e212d.png)
 
 
-{% include post-components/video.html
-	url = https://player.vimeo.com/video/270725085?color=6c6e95&title=0&byline=0
-	full_width = true
-%}
-
 
 ### The progressive web app is a great way for technicians to manage relocations and moves and keeping the customer informed at all times
 - Working on multiple jobs in different stages at once
