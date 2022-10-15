@@ -20,8 +20,7 @@ The app was fully adopted by the client's partners, techs and customer satisfact
 
 ![Results 2](https://user-images.githubusercontent.com/349454/195962348-f015686c-0753-458e-9af1-99d2fa901b2b.png)
 
-![Results 3](https://user-images.githubusercontent.com/349454/195962349-f0466a39-6008-4167-90b2-477faa96ec72.png)
-
+![Results 3](https://user-images.githubusercontent.com/349454/195963467-f44003e7-6d1e-4128-9595-a76a9dfdcf5f.png)
 
 
 ## Intro
@@ -38,7 +37,7 @@ MSS gets hired by movers and relocators to pack delicate and valuable items. MSS
 
 Many people collaborated in this project across product and development teams.
 
-** Product Team**
+**Product Team**
 - Design Lead
 - Project Manager
 
@@ -302,9 +301,15 @@ Many times these screens are overlooked and not prioritized allowing for a fract
 
 Our solution was focused around displaying content the right way at the right time, improving the workflow, and prioritizing safety and attention for our drivers.
 
-![Features 1](https://user-images.githubusercontent.com/349454/193978588-27c69153-e0e6-45ba-804b-e299c877bcbf.png)
+![Features 1](https://user-images.githubusercontent.com/349454/195963505-099eedde-b4a6-4edb-9323-9c9f2c2b15d3.png)
 
-![Features 2](https://user-images.githubusercontent.com/349454/193978583-e5819f03-f046-4d75-bcea-13ec0984e819.png)
+![Features 2](https://user-images.githubusercontent.com/349454/195963504-e698b92d-ccac-44dd-985a-1ee89edb0869.png)
+
+![Features 3](https://user-images.githubusercontent.com/349454/195963503-9dd11572-7dba-41a4-9294-d4fc10b2805b.png)
+
+![Features 4](https://user-images.githubusercontent.com/349454/195963502-ebefd7f4-ddba-4bef-af82-1976fb5bf9d3.png)
+
+
 
 ### How might we manage and display our content to make it available offline, organized, and contained while dispatched on the job?
 
