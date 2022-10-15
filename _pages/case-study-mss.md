@@ -18,8 +18,9 @@ The app was fully adopted by the client's partners, techs and customer satisfact
 
 ![Results 1](https://user-images.githubusercontent.com/349454/195961970-02f524ea-bd70-4168-80da-d5ee3c4e43c3.png)
 
-![Results 2](https://user-images.githubusercontent.com/349454/195961971-fe8baf1a-686b-4a19-a963-e07159ed0e77.png)
+![Results 2](https://user-images.githubusercontent.com/349454/195962348-f015686c-0753-458e-9af1-99d2fa901b2b.png)
 
+![Results 3](https://user-images.githubusercontent.com/349454/195962349-f0466a39-6008-4167-90b2-477faa96ec72.png)
 
 
 
