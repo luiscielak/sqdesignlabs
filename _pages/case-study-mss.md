@@ -15,9 +15,11 @@ featured_image: /images/case-studies/case-study-02.png
 
 The app was fully adopted by the client's partners, techs and customer satisfaction improved, and we received a 5-star rating in the app store.
 
-![Results 1](https://user-images.githubusercontent.com/349454/195711264-e3d2e7e5-8803-40a2-a84c-74b898e0c3e4.png)
 
-![Results 2](https://user-images.githubusercontent.com/349454/195711261-a950be3e-7764-464d-a475-2004ab785449.png)
+![Results 1](https://user-images.githubusercontent.com/349454/195961970-02f524ea-bd70-4168-80da-d5ee3c4e43c3.png)
+![Results 2](https://user-images.githubusercontent.com/349454/195961971-fe8baf1a-686b-4a19-a963-e07159ed0e77.png)
+
+
 
 
 ## Intro
