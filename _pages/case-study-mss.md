@@ -182,7 +182,8 @@ On this step, we gathered our insights and began shaping our hypothesis into pot
 - Classify all insights gathered
 - Present our synthesis to stakeholders
 
-![Ride Along Site](https://user-images.githubusercontent.com/349454/193978603-57496eea-0202-4df7-a217-1a63a94110a1.png)
+![Ride Along Site](https://user-images.githubusercontent.com/349454/195965379-e500c44b-eeb9-4931-967a-662384fafd6d.gif)
+
 
 As we started to build these flows, we were constantly validating our hypothesis and solutions with our customers.
 
