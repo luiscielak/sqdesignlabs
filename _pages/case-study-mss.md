@@ -302,13 +302,13 @@ Many times these screens are overlooked and not prioritized allowing for a fract
 
 Our solution was focused around displaying content the right way at the right time, improving the workflow, and prioritizing safety and attention for our drivers.
 
-![Features 1](https://user-images.githubusercontent.com/349454/195963505-099eedde-b4a6-4edb-9323-9c9f2c2b15d3.png)
+![Features 1](https://user-images.githubusercontent.com/349454/195964142-7b7885cd-72c2-4f4f-ad75-b0bd3217d0c2.png)
 
-![Features 2](https://user-images.githubusercontent.com/349454/195963504-e698b92d-ccac-44dd-985a-1ee89edb0869.png)
+![Features 2](https://user-images.githubusercontent.com/349454/195964143-9b10e12f-739d-4060-8a80-69477a3bdbbb.png)
 
-![Features 3](https://user-images.githubusercontent.com/349454/195963503-9dd11572-7dba-41a4-9294-d4fc10b2805b.png)
+![Features 3](https://user-images.githubusercontent.com/349454/195964144-fec082e3-cb84-406f-a953-6c70b13602c4.png)
 
-![Features 4](https://user-images.githubusercontent.com/349454/195963502-ebefd7f4-ddba-4bef-af82-1976fb5bf9d3.png)
+![Features 4](https://user-images.githubusercontent.com/349454/195964145-fc535a32-2dcd-49e7-9507-123a385c3a98.png)
 
 
 
