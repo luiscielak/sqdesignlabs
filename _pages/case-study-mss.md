@@ -16,11 +16,18 @@ featured_image: /images/case-studies/case-study-02.png
 The app was fully adopted by the client's partners, techs and customer satisfaction improved, and we received a 5-star rating in the app store.
 
 
-![Results 1](https://user-images.githubusercontent.com/349454/195961970-02f524ea-bd70-4168-80da-d5ee3c4e43c3.png)
 
-![Results 2](https://user-images.githubusercontent.com/349454/195962348-f015686c-0753-458e-9af1-99d2fa901b2b.png)
+![Features 1](https://user-images.githubusercontent.com/349454/195964142-7b7885cd-72c2-4f4f-ad75-b0bd3217d0c2.png)
+
+![Features 2](https://user-images.githubusercontent.com/349454/195964143-9b10e12f-739d-4060-8a80-69477a3bdbbb.png)
+
+![Features 3](https://user-images.githubusercontent.com/349454/195964144-fec082e3-cb84-406f-a953-6c70b13602c4.png)
+
+![Features 4](https://user-images.githubusercontent.com/349454/195964145-fc535a32-2dcd-49e7-9507-123a385c3a98.png)
+
 
 ![Results 3](https://user-images.githubusercontent.com/349454/195963785-b5d33244-2b2b-4837-8a6c-aadb02e975d4.png)
+
 
 
 
@@ -302,14 +309,7 @@ Many times these screens are overlooked and not prioritized allowing for a fract
 
 Our solution was focused around displaying content the right way at the right time, improving the workflow, and prioritizing safety and attention for our drivers.
 
-![Features 1](https://user-images.githubusercontent.com/349454/195964142-7b7885cd-72c2-4f4f-ad75-b0bd3217d0c2.png)
-
-![Features 2](https://user-images.githubusercontent.com/349454/195964143-9b10e12f-739d-4060-8a80-69477a3bdbbb.png)
-
-![Features 3](https://user-images.githubusercontent.com/349454/195964144-fec082e3-cb84-406f-a953-6c70b13602c4.png)
-
-![Features 4](https://user-images.githubusercontent.com/349454/195964145-fc535a32-2dcd-49e7-9507-123a385c3a98.png)
-
+![Results 4](https://user-images.githubusercontent.com/349454/195964446-fb50e59f-1ee1-465a-b23f-e963d523c561.png)
 
 
 ### How might we manage and display our content to make it available offline, organized, and contained while dispatched on the job?
