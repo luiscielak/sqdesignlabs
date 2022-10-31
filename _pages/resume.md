@@ -12,12 +12,16 @@ featured_image: /images/social.jpg
 ## Education
 
 ###### Master of Science: Interactive Design & Media**
+
 _Thomas Jefferson University_
+
 **May 2014**
 
 
 ###### Bachelor of Science: Management Information Systems
+
 _Florida State University_
+
 **May 2008**
 
 
@@ -37,7 +41,7 @@ CSS, Sass, LESS, HTML, SQL, React, XML, D3js, PHP, JavaScript, Python, Processin
 
 ## Experience
 
-**Senior User Experience Designer**
+#### Senior User Experience Designer
 
 _Project Management Institute (PMI)_
 
@@ -46,15 +50,16 @@ _Project Management Institute (PMI)_
 Conduct workshops to identify user personas and requirements, transitioning them into conceptual designs and UX artifacts for use with user researchers, business stakeholders, and development teams. Translate business needs into design solutions by creating: information architectures, taxonomies, user journeys and flows, wireframes, and prototypes.
 
 
-**Design Consultant**
+#### Design Consultant
 
 _Near-Miss Management_
 
 **July 2013 - Present**
+
 Design the company’s flagship product, an interactive decision support system to visually represent process risk and alarm data in oil refineries aimed at achieving an increase of information transparency and a more comprehensive user experience. Meet with stakeholders regularly to assess and reassess client needs and improve product functionality and relevance to keep up with continuously evolving user needs.
 
 
-**Senior User Experience Designer**
+#### Senior User Experience Designer
 
 _Elsevier_
 
@@ -63,7 +68,7 @@ _Elsevier_
 Collaborate with UX researchers to conduct user interviews, gather feedback, and synthesize findings to improve a clinical trials product. Create data visualization concepts, wireframes and prototypes for a customer-facing oncology system to improve the standard level of patient care.
 
 
-**Senior User Experience Designer**
+#### Senior User Experience Designer
 
 _Vanguard_
 
@@ -72,7 +77,7 @@ _Vanguard_
 Plan, conduct, and lead white-boarding sessions, design sprints, workshops, and project meetings. Collaborate with internal teams to design the overall user experience for digital fintech systems and applications, including desktop and mobile. Prototype and iterate solutions based on user insight and feedback to better anticipate client needs.
 
 
-### UX Designer & UI Engineer
+#### UX Designer & UI Engineer
 
 _PromptWorks_
 
@@ -83,6 +88,7 @@ Interview clients and shadow in the field during normal business operations to a
 #### Adjunct Professor
 
 _Thomas Jefferson University_
+
 **August 2016 - June 2017**
 
 Taught the Essentials of Interactive Design and User Experience Design Thesis courses in the graduate User Experience and Interaction Design program. Mentored students and fostered educational growth through one-on-one meetings focused at improving quality of understanding concepts presented in class.
@@ -90,6 +96,7 @@ Taught the Essentials of Interactive Design and User Experience Design Thesis co
 #### Design Consultant
 
 _Mega Supply Pro_
+
 **June 2014 - June 2017**
 
 Lead design teams in analytics research that acquired data about current usage to inform and personalize product development Designed, implemented and maintained an e-commerce strategy with marketplaces in Shopify, Amazon and eBay.
@@ -97,6 +104,7 @@ Lead design teams in analytics research that acquired data about current usage t
 #### Design Consultant
 
 _Electronic Ink_
+
 **January 2013 - April 2013**
 
 Designed an operational modeling visualization for pharmaceutical regulatory reporting impacting the entire product line. Conceptualized and designed infographics conveying large datasets gathered during brainstorming sessions.
@@ -104,6 +112,7 @@ Designed an operational modeling visualization for pharmaceutical regulatory rep
 #### Business Management Associate
 
 _JPMorgan Chase & Co._
+
 **July 2009 - January 2013**
 
 Developed data visualization tools to streamline the financial reporting process and eliminate the need for printed artifacts. Optimized the department's reporting process by increasing information transparency and accountability.
@@ -111,6 +120,7 @@ Developed data visualization tools to streamline the financial reporting process
 #### Business Management Analyst
 
 _JPMorgan Chase & Co._
+
 **July 2008 - July 2009**
 
 Enhanced information reliability across systems by educating project managers on how to identify, remediate, and prevent data quality issues.
