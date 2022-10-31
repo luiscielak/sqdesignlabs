@@ -11,7 +11,7 @@ featured_image: /images/social.jpg
 
 ## Education
 
-###### Master of Science: Interactive Design & Media**
+###### Master of Science: Interactive Design & Media
 
 _Thomas Jefferson University_
 
@@ -74,7 +74,7 @@ _Vanguard_
 
 **November 2019 - April 2020**
 
-Plan, conduct, and lead white-boarding sessions, design sprints, workshops, and project meetings. Collaborate with internal teams to design the overall user experience for digital fintech systems and applications, including desktop and mobile. Prototype and iterate solutions based on user insight and feedback to better anticipate client needs.
+Planned, conducted, and led white-boarding sessions, and designed sprints, workshops, and project meetings. Collaborate with internal teams to create the overall user experience for digital fintech systems and applications, including desktop and mobile.  Prototyped and iterated solutions based on user insight and feedback to better anticipate client needs.
 
 
 #### UX Designer & UI Engineer
@@ -83,7 +83,7 @@ _PromptWorks_
 
 **July 2017 - November 2019**
 
-Interview clients and shadow in the field during normal business operations to assess needs and produce highly customized software. Collaborate with business analysts, engineers and project managers to estimate, design, test and implement intuitive, functional and elegant user interfaces for web and mobile applications. Create personas, user journeys, visualizations, story boards, task flows, wireframes, and prototypes to support the design, iteration and testing of features. Implement user-friendly and comprehensive design systems in HTML, CSS, React and React Native. Manage user experience and front-end development efforts to create an engaging experience for client projects and internal tools.
+Interviewed clients and shadowed in the field during normal business operations to assess needs and produce highly customized software. Collaborated with business analysts, engineers, and project managers to estimate, design, test, and implement intuitive, functional, and elegant user interfaces for web and mobile applications. Created personas, user journeys, visualizations, storyboards, task flows, wireframes, and prototypes to support the design, iteration, and testing of features. Implement user-friendly and comprehensive design systems in HTML, CSS, React and React Native. Managed user experience and front-end development efforts to create an engaging experience for client projects and internal tools.
 
 #### Adjunct Professor
 
@@ -91,7 +91,7 @@ _Thomas Jefferson University_
 
 **August 2016 - June 2017**
 
-Taught the Essentials of Interactive Design and User Experience Design Thesis courses in the graduate User Experience and Interaction Design program. Mentored students and fostered educational growth through one-on-one meetings focused at improving quality of understanding concepts presented in class.
+Taught the Essentials of Interactive Design and User Experience Design Thesis courses in the graduate User Experience and Interaction Design program. Mentored students and fostered educational growth through one-on-one meetings focused on improving the quality of understanding of concepts presented in class.
 
 #### Design Consultant
 
