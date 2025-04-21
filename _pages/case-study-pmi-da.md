@@ -7,6 +7,11 @@ featured_image: /images/case-studies/case-study-01.png
 
 <img width="712" alt="Screen Shot 2022-09-26 at 3 43 07 PM" src="https://user-images.githubusercontent.com/349454/192366593-7e238555-ed61-48b2-ae37-d66d388931fe.png">
 
+
+## TL;DR
+A mobile-first learning and reference tool for PMI’s Disciplined Agile framework, designed from scratch and launched as an MVP. Resulted in adoption by Agile coaches worldwide and is now the design foundation for 3+ additional PMI projects.
+
+
 ## Results
 
 **We successfully launched 6 months later an MVP (Minimal Viable Product) that will serve as the backbone for all future mobile projects at PMI.**
