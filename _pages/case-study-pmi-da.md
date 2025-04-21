@@ -9,7 +9,11 @@ featured_image: /images/case-studies/case-study-01.png
 
 
 ## TL;DR
-A mobile-first learning and reference tool for PMI’s Disciplined Agile framework, designed from scratch and launched as an MVP. Resulted in adoption by Agile coaches worldwide and is now the design foundation for 3+ additional PMI projects.
+A mobile-first experience for PMI’s Disciplined Agile Toolkit, designed to support real-time learning, coaching, and collaboration — and built with a modular system later extended across multiple PMI platforms.
+
+- Led UX for a mobile-first Progressive Web App used by Agile coaches and learners
+- Designed decision trees, modular content cards, and share features for real-time use
+- Delivered MVP in under 6 months; design framework was scaled across 3+ PMI tools
 
 
 ## Results

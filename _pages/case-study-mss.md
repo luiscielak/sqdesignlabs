@@ -6,6 +6,15 @@ featured_image: /images/case-studies/case-study-02.png
 ---
 ![Screen Shot 2022-09-26 at 6 59 13 PM](https://user-images.githubusercontent.com/349454/192395399-9483480f-6788-4b31-89e1-d0f829359bb4.png)
 
+## TL;DR
+
+A workflow platform redesign that streamlined MSS’s specialty moving operations — connecting dispatchers, coordinators, and vendors through clearer job visibility, smarter workflows, and self-service tools.
+
+- Redesigned a fragmented workflow platform for MSS’s specialty logistics operations
+- Built self-service tools for vendors and dashboards tailored to dispatch and coordination roles
+- Reduced manual follow-ups and improved onboarding speed for internal and external users
+
+
 ## Results
 **The new app is a great way for customers and technicians to share progress and document a move.**
 
